@@ -1,0 +1,172 @@
+footer.bottom-menu{
+	column-gap:var(--spacing-8);
+	display:grid;
+	grid-template-columns:repeat(12, 1fr);
+	margin:0 auto;
+	max-width:1240px;
+	padding:var(--spacing-12) var(--default-padding)
+}
+footer.bottom-menu .heavy{
+	color:var(--color-copy-primary);
+	font:var(--font-copy-md-bold)
+}
+footer.bottom-menu .light{
+	color:var(--color-copy-secondary);
+	font:var(--font-copy-sm)
+}
+footer.bottom-menu a{
+	text-decoration:none
+}
+footer.bottom-menu .mobile-links{
+	display:none
+}
+footer.bottom-menu .info-group{
+	display:flex;
+	flex-direction:column;
+	grid-column:1 /  5
+}
+footer.bottom-menu .info-group .mlogo{
+	--width:144px;
+	--height:48px;
+	display:block
+}
+footer.bottom-menu .info-group .slogan{
+	margin:var(--spacing-7) 0 var(--spacing-5)
+}
+footer.bottom-menu .info-group .copyright{
+	margin-top:var(--spacing-3)
+}
+footer.bottom-menu .info-group .social-heading{
+	font:var(--font-copy-sm-bold);
+	margin:var(--spacing-10) 0 var(--spacing-5)
+}
+footer.bottom-menu .info-group .social{
+	display:flex;
+	flex-wrap:wrap
+}
+footer.bottom-menu .info-group .social .bottom-social-button{
+	background-color:var(--color-grey-100);
+	border-radius:6px;
+	cursor:pointer;
+	display:block;
+	margin-bottom:var(--spacing-5);
+	margin-inline-end:var(--spacing-5)
+}
+footer.bottom-menu .info-group .social .bottom-social-button:hover{
+	background-color:var(--color-grey-150)
+}
+footer.bottom-menu .info-group .social .bottom-social-button i{
+	--icon-size:36px
+}
+footer.bottom-menu .link-farm{
+	column-gap:var(--spacing-8);
+	display:grid;
+	grid-column:-9 /  -1;
+	grid-template-columns:repeat(8, 1fr)
+}
+footer.bottom-menu .link-farm .column{
+	grid-column:span 2
+}
+footer.bottom-menu .link-farm .block,footer.bottom-menu .link-farm .column{
+	display:flex;
+	flex-direction:column
+}
+footer.bottom-menu .link-farm .block:not(:last-child){
+	margin-bottom:var(--spacing-8)
+}
+footer.bottom-menu .link-farm .block span.heavy{
+	margin-bottom:var(--spacing-5)
+}
+footer.bottom-menu .link-farm .block .links{
+	display:flex;
+	flex-direction:column
+}
+footer.bottom-menu .link-farm .block a{
+	margin-inline-end:var(--spacing-2)
+}
+footer.bottom-menu .link-farm .block a:not(:last-child){
+	margin-bottom:var(--spacing-4)
+}
+@media screen and (min-width:768px) and (max-width:1080px){
+footer.bottom-menu,footer.bottom-menu .link-farm{
+	column-gap:var(--spacing-7)
+}
+footer.bottom-menu .info-group .slogan{
+	margin:var(--spacing-7) 0 var(--spacing-5)
+}
+footer.bottom-menu .info-group .social-heading{
+	margin:48px 0 var(--spacing-5)
+}
+}
+@media screen and (min-width:0) and (max-width:768px){
+footer.bottom-menu{
+	grid-template-columns:repeat(4, 1fr);
+	row-gap:var(--spacing-10)
+}
+footer.bottom-menu .mobile-links{
+	display:block;
+	grid-column:1 /  -1
+}
+footer.bottom-menu .mobile-links hr{
+	border:1px solid var(--color-grey-100);
+	margin:0
+}
+footer.bottom-menu .accordion .accordion-toggle{
+	align-items:center;
+	cursor:pointer;
+	display:flex;
+	flex-wrap:nowrap;
+	justify-content:space-between;
+	padding:var(--spacing-5) 0
+}
+footer.bottom-menu .accordion .accordion-toggle .icon{
+	--icon-size:24px;
+	--mask-color:var(--color-copy-primary)
+}
+footer.bottom-menu .accordion .accordion-toggle .minus{
+	display:none
+}
+footer.bottom-menu .accordion .accordion-content{
+	display:flex;
+	flex-direction:column;
+	padding-right:var(--spacing-2)
+}
+footer.bottom-menu .accordion .accordion-content a{
+	font:var(--font-caption-lg);
+	margin-bottom:var(--spacing-5)
+}
+footer.bottom-menu .accordion.expanded .accordion-content{
+	padding-bottom:var(--spacing-5);
+	padding-top:var(--spacing-5)
+}
+footer.bottom-menu .accordion.expanded .accordion-toggle .plus{
+	display:none
+}
+footer.bottom-menu .accordion.expanded .accordion-toggle .minus{
+	display:block
+}
+footer.bottom-menu .info-group{
+	align-items:center;
+	grid-column:1 /  -1
+}
+footer.bottom-menu .info-group span,footer.bottom-menu .info-group strong{
+	text-align:center
+}
+footer.bottom-menu .info-group .social{
+	justify-content:center
+}
+footer.bottom-menu .link-farm{
+	display:none
+}
+footer.bottom-menu .info-group .slogan{
+	margin:var(--spacing-6) 0 var(--spacing-4)
+}
+footer.bottom-menu .info-group .social-heading{
+	margin:var(--spacing-9) 0 var(--spacing-4)
+}
+}
+@media screen and (min-width:0) and (max-width:320px){
+footer.bottom-menu .info-group .slogan{
+	margin:var(--spacing-5) 0 var(--spacing-4)
+}
+}

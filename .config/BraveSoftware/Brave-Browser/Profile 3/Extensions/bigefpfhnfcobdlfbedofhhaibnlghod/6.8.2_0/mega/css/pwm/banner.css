@@ -1,0 +1,102 @@
+.rack.banner-rack{
+	align-items:center;
+	flex-flow:column-reverse nowrap;
+	place-content:center center
+}
+.pm.mega-component.banner{
+	align-items:flex-start;
+	box-sizing:border-box;
+	color:var(--mobile-text-primary);
+	display:flex;
+	flex-flow:row nowrap;
+	font:var(--mobile-font-caption-small-regular);
+	overflow:hidden;
+	padding:24px;
+	place-content:center space-between;
+	top:0;
+	transition:top 1s ease-in;
+	width:100%
+}
+.pm.mega-component.banner>:not(:last-child){
+	margin-inline-end:8px
+}
+.pm.mega-component.advertisement>:not(:last-child){
+	margin-inline-end:16px
+}
+.pm.mega-component.banner,.pm.mega-component.banner.alert{
+	border-radius:0
+}
+.pm.mega-component.banner.inline{
+	border-radius:var(--mobile-border-radius-medium);
+	overflow:initial
+}
+.pm.mega-component.banner .content-box{
+	align-items:flex-start;
+	display:flex;
+	flex-flow:column nowrap;
+	margin-inline-end:auto;
+	order:5
+}
+.pm.mega-component.banner .end-box{
+	align-items:flex-end;
+	display:flex;
+	flex-flow:column nowrap;
+	order:10;
+	place-content:center center
+}
+.pm.mega-component.banner .button.icon-only{
+	margin-left:auto;
+	order:1;
+	padding:0;
+	place-self:flex-start flex-end
+}
+.pm.mega-component.banner .button.action-link .primary-text,.pm.mega-component.banner .link.action-link .primary-text,.pm.mega-component.banner .message-text .clickurl{
+	color:var(--mobile-link-primary);
+	font:var(--mobile-font-copy-semibold);
+	text-decoration:underline
+}
+.pm.mega-component.banner .title-text{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-heading-h3)
+}
+.pm.mega-component.banner .message-text{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-copy-regular)
+}
+.pm.mega-component.banner .banner.left-icon.icon-size-24{
+	--icon-size:24px
+}
+.pm.mega-component.banner .banner.left-icon.icon-size-48{
+	--icon-size:48px
+}
+.pm.mega-component.banner .banner.left-icon{
+	--icon-size:24px;
+	color:var(--icon-color);
+	order:1
+}
+.pm.mega-component.banner .banner.right-icon{
+	--icon-size:96px;
+	grid-area:right-icon;
+	order:10;
+	place-self:center flex-end
+}
+.pm.mega-component.banner,.pm.mega-component.banner.info{
+	--icon-color:var(--mobile-support-info);
+	background-color:var(--mobile-notification-info)
+}
+.pm.mega-component.banner.success{
+	--icon-color:var(--mobile-support-success);
+	background-color:var(--mobile-notification-success)
+}
+.pm.mega-component.banner.warning{
+	--icon-color:var(--mobile-support-warning);
+	background-color:var(--mobile-notification-warning)
+}
+.pm.mega-component.banner.error{
+	--icon-color:var(--mobile-support-error);
+	background-color:var(--mobile-notification-error)
+}
+.pm.mega-component.banner.advertisement{
+	--icon-color:var(--mobile-support-info);
+	background-color:var(--mobile-surface-2)
+}

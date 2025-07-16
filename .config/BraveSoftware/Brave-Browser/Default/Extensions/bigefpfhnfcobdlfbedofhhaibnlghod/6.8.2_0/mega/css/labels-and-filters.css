@@ -1,0 +1,132 @@
+
+.colour-label-ind,.colour-label td.label:before{
+	background-color:var(--label-grey);
+	border-radius:100%;
+	content:"";
+	display:block;
+	height:8px;
+	width:8px
+}
+.colour-label td.label:before{
+	display:inline-block;
+	margin:4px 6px 6px;
+	vertical-align:middle
+}
+.colour-label-ind.red,.colour-label.red td.label:before{
+	background-color:var(--label-red)
+}
+.colour-label-ind.orange,.colour-label.orange td.label:before{
+	background-color:var(--label-orange)
+}
+.colour-label-ind.yellow,.colour-label.yellow td.label:before{
+	background-color:var(--label-yellow)
+}
+.colour-label-ind.green,.colour-label.green td.label:before{
+	background-color:var(--label-green)
+}
+.colour-label-ind.blue,.colour-label.blue td.label:before{
+	background-color:var(--label-blue)
+}
+.colour-label-ind.purple,.colour-label.purple td.label:before{
+	background-color:var(--label-purple)
+}
+.active-folder-link .colour-label-ind,.active-folder-link .colour-label td.label:before{
+	display:none
+}
+.nw-fm-tree-item .colour-label-ind{
+	display:inline-block;
+	margin:8px 6px;
+	vertical-align:middle
+}
+.nw-fm-tree-item:not(.linked):not(.on-gallery) .colour-label-ind{
+	margin-inline-end:33px
+}
+.rtl .nw-fm-tree-item .colour-label-ind{
+	left:36px;
+	right:auto
+}
+.nw-fm-tree-item.hovered .colour-label-ind,.nw-fm-tree-item.selected .colour-label-ind,.nw-fm-tree-item:hover .colour-label-ind{
+	box-shadow:0 0 0 1px var(--stroke-main)
+}
+.nw-fm-tree-item.linked.on-gallery .colour-label-ind{
+	right:70px
+}
+.nw-fm-tree-item.label{
+	padding-inline-end:46px
+}
+.colour-label .file-block-title{
+	padding-inline-end:18px
+}
+.colour-label .shared-folder-info-block{
+	padding-inline-end:12px;
+	position:relative
+}
+.data-block-view.colour-label .shared-folder-info-block{
+	padding-inline-end:18px;
+	position:relative
+}
+.data-block-view.colour-label .shared-folder-info-block:after{
+	right:6px;
+	top:24px
+}
+.rtl .data-block-view.colour-label .shared-folder-info-block:after{
+	left:6px;
+	right:auto
+}
+.colour-label .tranfer-filetype-txt{
+	padding-inline-end:24px
+}
+.data-block-view.colour-label .tranfer-filetype-txt{
+	padding-inline-end:12px
+}
+.filter-block.body,.filter-block.tree{
+	background-color:var(--stroke-grey-3);
+	border-radius:4px;
+	box-shadow:inset 0 0 0 1px rgba(0, 0, 0, .1);
+	color:var(--text-color-high);
+	float:right;
+	font-size:0;
+	height:20px;
+	margin:8px 0 0;
+	padding:0;
+	padding-inline-end:38px;
+	padding-inline-start:7px;
+	position:relative;
+	white-space:nowrap
+}
+.filter-block.tree{
+	margin-inline-end:5px;
+	margin-top:0
+}
+.filter-block.body *,.filter-block.tree *{
+	display:inline-block;
+	vertical-align:top
+}
+.filter-block.info{
+	font-size:12px;
+	line-height:19px;
+	padding:0 2px 0 0
+}
+.filter-block .colour-label-ind{
+	margin:6px 0 0 6px;
+	position:static
+}
+.filter-block.close{
+	cursor:pointer;
+	margin:2px;
+	position:absolute;
+	right:0;
+	top:0
+}
+.filter-block.close i{
+	--icon-size:16px;
+	--mask-color:var(--icon-rest);
+	transition:var(--transition-color)
+}
+.filter-block.close:hover i{
+	--mask-color:var(--icon-active)
+}
+.fm-right-header .filter-block.body{
+	margin:14px 0 0;
+	margin-inline-end:5px
+}

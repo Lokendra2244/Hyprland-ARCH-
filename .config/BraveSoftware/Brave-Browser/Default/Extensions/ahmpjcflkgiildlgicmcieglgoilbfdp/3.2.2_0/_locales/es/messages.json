@@ -1,0 +1,146 @@
+{
+   "addingAfterCancelFailed": {
+      "description": "Message to display if user hit Cancel in FDM and adding to browser is failed",
+      "message": "El navegador rechazó la descarga. Puede intentar descargar nuevamente con el navegador haciendo clic en el enlace de descarga otra vez"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Integración de Free Download Manager con el navegador"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Free Download Manager"
+   },
+   "appShortName": {
+      "description": "Short name of the application, displayed in appropriate contexts.",
+      "message": "FDM"
+   },
+   "consent_agree": {
+      "description": "Agree button text",
+      "message": "Aceptar la recopilación de datos anónimos"
+   },
+   "consent_decline": {
+      "description": "Decline button text",
+      "message": "Rechazar la recopilación de datos anónimos"
+   },
+   "consent_text": {
+      "description": "Privacy consent text with policy link",
+      "message": "\u003Cp>Free Download Manager no recopila ni comparte públicamente ni con terceros ninguna información de identificación personal.\u003C/p>\u003Cp>Cuando un navegador inicia una descarga, la extensión Free Download Manager utiliza solo los datos necesarios para descargar este archivo de este sitio web en particular. Estos datos son necesarios para iniciar o reanudar la descarga, o programar esta descarga en Free Download Manager. Los datos pueden incluir URL, dirección de Internet, cookies, parámetros de consulta, datos de publicación, es decir, todos los datos que el navegador envía al servidor al solicitar el archivo.\u003C/p>\u003Cp>Estos datos se utilizan solo en la computadora local para iniciar la descarga.\u003C/p>\u003Cp>Si elige no permitirnos recopilar datos anónimos, la extensión FDM se eliminará inmediatamente de su navegador.\u003C/p>\u003Cp>Los detalles completos sobre los datos anónimos que recopilamos y lo que hacemos con ellos se proporcionan en nuestra \u003Ca class='privacy_link' href='https://www.freedownloadmanager.org/privacy.htm' target='_blank'>Política de privacidad\u003C/a>.\u003C/p>"
+   },
+   "consent_title": {
+      "description": "Privacy consent page title",
+      "message": "Privacidad de la extensión FDM"
+   },
+   "dlbyfdm": {
+      "description": "Download button for video",
+      "message": "Descargar con FDM"
+   },
+   "installCorrupted": {
+      "description": "Message on corrupted FDM installation.",
+      "message": "La instalación de Free Download Manager está dañada. Por favor, reinstálelo."
+   },
+   "installMissing": {
+      "description": "Message on missing FDM installation.",
+      "message": "No se encontró la instalación de Free Download Manager. Por favor, instálelo."
+   },
+   "installUnknownError": {
+      "description": "Message on unknown error with FDM installation.",
+      "message": "Error desconocido. Por favor, reinstale Free Download Manager."
+   },
+   "install_action": {
+      "description": "Install",
+      "message": "Instalar"
+   },
+   "install_free_save": {
+      "description": "It's fast, free and safe.",
+      "message": "Es rápido, gratuito y seguro."
+   },
+   "install_set_up_fdm": {
+      "description": "To use it, please set up Free Download Manager. \u003Cbr /> It's available for Windows and Mac.",
+      "message": "Para usarla, por favor instale Free Download Manager. \u003Cbr /> Disponible para Windows y Mac."
+   },
+   "install_successfully": {
+      "description": "FDM extension successfully installed",
+      "message": "La extensión FDM se ha instalado correctamente"
+   },
+   "menuAll": {
+      "description": "Context menu item for pages",
+      "message": "Descargar todo con Free Download Manager"
+   },
+   "menuChannelVideos": {
+      "description": "Context menu item for channel videos",
+      "message": "Descargar videos del canal con Free Download Manager"
+   },
+   "menuChannelVideosShort": {
+      "description": "Context menu item for channel videos",
+      "message": "Descargar videos del canal"
+   },
+   "menuPlaylistVideosShort": {
+      "description": "Context menu item for playlist videos",
+      "message": "Descargar videos de la lista"
+   },
+   "menuSelected": {
+      "description": "Context menu item for selection",
+      "message": "Descargar selección con Free Download Manager"
+   },
+   "menuSite": {
+      "description": "Context menu item for site",
+      "message": "Descargar sitio web con Free Download Manager"
+   },
+   "menuThis": {
+      "description": "Context menu item for links and images",
+      "message": "Descargar con Free Download Manager"
+   },
+   "menuVideo": {
+      "description": "Context menu item for videos",
+      "message": "Descargar video con Free Download Manager"
+   },
+   "menuVideoShort": {
+      "description": "Context menu item for videos",
+      "message": "Descargar video"
+   },
+   "section_consent_start": {
+      "description": "=== CONSENT PAGE START ===",
+      "message": "."
+   },
+   "section_context_menu": {
+      "description": "=== CONTEXT MENU START ===",
+      "message": "."
+   },
+   "section_install_start": {
+      "description": "=== INSTALL PAGE START ===",
+      "message": "."
+   },
+   "section_service_messages_start": {
+      "description": "=== SERVICE MESSAGES START ===",
+      "message": "."
+   },
+   "section_settings_start": {
+      "description": "=== SETTINGS PAGE START ===",
+      "message": "."
+   },
+   "settings_dont_catch_downloads": {
+      "description": "Don't catch downloads option",
+      "message": "No capturar descargas de este sitio"
+   },
+   "settings_help_and_feedback": {
+      "description": "Help and Feedback",
+      "message": "Ayuda y comentarios"
+   },
+   "settings_loading": {
+      "description": "Loading...",
+      "message": "Loading..."
+   },
+   "settings_options": {
+      "description": "Options",
+      "message": "Opciones"
+   },
+   "settings_pause_downloads": {
+      "description": "Pause to catch downloads option",
+      "message": "Pausar la captura de descargas de todos los sitios"
+   },
+   "settings_update_message": {
+      "description": "Message about updating FDM",
+      "message": "La configuración no está disponible para su versión de FDM.\u003Cbr />Por favor, \u003Ca href='https://www.freedownloadmanager.org/download.htm' target='_blank'>actualice\u003C/a> el programa."
+   }
+}

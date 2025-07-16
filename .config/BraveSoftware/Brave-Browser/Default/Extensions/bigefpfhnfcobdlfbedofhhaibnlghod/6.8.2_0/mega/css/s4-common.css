@@ -1,0 +1,145 @@
+.rtl .s4-bucket-block,.rtl .s4-container-block,.rtl .s4-details-section,.rtl .s4-info-section .info-section-header,.rtl .s4-tabs-bl{
+	direction:rtl
+}
+.s4-details-section .js-selectable-text,.s4-info-header-blocks .js-selectable-text{
+	cursor:text;
+	-webkit-user-select:text
+}
+.s4-info-header-blocks{
+	transition:.2s linear
+}
+.bucket-details-info,.container-details-info{
+	background:var(--surface-grey-1);
+	border-top:1px solid var(--surface-grey-2);
+	box-sizing:border-box;
+	height:129px;
+	position:relative
+}
+.files-grid-view.active-header,.fm-blocks-view.active-header{
+	border-color:transparent
+}
+.files-grid-view.active-header{
+	height:calc(100% - 7px);
+	margin-top:7px
+}
+.container-details-info{
+	height:156px
+}
+.container-details-info .content{
+	padding:24px 48px;
+	position:relative
+}
+.container-details-info .bkt-container-name{
+	color:var(--text-color-high);
+	font:var(--text-h2-bold)
+}
+.container-details-info .bkt-container-domain{
+	display:flex;
+	margin-top:24px;
+	position:relative
+}
+.container-details-info .domain-title{
+	color:var(--text-color-high);
+	font:var(--text-body1-bold)
+}
+.container-details-info .domain-value{
+	color:var(--text-color-low);
+	font:var(--text-body1);
+	margin-inline-start:24px
+}
+.container-details-info .domain-value .info{
+	margin-top:8px
+}
+.container-details-info .domain-value .learn-more{
+	color:var(--secondary-blue);
+	cursor:pointer;
+	margin-inline-start:8px
+}
+.bucket-details-info .content{
+	box-sizing:border-box;
+	padding:16px 24px;
+	position:relative
+}
+.bucket-details-info .bucket-details-icon{
+	--icon-size:96px;
+	display:inline-block;
+	flex-shrink:0;
+	vertical-align:middle
+}
+.bucket-details-info .bucket-details-info-block{
+	align-items:center;
+	display:inline-flex;
+	flex-wrap:nowrap;
+	vertical-align:middle;
+	width:100%
+}
+.bucket-details-info .bucket-details-pad{
+	margin-inline-start:8px;
+	overflow:hidden;
+	position:relative
+}
+.bucket-details-pad div .avatar-wrapper{
+	display:inline-block;
+	float:none;
+	margin:0;
+	vertical-align:middle
+}
+.bucket-details-pad .bucket-details-user-info{
+	display:inline-block;
+	margin-inline-start:4px;
+	vertical-align:middle
+}
+.bucket-details-pad .bucket-details-name{
+	color:var(--text-color-high);
+	display:inline-block;
+	font:var(--text-h2);
+	overflow:hidden;
+	padding-inline-end:16px;
+	text-overflow:ellipsis;
+	vertical-align:middle;
+	white-space:nowrap
+}
+.bucket-details-pad .bucket-domain{
+	color:var(--text-color-low);
+	font:var(--text-body1);
+	margin-top:8px;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap
+}
+.bucket-details-buttons .bkt-settings-btn{
+	margin-right:4px
+}
+.bucket-details-buttons{
+	display:flex;
+	flex-wrap:nowrap;
+	margin-inline-start:auto;
+	margin-top:24px
+}
+.bucket-access-warning.fm-notification-block{
+	background-color:var(--mobile-notification-info);
+	border-radius:0;
+	color:var(--mobile-text-primary);
+	display:block;
+	padding:12px 24px
+}
+.bucket-access-warning.fm-notification-block a,.bucket-access-warning.fm-notification-block a:link,.bucket-access-warning.fm-notification-block a:visited{
+	color:var(--mobile-text-primary)
+}
+.dark-direct-tooltip.simpletip-tooltip.bucket-settings{
+	max-width:240px
+}
+.dark-direct-tooltip.simpletip-tooltip.bucket-settings.managed{
+	max-width:370px
+}
+.dark-direct-tooltip.bucket-settings:visited,.dark-direct-tooltip.bucket-settings a,.dark-direct-tooltip.bucket-settings a:link{
+	text-decoration:underline
+}
+.dark-direct-tooltip.bucket-settings:before{
+	content:"";
+	height:20px;
+	left:0;
+	position:absolute;
+	top:100%;
+	width:100%
+}

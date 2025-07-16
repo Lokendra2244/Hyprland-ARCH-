@@ -1,0 +1,12 @@
+2025-07-16 00:34:59.608 [info] Extension host with pid 1043641 started
+2025-07-16 00:34:59.608 [info] Skipping acquiring lock for /home/AMBHI/.config/Code/User/workspaceStorage/5a84a370e9fdb7cadaba5a4ad3e3f87a.
+2025-07-16 00:34:59.662 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-16 00:34:59.700 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-16 00:35:00.013 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-16 00:35:00.231 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-16 00:35:00.551 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-16 00:35:00.768 [info] Eager extensions activated
+2025-07-16 00:35:00.781 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-16 00:35:00.785 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-16 00:35:27.893 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-16 00:35:27.906 [info] Extension host with pid 1043641 exiting with code 0

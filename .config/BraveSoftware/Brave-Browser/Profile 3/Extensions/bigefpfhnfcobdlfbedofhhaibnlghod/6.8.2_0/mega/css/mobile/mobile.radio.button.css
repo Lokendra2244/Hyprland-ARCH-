@@ -1,0 +1,109 @@
+
+.mega-radio-button{
+	box-sizing:border-box;
+	display:flex;
+	flex-direction:column;
+	padding:12px 0;
+	width:100%
+}
+.mega-radio-button .button-and-labels{
+	align-items:center;
+	display:flex;
+	flex-direction:row
+}
+.mega-radio-button.disabled{
+	color:var(--mobile-text-disabled);
+	opacity:1
+}
+.mega-radio-button.disabled>:not(.disabled-reason){
+	opacity:.5
+}
+.mega-radio-button.align-right .button-and-labels{
+	flex-direction:row-reverse
+}
+.mega-radio-button.align-right .radio-wrapper{
+	margin-inline-end:0;
+	margin-inline-start:auto
+}
+.mega-radio-button .label-wrapper{
+	display:flex;
+	flex-direction:row
+}
+.mega-radio-button .label-and-sublabel{
+	display:flex;
+	flex-direction:column
+}
+.mega-radio-button .disabled-reason,.mega-radio-button .radio-sublabel{
+	color:var(--mobile-text-secondary);
+	font:var(--mobile-font-caption-large-regular)
+}
+.mega-radio-button .disabled-reason{
+	margin:8px 0 0 37px
+}
+.mega-radio-button .radio-wrapper{
+	background:var(--mobile-icon-inverse);
+	border:1px solid var(--mobile-selection-control);
+	border-radius:var(--mobile-border-radius-circle);
+	flex:none;
+	flex-grow:0;
+	height:20px;
+	margin-inline-end:16px;
+	order:0;
+	position:relative;
+	width:20px
+}
+.mega-radio-button.disabled .radio-wrapper{
+	border:1px solid var(--mobile-border-disabled)
+}
+.mega-radio-button.on .radio-wrapper:after{
+	background:var(--mobile-selection-control);
+	border-radius:var(--mobile-border-radius-circle);
+	content:"";
+	height:10px;
+	left:50%;
+	position:absolute;
+	top:50%;
+	transform:translate(-50%, -50%);
+	width:10px
+}
+.mega-radio-button input{
+	cursor:pointer;
+	margin:0;
+	opacity:0
+}
+.mega-radio-button .radio-action{
+	color:var(--mobile-text-primary);
+	flex:none;
+	height:auto
+}
+.mega-radio-button .radio-action[for^=labels-]:before{
+	border-radius:100%;
+	content:"";
+	display:inline-block;
+	height:16px;
+	margin-bottom:3px;
+	margin-inline-end:16px;
+	vertical-align:middle;
+	width:16px
+}
+.mega-radio-button .radio-action[for=labels-1]:before{
+	background-color:var(--label-red)
+}
+.mega-radio-button .radio-action[for=labels-2]:before{
+	background-color:var(--label-orange)
+}
+.mega-radio-button .radio-action[for=labels-3]:before{
+	background-color:var(--label-yellow)
+}
+.mega-radio-button .radio-action[for=labels-4]:before{
+	background-color:var(--label-green)
+}
+.mega-radio-button .radio-action[for=labels-5]:before{
+	background-color:var(--label-blue)
+}
+.mega-radio-button .radio-action[for=labels-6]:before{
+	background-color:var(--label-purple)
+}
+.mega-radio-button .radio-action[for=labels-7]:before{
+	background-color:var(--label-grey)
+}

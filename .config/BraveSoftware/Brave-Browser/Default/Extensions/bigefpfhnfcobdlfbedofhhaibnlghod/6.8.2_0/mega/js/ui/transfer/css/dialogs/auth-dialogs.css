@@ -1,0 +1,99 @@
+.it-dialog.auth-dialog{
+	max-width:50%;
+	width:100%
+}
+.it-dialog.auth-dialog .icon-size-32{
+	--icon-size:32px
+}
+.it-dialog.auth-dialog>.body>.content{
+	justify-content:center
+}
+.it-dialog.auth-dialog .scroll-area>.content-body{
+	align-items:center;
+	display:flex;
+	flex-direction:column;
+	margin:0 auto;
+	max-width:496px;
+	overflow:hidden;
+	overflow-y:auto;
+	padding:0 24px
+}
+.it-dialog.auth-dialog .it-logo{
+	background-size:auto 64px;	
+	height:64px;
+	margin:0 0 48px;
+	width:64px
+}
+.it-dialog.auth-dialog p{
+	font:var(--text-caption-lg);
+	margin:12px 0 24px;
+	text-align:center
+}
+.it-dialog.auth-dialog .scroll-area{
+	margin:24px 0
+}
+.it-dialog.auth-dialog form{
+	gap:16px;
+	display:grid;
+	margin:48px 0 0;
+	width:100%
+}
+.it-dialog.auth-dialog .bottom-info{
+	font:var(--text-caption-lg);
+	margin:8px 0 0;
+	text-align:center
+}
+.it-dialog.auth-dialog .bottom-info a.link,.it-dialog.auth-dialog .bottom-info a.link:visited{
+	color:var(--main-neutral-secondary)
+}
+.it-dialog.auth-dialog .bottom-info a.link.strong,.it-dialog.auth-dialog .bottom-info a.link.strong:visited{
+	color:var(--main-neutral-primary);
+	font-weight:700
+}
+.it-dialog.auth-dialog .two-fa-cn{
+	position:relative
+}
+.it-dialog.auth-dialog .two-fa-cn .content-body{
+	max-width:424px
+}
+.it-dialog.auth-dialog .two-fa-cn .back-btn{
+	left:0;
+	margin:0;
+	position:absolute;
+	top:0
+}
+.rtl .it-dialog.auth-dialog .two-fa-cn .back-btn{
+	left:auto;
+	right:0
+}
+.it-dialog.auth-dialog .two-fa-cn .multiple-inputs{
+	display:flex
+}
+.it-dialog.auth-dialog .two-fa-cn .multiple-inputs .input-box,.it-dialog.auth-dialog .two-fa-cn .multiple-inputs input{
+	padding-left:0;
+	padding-right:0
+}
+.it-dialog.auth-dialog .two-fa-cn .error-text{
+	color:var(--supportive-error);
+	font:var(--text-btn-lg);
+	text-align:center
+}
+.it-dialog.auth-dialog .two-fa-cn .it-input input{
+	text-align:center
+}
+.it-dialog.auth-dialog .two-fa-cn .it-input+.it-input{
+	margin-inline-start:8px
+}
+@media only screen and (max-width:960px){
+.it-dialog.auth-dialog{
+	max-width:500px
+}
+.it-dialog.auth-dialog>.body{
+	padding:24px 6px
+}
+.it-dialog.auth-dialog .scroll-area>.content-body{
+	max-width:448px;
+	padding:0 18px
+}
+}
+

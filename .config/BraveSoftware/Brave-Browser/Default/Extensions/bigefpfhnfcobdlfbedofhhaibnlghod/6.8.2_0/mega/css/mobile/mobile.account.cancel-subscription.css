@@ -1,0 +1,106 @@
+
+.cancel-subscription-page{
+	max-width:var(--mobile-page-max-width);
+	padding:0 24px
+}
+.cancel-subscription-page>*{
+	font:var(--mobile-font-copy-regular)
+}
+.cancel-subscription-page .cancel-sub-warnings{
+	display:flex;
+	flex-direction:column
+}
+.cancel-subscription-page .buttons-container>:not(:last-child),.cancel-subscription-page .cancel-sub-warnings>*{
+	margin-bottom:16px
+}
+.cancel-subscription-page .features-table{
+	border:2px solid var(--surface-grey-2);
+	border-radius:12px;
+	color:var(--text-color-high);
+	overflow:hidden
+}
+.cancel-subscription-page .features-table .ft-header{
+	align-items:center;
+	background-color:var(--surface-grey-2);
+	min-height:38px
+}
+.cancel-subscription-page .features-table .ft-header,.cancel-subscription-page .features-table .ft-rows{
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+	padding:0 24px
+}
+.cancel-subscription-page .features-table .ft-header>:not(:first-child),.cancel-subscription-page .features-table .ft-rows .row-item.center{
+	justify-self:center;
+	text-align:center
+}
+.cancel-subscription-page .features-table .ft-rows .row-item{
+	align-items:center;
+	display:flex;
+	font:var(--mobile-font-caption-large-regular);
+	min-height:32px
+}
+.cancel-subscription-page .features-table .ft-rows .row-item.feature{
+	justify-content:flex-start
+}
+.cancel-subscription-page .features-table .ft-rows .row-item.plan i{
+	color:var(--secondary-green);
+	font-weight:var(--mobile-font-weight-semibold)
+}
+.cancel-subscription-page .features-table .ft-rows .row-item.no-plan i{
+	color:var(--secondary-red);
+	font-weight:var(--mobile-font-weight-semibold)
+}
+.cancel-subscription-page .features-table .ft-rows .ft-row-separator{
+	border-top:2px solid var(--surface-grey-2);
+	grid-column:1 /  4
+}
+.cancel-subscription-page .cancel-sub-result{
+	color:var(--mobile-text-secondary)
+}
+.cancel-subscription-page .email-consent-prompt{
+	margin:16px 0
+}
+.cancel-subscription-page .cancel-sub-prompt,.cancel-subscription-page .email-consent-prompt,.cancel-subscription-page .select-subscription{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-heading-h3)
+}
+.cancel-subscription-page .cancel-sub-prompt.top{
+	font:var(--mobile-font-heading-h1);
+	order:-1
+}
+.cancel-subscription-page .select-subscription{
+	margin-bottom:12px
+}
+.cancel-subscription-page .mega-component.banner{
+	max-width:var(--mobile-elem-max-width)
+}
+.cancel-subscription-page .buttons-container{
+	display:flex;
+	flex-direction:column;
+	padding:24px 0;
+	width:100%
+}
+.cancel-subscription-page .buttons-container>*{
+	height:48px;
+	max-width:var(--mobile-elem-max-width)
+}
+.cancel-subscription-page .buttons-container button.nav-elem span{
+	font-weight:var(--mobile-font-weight-semibold)
+}
+.cancel-subscription-page .mega-radio-button:not(.disabled) .radio-wrapper{
+	background:none
+}
+.cancel-subscription-page .mega-radio-button .radio-action{
+	flex:1
+}
+.cancel-subscription-page .mobile.mega-input.box-style{
+	margin-bottom:22px
+}
+.cancel-subscription-page .mobile.mega-input .message-container{
+	top:148px
+}
+@media only screen and (min-width:769px){
+.cancel-subscription-page .mobile.mega-input.box-style{
+	margin-top:16px
+}
+}

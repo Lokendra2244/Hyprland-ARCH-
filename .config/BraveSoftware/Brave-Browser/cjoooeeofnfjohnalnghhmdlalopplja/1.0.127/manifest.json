@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv1O0sayAdmrsaqTddCEZwwHvpjjCbR/2qYj0xh9FsFMS17yIHpZRTZw8F8b0NFDAb/hIuIpNeaBXZUN/oPG9eWv4GoV0fDIr9UST5WzB+zPBYgSV1S8TkqLnkDvE5sTmzG98sd3VL/L7PeijOCidcKnSyG5hkP+UNHmKUaRnLlUTM/ificlkjR8IKMNFrC+e4PjHkF+EtBFLKR9Qb9iEJHEjDbjEgtozDs3IrGGsrK3WF4A6iqD5zMX50FvUAqPkAhm9jnfyISarfwkI5WlhQ/mmA0c/U5lXFg5v7MoLR05ns9G40jqOc8jFmzVaayBVF/7RaR9wxVlxEzzMDoA37QIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Fanboy's Anti-chat Apps (plaintext))",
+  "version": "1.0.127"
+}

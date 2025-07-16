@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuSyMltFEvz64XeA6dNlPYLeptPDpjp8a5vntfZHMDnhyVXW1PTtOwJxFNF+5hWfo/FjMIWYzFwdVNvOY1SHv0oW/V172hSeFyBj/us8U9RQA8vtdrUvGXc4LCk8WeAuL7ebaTyq2BEhzulgMGFGyRPFVs+Hn2ve/UwkgpIe/ROalQ/FM50RS+u+NDtzS3Hod1Ec50weskwmLOH+1GyFYdXa0qPOPjvYadynrnJPTETNa5LGHgY4T77CPr/j0jRTHyYIsS/6Lz6Tx9vImMLJhSOFhPvSyzoQ0v+JrMecFuzh2KNS9RBbbCT+wpixHod2EjA6w+VZGhrJ6GIWN+lgHgQIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Macedonian filters (plaintext))",
+  "version": "1.0.8"
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4p2Fx/w0R4RVscwM1bobz4jcc40AkE+Ccp9azcUreKZWa3I75hv4G9MQOp9xHvxXVxcIVqRiGDdSyyDHCe+YMbYMQJhGdTEItPx5c3IZ/Lq35gJXLBb5+dqW+g5lp9I8+19YN5GLnkVU2snMosJ+ie6rkQaE2zoFOiPf7Uiode5FroCsgDh+OZpOeXkbbOWUBgNY3zaAZ9PY00k4R327Qk01LUfhokfgZxcvxOofIuIR992q5xxPreMHat2ZBDbEuLAuNda6/cJqhn6M4cCyHJh4+bv9GjcBGtd/QGiXD/s48fPfm453wYjd+DAtmLwBjQOsw4gcPmt5gTui6eAkOQIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Bypass Paywalls Clean Filters (plaintext))",
+  "version": "1.0.487"
+}

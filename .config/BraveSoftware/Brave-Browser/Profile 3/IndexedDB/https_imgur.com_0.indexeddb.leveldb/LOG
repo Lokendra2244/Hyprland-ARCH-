@@ -1,0 +1,29 @@
+2025/07/16-03:31:11.256 6c7d Creating DB /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/IndexedDB/https_imgur.com_0.indexeddb.leveldb since it was missing.
+2025/07/16-03:31:11.262 6c7d Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/16-03:31:11.370 6c79 Level-0 table #5: started
+2025/07/16-03:31:11.371 6c79 Level-0 table #5: 760 bytes OK
+2025/07/16-03:31:11.372 6c79 Delete type=0 #3
+2025/07/16-03:31:11.373 6c79 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/16-03:31:21.124 6c7d Level-0 table #7: started
+2025/07/16-03:31:21.125 6c7d Level-0 table #7: 3390 bytes OK
+2025/07/16-03:31:21.127 6c7d Delete type=0 #4
+2025/07/16-03:31:21.127 6c65 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/16-03:31:30.267 6c65 Level-0 table #9: started
+2025/07/16-03:31:30.268 6c65 Level-0 table #9: 1481 bytes OK
+2025/07/16-03:31:30.270 6c65 Delete type=0 #6
+2025/07/16-03:31:30.270 6c65 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x001\x008\x007\x007\x000\x001\x002\x005\x001\x009\x004\x00:\x00w\x00e\x00b\x00:\x006\x00a\x00f\x003\x00e\x009\x005\x00a\x006\x00d\x004\x005\x001\x000\x005\x00d\x004\x00a\x00f\x000\x007\x003' @ 175 : 1
+2025/07/16-03:31:30.270 6c65 Compacting 1@0 + 1@1 files
+2025/07/16-03:31:30.271 6c65 Generated table #10@0: 87 keys, 2165 bytes
+2025/07/16-03:31:30.271 6c65 Compacted 1@0 + 1@1 files => 2165 bytes
+2025/07/16-03:31:30.272 6c65 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/16-03:31:30.273 6c65 Delete type=2 #7
+2025/07/16-03:31:30.273 6c65 Delete type=2 #9
+2025/07/16-03:31:30.273 6c65 Manual compaction at level-0 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x001\x008\x007\x007\x000\x001\x002\x005\x001\x009\x004\x00:\x00w\x00e\x00b\x00:\x006\x00a\x00f\x003\x00e\x009\x005\x00a\x006\x00d\x004\x005\x001\x000\x005\x00d\x004\x00a\x00f\x000\x007\x003' @ 175 : 1 .. (end); will stop at (end)
+2025/07/16-03:31:30.273 6c65 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x001\x008\x007\x007\x000\x001\x002\x005\x001\x009\x004\x00:\x00w\x00e\x00b\x00:\x006\x00a\x00f\x003\x00e\x009\x005\x00a\x006\x00d\x004\x005\x001\x000\x005\x00d\x004\x00a\x00f\x000\x007\x003' @ 187 : 1
+2025/07/16-03:31:30.273 6c65 Compacting 1@1 + 1@2 files
+2025/07/16-03:31:30.274 6c65 Generated table #11@1: 36 keys, 1584 bytes
+2025/07/16-03:31:30.274 6c65 Compacted 1@1 + 1@2 files => 1584 bytes
+2025/07/16-03:31:30.275 6c65 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/16-03:31:30.275 6c65 Delete type=2 #5
+2025/07/16-03:31:30.275 6c65 Delete type=2 #10
+2025/07/16-03:31:30.276 6c65 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x007\x001\x008\x007\x007\x000\x001\x002\x005\x001\x009\x004\x00:\x00w\x00e\x00b\x00:\x006\x00a\x00f\x003\x00e\x009\x005\x00a\x006\x00d\x004\x005\x001\x000\x005\x00d\x004\x00a\x00f\x000\x007\x003' @ 187 : 1 .. (end); will stop at (end)

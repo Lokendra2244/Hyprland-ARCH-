@@ -1,0 +1,80 @@
+
+.link-mgmt-container{
+	display:flex;
+	flex-direction:column;
+	margin-left:24px;
+	margin-right:24px
+}
+.link-mgmt-container .selected-node{
+	align-items:center;
+	display:flex;
+	flex-direction:row;
+	padding:16px 0
+}
+.link-mgmt-container .selected-node .node-details{
+	display:flex;
+	flex-direction:column;
+	margin-inline-start:16px
+}
+.link-mgmt-container .selected-node .node-details .num-files{
+	margin-top:2px
+}
+.link-mgmt-container .share-link-info-msg{
+	margin:16px 0
+}
+.link-mgmt-container .toggle-container.expiry-date .date-picker,.link-mgmt-container .toggle-container.password .mega-input{
+	margin:16px 0 24px
+}
+.link-mgmt-container .toggle-container.expiry-date .date-picker.expired{
+	margin-bottom:48px
+}
+.link-mgmt-container .toggle-container .mega-input.with-icon i:not(.alert){
+	margin-inline-end:8px;
+	order:1
+}
+.link-mgmt-container .toggle-container .mega-input.with-icon i.alert{
+	--icon-size:unset;
+	--mask-color:unset;
+	padding:0
+}
+.link-mgmt-container input::placeholder{
+	color:var(--mobile-text-placeholder)
+}
+.link-mgmt-container .toggle-container.expiry-date{
+	position:relative
+}
+.link-mgmt-container .toggle-container.decryption-key .decryption-key-message,.sensitive-onboarding-txt{
+	color:var(--mobile-text-secondary);
+	font:var(--mobile-font-link-small-regular)
+}
+.anchor-link,.link-mgmt-container .toggle-container.decryption-key .decryption-key-message a{
+	color:var(--mobile-link-primary);
+	text-decoration:underline
+}
+.link-mgmt-container .toggle-container.decryption-key .title{
+	font:var(--mobile-font-link-small-bold);
+	padding:16px 0 4px
+}
+.link-mgmt-container .toggle-container:not(.decryption-key) .mega-input.msg .message-container{
+	align-items:center;
+	background:none;
+	border:none;
+	flex-direction:row;
+	font:var(--mobile-font-caption-large-regular);
+	padding-top:10px
+}
+.link-mgmt-container .toggle-container.password .mega-input i:not(.alert){
+	--icon-size:20px
+}
+.link-mgmt-container .toggle-container.password .mega-input i:last-child{
+	opacity:1;
+	right:12px
+}
+@media screen and (min-width:769px){
+.link-mgmt-container .toggle-container.expiry-date .date-picker,.mobile .link-mgmt-container .mega-input.box-style{
+	width:var(--mobile-tablet-elem-width)
+}
+.link-mgmt-container .toggle-container.expiry-date .date-picker input{
+	width:320px
+}
+}

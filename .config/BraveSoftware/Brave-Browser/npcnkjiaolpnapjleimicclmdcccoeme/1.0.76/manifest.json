@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfs3LRQT1thqn9t53KmWtvaKeuBv7mH5ydazOFixM3Uutz83/PZ3Obsvux1/8JHDah6AvxBQtjoZy8jFKZNtqiHXxvkisj5DAL/O/rCwvZBHTXLQqodBxsCpnjAwGG9/Rqw1kOwKAb4hIHy+5Xq1hF8oj3eHD8WnIhvblOMYg6L4gVSCxpJOchPVLs/5K4sovGDxItmsJJqLYrsxtuqvsatQFj+GigrMoOAA3yOPIJDgr4/E+nqD9su5c7+3OPggr42B2+we9rwWiDCLQvXOiV0NKUavlV8P/8AbX0TG4RxTNEUTpGkGkyEzO+bCWV5/Ne+s8ifz9Bw68xW8zaZ22wIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (CJX's Annoyance (plaintext))",
+  "version": "1.0.76"
+}

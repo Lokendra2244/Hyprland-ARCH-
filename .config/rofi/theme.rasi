@@ -1,0 +1,157 @@
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+/**
+ * rofi -dump-theme output.
+ * Rofi version: 1.7.9+wayland1
+ **/
+* {
+    foreground:       rgba ( 255, 238, 221, 100 % );
+    lightyellow:      rgba ( 255, 167, 93, 100 % );
+    red:              IndianRed;
+    tcyan:            rgba ( 204, 176, 196, 87 % );
+    pink:             rgba (106,45,124,0.6);
+    blue:             CornflowerBlue;
+    lightgreen:       rgba ( 136, 204, 34, 100 % );
+    green:            rgba ( 134, 175, 128, 100 % );
+    background-color: transparent;
+    lightred:         rgba ( 204, 85, 51, 100 % );
+    font:             "FiraCode Nerd Font 12";
+    magenta:          BurlyWood;
+    tlightblack:      rgba ( 85, 68, 68, 80 % );
+    dark:             rgba ( 28, 28, 28, 100 % );
+    lightblack:       rgba ( 85, 68, 68, 100 % );
+    backlight:        rgba ( 204, 255, 238, 87 % );
+    black:            rgba ( 61, 53, 42, 100 % );
+    transparent:      transparent;
+    lightcyan:        LightSteelBlue;
+    lightmagenta:     rgba ( 153, 102, 0, 100 % );
+    lightwhite:       rgba ( 221, 204, 187, 100 % );
+    cyan:             LightSteelBlue;
+    white:            rgba ( 187, 170, 153, 100 % );
+    yellow:           rgba ( 232, 174, 91, 100 % );
+    lightblue:        SkyBlue;
+    highlight:        bold underline White;
+}
+
+window {
+    width:            410px;
+    height:           400px;
+    text-color:       @foreground;
+    transparency:     "real";
+    padding:          10px ;
+    children:         [ "mainbox" ];
+    orientation:      horizontal;
+    anchor:           center;
+    x-offset:         300px;
+    background-color: var(transparent);
+    border-radius:    15px ;
+    border:           0px ;
+    spacing:          0;
+}
+mainbox {
+    spacing:  0;
+    children: [ "inputbar","message","listview","mode-switcher" ];
+}
+message {
+    padding:          5;
+    background-color: rgba(0,0,0,0.6);
+    border-color:     var(foreground);
+    font:             "Source Code Pro 8";
+    border-radius:    0px 0px 0px ;
+    text-color:       rgba(255,255,255,0.7);
+}
+textbox {
+    text-color:       rgba(255,255,255,0.7);
+}
+inputbar {
+    padding:          11px ;
+    background-color: rgba ( 0, 0, 0, 60 % );
+    text-color:       @foreground;
+    font:             "Source Code Pro 18";
+    border-color:     var(foreground);
+    border:           0px ;
+    border-radius:    15px 15px 0px 0px ;
+}
+entry {
+    text-font:  inherit;
+    text-color: inherit;
+    text-size: 10px;
+}
+prompt {
+    text-font:  inherit;
+    margin:     0px 0.3000em 0.0000em 0.0000em ;
+    text-color: inherit;
+}
+case-indicator {
+    text-font:  inherit;
+    text-color: inherit;
+}
+listview {
+    margin:           0px;
+    padding:          10px ;
+    background-color: rgba ( 0, 0, 0, 60 % );
+    dynamic:          false;
+    border-color:     var(foreground);
+    lines:            10;
+    border-radius:    0px 0px 10px 10px;
+    border:           0px 0px 0px ;
+}
+element normal.normal {
+    margin:           0px;
+    background-color: rgba(0,0,0,0);
+    vertical-align:   0.50;
+    font:             inherit;
+    border-radius:    10px ;
+    text-color:       @foreground;
+}
+element alternate.normal {
+    margin:           0px;
+    background-color: rgba(0,0,0,0.6);
+    vertical-align:   0.50;
+    font:             inherit;
+    border-radius:    10px ;
+    text-color:       @foreground;
+}
+element-icon {
+    margin:           5;
+    size:             30;
+}
+element selected.normal {
+    border-radius:    10px;
+    background-color: @selected-active-background;
+}
+element-text {
+    vertical-align:   0.5;
+    size:             50;
+    text-color:       rgba(255,255,255,0.7);
+}
+vertb {
+    expand:   false;
+    children: [ "mode-switcher"];
+}
+mode-switcher {
+    orientation: horizontal;
+    expand:      false;
+    spacing:     4px ;
+}
+button {
+    margin:           4px;
+    width:            2px;
+    text-color:       rgba(255,255,255,0.7);
+    padding:          2px ;
+    background-color: rgba(0,0,0,0.6);
+    border-radius:    10px 10px 10px 10px ;
+    border-color:     var(foreground);
+    font:             "FontAwesome 14";
+}
+button selected.normal {
+    background-color: @selected-active-background;
+    border-color:     var(foreground);
+}
+error-message {
+    padding:          1.0000em ;
+    background-color: Red;
+    expand:           true;
+    border-color:     DarkRed;
+    border:           2px ;
+}
+

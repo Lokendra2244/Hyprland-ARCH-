@@ -1,0 +1,12 @@
+2025/07/16-12:33:31.439 1a72 Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/07/16-12:33:31.440 1a72 Recovering log #653
+2025/07/16-12:33:31.443 1a72 Reusing old log /home/AMBHI/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000653.log 
+2025/07/16-13:06:46.663 1a73 Level-0 table #658: started
+2025/07/16-13:06:46.671 1a73 Level-0 table #658: 66646 bytes OK
+2025/07/16-13:06:46.673 1a73 Delete type=0 #653
+2025/07/16-13:56:09.631 1a72 Level-0 table #660: started
+2025/07/16-13:56:09.637 1a72 Level-0 table #660: 67498 bytes OK
+2025/07/16-13:56:09.641 1a72 Delete type=0 #657
+2025/07/16-14:41:28.472 1a72 Level-0 table #662: started
+2025/07/16-14:41:28.480 1a72 Level-0 table #662: 73921 bytes OK
+2025/07/16-14:41:28.482 1a72 Delete type=0 #659

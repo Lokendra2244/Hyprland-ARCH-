@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+jKXsk0ynC51YEJWZa8PmrF7o73NQB+8KIkWB8kvSYzMFFtByWVGXhpfYbx9jyD/BJQN8kt4hgKofjfixLqzIfevkEeuyGtVN5KYoZpA5zF2X6jTY4ZKlqHc14ox306/FXjtsiLGg+9Y/ToCGWOTvfQsYEpKO+6BQEcBMMGzNhDR2MQaBMNcd3/o7RF7oUaF4Zye/X5WQD+2IrkrfOqHxd2dSstIQRvmGZH5Tuyehf3jNCRKRoQe7v1M0DGwYUJ7B2eO4PrQf+B1NTzxtPBQWUm3k7dAAHm6YTWfUvnwF7rbJs/Rv/jqRPpy+Z6qu3NyfJki7COtchwnqbbkUkAtQIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (YouTube Anti-Shorts (plaintext))",
+  "version": "1.0.6"
+}

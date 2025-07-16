@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs6ib1E68QTHuz/TdEn+ck++Okbcf5xDfQjkhpTb59fnjm0rjII6MV3rWLEj5dkOvpAVzDzFCcyC/JJ/SYIY7nFRQl+ptttd1nLWNu7qewFGh2tezwuEMzPlzQr+KK93Yh0dooCC9KniR/0+kpYeGqBC8tBGz8f4KoV+/zTfkD/47pztflCxNJfrAj4P0GDQhvz8lBtnm6Pa7tGOMhksnMsYWRWsYs6uvjsfd+3uYbiCYa7lEMjZZKy7dHg8hPSUeGZo28kTqYFXufH5jY3q7Luk+dQey1+m1X97KLPOtmwaLFCFqWBha5qFMg/mgzczlaphReFUycwrYVjjOICKrYwIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Fanboy's Social (plaintext))",
+  "version": "1.0.16605"
+}

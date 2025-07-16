@@ -1,0 +1,62 @@
+
+.timer-radial{
+	height:24px;
+	position:relative;
+	width:24px
+}
+.timer-radial svg{
+	height:100%;
+	width:100%
+}
+.timer-radial .bg,.timer-radial .progress{
+	fill:none;
+	stroke-width:2;
+	transform:rotate(-90deg);
+	transform-origin:center
+}
+.timer-radial .bg{
+	stroke:var(--mobile-border-strong)
+}
+.timer-radial .progress{
+	stroke-dasharray:100;
+	stroke-dashoffset:0;
+	animation:offset-animation var(--timer-duration, 30s) var(--animation-delay, 0s) linear infinite,
+        color-animation var(--timer-duration, 30s) var(--animation-delay, 0s) step-end infinite;
+	transform:rotate(-90deg) scaleY(-1);
+	transform-origin:center
+}
+@keyframes offset-animation{
+0%{
+	stroke-dashoffset:0
+}
+to{
+	stroke-dashoffset:100
+}
+}
+@keyframes color-animation{
+0%,33.32%{
+	stroke:var(--mobile-support-success)
+}
+33.33%,66.66%{
+	stroke:var(--mobile-support-warning)
+}
+66.67%,to{
+	stroke:var(--mobile-support-error)
+}
+}
+.timer-radial .timer-text{
+	inset:0;
+	align-items:center;
+	color:var(--mobile-text-secondary);
+	display:flex;
+	font:var(--mobile-font-caption-small-regular);
+	height:100%;
+	justify-content:center;
+	line-height:0;
+	position:absolute;
+	width:100%
+}
+.timer-radial .timer-text:after{
+	animation:countdown-text var(--timer-duration, 30s) var(--animation-delay, 0s) step-end infinite;
+	content:"30"
+}

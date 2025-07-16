@@ -1,0 +1,69 @@
+.global-transferit-container{
+	background:no-repeat 50% / cover var(--wall-img1-url) var(--main-surface-primary);
+	height:100%;
+	overflow:hidden;
+	position:fixed;
+	top:0;
+	width:100%;
+	z-index:1110
+}
+.global-transferit-container *{
+	scrollbar-color:var(--scroll-bar-handle) var(--scroll-bar-background);
+	scrollbar-width:thin;
+	box-sizing:border-box
+}
+.global-transferit-container .global-page-container{
+	overflow:auto
+}
+@supports selector(::-webkit-scrollbar){
+.global-transferit-container *{
+	scrollbar-color:auto;
+	scrollbar-width:auto
+}
+.global-transferit-container ::-webkit-scrollbar{
+	height:8px;
+	width:8px
+}
+.global-transferit-container ::-webkit-scrollbar-track{	
+	border-radius:4px;
+	box-shadow:none
+}
+.global-transferit-container ::-webkit-scrollbar-thumb{
+	background:var(--scroll-bar-handle);
+	border-radius:4px;	
+	box-shadow:none
+}
+.global-transferit-container ::-webkit-scrollbar-thumb:window-inactive{
+	background:var(--scroll-bar-handle-inactive)
+}
+}
+.it-dialog.open-transferit-overlay{
+	max-width:960px
+}
+.it-dialog.open-transferit-overlay .it-logo{
+	background-size:auto 48px;	
+	height:48px;
+	width:48px
+}
+.it-dialog.open-transferit-overlay h5{
+	text-align:start
+}
+.it-dialog.open-transferit-overlay p{
+	padding:0;
+	text-align:start
+}
+.it-dialog.open-transferit-overlay footer{
+	display:flex;
+	justify-content:end;
+	width:100%
+}
+.it-dialog.open-transferit-overlay .content{
+	flex:1 1 auto
+}
+.it-dialog.open-transferit-overlay .content.illustration{
+	max-width:320px
+}
+.it-dialog.open-transferit-overlay .content-body{
+	gap:24px;
+	display:grid
+}

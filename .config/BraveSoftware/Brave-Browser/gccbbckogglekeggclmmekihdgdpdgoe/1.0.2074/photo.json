@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "714393c6-ea5b-4771-afea-ef408648fcab",
+      "logo": {
+        "imageUrl": "0117e7f1-e732-4f67-bef2-ae66c0c01434/7131bf57-041d-45f0-a849-029c0a6c0475.png",
+        "destinationUrl": "https://get.unstoppabledomains.com/brave/?utm_campaign=Brave%20Brave%20Ads",
+        "alt": "Unstoppable Domains x Brave Earn Badges for owning multiple .brave domains. - Learn More",
+        "companyName": "Unstoppable Domains"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "0117e7f1-e732-4f67-bef2-ae66c0c01434/b69160d2-b09e-476f-ab20-f4ff758bb092.jpg",
+          "creativeInstanceId": "1bf0b0ca-f3f8-4b6d-9e73-a85ebc7a201d",
+          "focalPoint": {
+            "x": 1250,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "1cc09a90-8314-4fb7-ac7b-126f4d77fc9c/5d8b8081-6f90-4f80-8abd-5aafb0ef9133.jpg",
+          "creativeInstanceId": "46da29b2-e817-452a-b0ee-105f5b4b8913",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "1cc09a90-8314-4fb7-ac7b-126f4d77fc9c/864f6323-7a56-4ed7-8886-876a51763eee.png",
+            "destinationUrl": "https://unstoppabledomains.com/?utm_campaign=Brave%20UD%20Ads",
+            "alt": "Unstoppable Domains - It's your nome. Own it. - Domains  from $2, No gas fees, ownership for life.",
+            "companyName": "Unstoppable Domains"
+          }
+        },
+        {
+          "imageUrl": "51361e67-3bd7-4b5e-ade5-64c836841a87/de0375dc-c373-408a-8193-6e479e9a724c.jpg",
+          "creativeInstanceId": "c6eb2868-9775-4053-af45-1f9c849215c3",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "51361e67-3bd7-4b5e-ade5-64c836841a87/94919a65-f01a-4bb0-a5ef-a33e7d4af08e.png",
+            "destinationUrl": "https://get.unstoppabledomains.com/brave/?utm_campaign=Brave%20Brave%20Ads",
+            "alt": "Unstoppable Domains - The officIal domain for 86M brave users - Domains from $5, No gas fees, ownership for life.",
+            "companyName": "Unstoppable Domains"
+          }
+        },
+        {
+          "imageUrl": "ac2b2916-c4a2-46a0-bf8b-952bce0d3fda/f25fb327-c166-44bd-8dc7-5ddf44c701e9.jpg",
+          "creativeInstanceId": "548ffe6b-4d4d-48ee-8365-2328737c0ec9",
+          "focalPoint": {
+            "x": 1250,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "ac2b2916-c4a2-46a0-bf8b-952bce0d3fda/601c5c21-c699-4eee-8990-58fd4aec7a97.png",
+            "destinationUrl": "https://get.unstoppabledomains.com/brave/?utm_campaign=Brave%20Brave%20Ads",
+            "alt": "Unstoppable Domains - The officIal domain for 86M brave users - Domains from $5, No gas fees, ownership for life.",
+            "companyName": "Unstoppable Domains"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "714393c6-ea5b-4771-afea-ef408648fcab",
+      "logo": {
+        "imageUrl": "0117e7f1-e732-4f67-bef2-ae66c0c01434/7131bf57-041d-45f0-a849-029c0a6c0475.png",
+        "destinationUrl": "https://get.unstoppabledomains.com/brave/?utm_campaign=Brave%20Brave%20Ads",
+        "alt": "Unstoppable Domains x Brave Earn Badges for owning multiple .brave domains. - Learn More",
+        "companyName": "Unstoppable Domains"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "0117e7f1-e732-4f67-bef2-ae66c0c01434/b69160d2-b09e-476f-ab20-f4ff758bb092.jpg",
+          "creativeInstanceId": "1bf0b0ca-f3f8-4b6d-9e73-a85ebc7a201d",
+          "focalPoint": {
+            "x": 1250,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "1cc09a90-8314-4fb7-ac7b-126f4d77fc9c/5d8b8081-6f90-4f80-8abd-5aafb0ef9133.jpg",
+          "creativeInstanceId": "46da29b2-e817-452a-b0ee-105f5b4b8913",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "1cc09a90-8314-4fb7-ac7b-126f4d77fc9c/864f6323-7a56-4ed7-8886-876a51763eee.png",
+            "destinationUrl": "https://unstoppabledomains.com/?utm_campaign=Brave%20UD%20Ads",
+            "alt": "Unstoppable Domains - It's your nome. Own it. - Domains  from $2, No gas fees, ownership for life.",
+            "companyName": "Unstoppable Domains"
+          }
+        },
+        {
+          "imageUrl": "51361e67-3bd7-4b5e-ade5-64c836841a87/de0375dc-c373-408a-8193-6e479e9a724c.jpg",
+          "creativeInstanceId": "c6eb2868-9775-4053-af45-1f9c849215c3",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "51361e67-3bd7-4b5e-ade5-64c836841a87/94919a65-f01a-4bb0-a5ef-a33e7d4af08e.png",
+            "destinationUrl": "https://get.unstoppabledomains.com/brave/?utm_campaign=Brave%20Brave%20Ads",
+            "alt": "Unstoppable Domains - The officIal domain for 86M brave users - Domains from $5, No gas fees, ownership for life.",
+            "companyName": "Unstoppable Domains"
+          }
+        },
+        {
+          "imageUrl": "ac2b2916-c4a2-46a0-bf8b-952bce0d3fda/f25fb327-c166-44bd-8dc7-5ddf44c701e9.jpg",
+          "creativeInstanceId": "548ffe6b-4d4d-48ee-8365-2328737c0ec9",
+          "focalPoint": {
+            "x": 1250,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "ac2b2916-c4a2-46a0-bf8b-952bce0d3fda/601c5c21-c699-4eee-8990-58fd4aec7a97.png",
+            "destinationUrl": "https://get.unstoppabledomains.com/brave/?utm_campaign=Brave%20Brave%20Ads",
+            "alt": "Unstoppable Domains - The officIal domain for 86M brave users - Domains from $5, No gas fees, ownership for life.",
+            "companyName": "Unstoppable Domains"
+          }
+        }
+      ]
+    }
+  ]
+}

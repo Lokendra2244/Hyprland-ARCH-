@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAquaOTeP8r+FbVSg04QHQYQGU3NxdQNsbC3+K7GtAB7p1YnrbxD3YEUKYI357Tasm7URCWTtRGXIkOIxUv4hLL8JNUNKdROaCruKPdpDNwTJshWzPfgKo/ZHTYyduUUP1w4o1CfqQRw7FpekOebbTsm62yAEPe+RXxHfyu2YQ+njCX7IPvI0or2I3i53HCWz+fxaTenpcEn38TlkwLUdlRR183v+e6kfjDvo5HgvNQJsFFC9MM++yd8KdZrDuombSyFIUTzuP43yixeMLBeZ8IbGGpC+en8CA9OgekVhsIYWRbnRGzZmspgZ2Bq/SOuIqf0fLMgwLmNbgD4h1SIbmKwIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Adguard Japanese filters 日本用フィルタ (plaintext))",
+  "version": "1.0.2518"
+}

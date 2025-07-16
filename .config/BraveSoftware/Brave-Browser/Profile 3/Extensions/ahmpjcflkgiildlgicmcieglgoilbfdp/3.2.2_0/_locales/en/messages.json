@@ -1,0 +1,146 @@
+{
+   "addingAfterCancelFailed": {
+      "description": "Message to display if user hit Cancel in FDM and adding to browser is failed",
+      "message": "Browser rejected the download. You can retry downloading with the browser by clicking the download link again"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Free Download Manager integration with browser"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Free Download Manager"
+   },
+   "appShortName": {
+      "description": "Short name of the application, displayed in appropriate contexts.",
+      "message": "FDM"
+   },
+   "consent_agree": {
+      "description": "Agree button text",
+      "message": "Agree to anonymous data collection"
+   },
+   "consent_decline": {
+      "description": "Decline button text",
+      "message": "Decline anonymous data collection"
+   },
+   "consent_text": {
+      "description": "Privacy consent text with policy link",
+      "message": "\u003Cp>Free Download Manager does not collect and doesn't share any personally identifying information publicly or with third-parties.\u003C/p>\u003Cp>When a browser starts a download, the Free Download Manager extension uses only the data that is necessary to download this file from this particular website. This data is necessary to start, or resume the download, or schedule this download in Free Download Manager. The data may include URL, internet address, cookies, query parameters, post data, namely all the data that the browser sends to the server when requesting the file.\u003C/p>\u003Cp>This data is used on the local computer to start download only.\u003C/p>\u003Cp>If you choose not to allow us to collect anonymous data, the FDM extension will be immediately removed from your browser.\u003C/p>\u003Cp>Full details about the anonymous data we collect and what we do with it are provided in our \u003Ca class='privacy_link' href='https://www.freedownloadmanager.org/privacy.htm' target='_blank'>Privacy Policy\u003C/a>.\u003C/p>"
+   },
+   "consent_title": {
+      "description": "Privacy consent page title",
+      "message": "FDM extension privacy"
+   },
+   "dlbyfdm": {
+      "description": "Download button for video",
+      "message": "Download with FDM"
+   },
+   "installCorrupted": {
+      "description": "Message on corrupted FDM installation.",
+      "message": "Free Download Manager installation is corrupted. Please reinstall it."
+   },
+   "installMissing": {
+      "description": "Message on missing FDM installation.",
+      "message": "Free Download Manager installation not found. Please install it."
+   },
+   "installUnknownError": {
+      "description": "Message on unknown error with FDM installation.",
+      "message": "Unknown error. Please reinstall Free Download Manager."
+   },
+   "install_action": {
+      "description": "Install",
+      "message": "Install"
+   },
+   "install_free_save": {
+      "description": "It's fast, free and safe.",
+      "message": "It's fast, free and safe."
+   },
+   "install_set_up_fdm": {
+      "description": "To use it, please set up Free Download Manager. \u003Cbr /> It's available for Windows and Mac.",
+      "message": "To use it, please set up Free Download Manager. \u003Cbr /> It's available for Windows and Mac."
+   },
+   "install_successfully": {
+      "description": "FDM extension successfully installed",
+      "message": "FDM extension successfully installed"
+   },
+   "menuAll": {
+      "description": "Context menu item for pages",
+      "message": "Download all with Free Download Manager"
+   },
+   "menuChannelVideos": {
+      "description": "Context menu item for channel videos",
+      "message": "Download channel videos with Free Download Manager"
+   },
+   "menuChannelVideosShort": {
+      "description": "Context menu item for channel videos",
+      "message": "Download channel videos"
+   },
+   "menuPlaylistVideosShort": {
+      "description": "Context menu item for playlist videos",
+      "message": "Download playlist videos"
+   },
+   "menuSelected": {
+      "description": "Context menu item for selection",
+      "message": "Download selected with Free Download Manager"
+   },
+   "menuSite": {
+      "description": "Context menu item for site",
+      "message": "Download web site with Free Download Manager"
+   },
+   "menuThis": {
+      "description": "Context menu item for links and images",
+      "message": "Download with Free Download Manager"
+   },
+   "menuVideo": {
+      "description": "Context menu item for videos",
+      "message": "Download video with Free Download Manager"
+   },
+   "menuVideoShort": {
+      "description": "Context menu item for videos",
+      "message": "Download video"
+   },
+   "section_consent_start": {
+      "description": "=== CONSENT PAGE START ===",
+      "message": "."
+   },
+   "section_context_menu": {
+      "description": "=== CONTEXT MENU START ===",
+      "message": "."
+   },
+   "section_install_start": {
+      "description": "=== INSTALL PAGE START ===",
+      "message": "."
+   },
+   "section_service_messages_start": {
+      "description": "=== SERVICE MESSAGES START ===",
+      "message": "."
+   },
+   "section_settings_start": {
+      "description": "=== SETTINGS PAGE START ===",
+      "message": "."
+   },
+   "settings_dont_catch_downloads": {
+      "description": "Don't catch downloads option",
+      "message": "Don't catch downloads from this site"
+   },
+   "settings_help_and_feedback": {
+      "description": "Help and Feedback",
+      "message": "Help and Feedback"
+   },
+   "settings_loading": {
+      "description": "Loading message shown during settings initialization",
+      "message": "Loading..."
+   },
+   "settings_options": {
+      "description": "Options",
+      "message": "Options"
+   },
+   "settings_pause_downloads": {
+      "description": "Pause to catch downloads option",
+      "message": "Pause to catch downloads from all sites"
+   },
+   "settings_update_message": {
+      "description": "Message about updating FDM",
+      "message": "Settings aren't available for your FDM version.\u003Cbr />Please \u003Ca href='https://www.freedownloadmanager.org/download.htm' target='_blank'>update\u003C/a> it."
+   }
+}

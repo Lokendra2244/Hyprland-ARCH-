@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0Yrj54S5rhxkhRCeNs0zpXclTFpJUmBKcPIYEbISsmgfGIKwd0GpR0IGxdENuSK4hEzFBpsQLLRcmipEHrDuqeaeaCkyLA7oBsb5REK4nBgsAB7YBekrEQQyOzoEG16RGqcIHw+0ZTppDPmF4Cdidyn9S77U481+W2bEWOp+NpFqPamA5pBaUyXeLgTB6dBRuUPnjjuXwZRF213W8HMI5T0c9HIuLipW+P3F7PhxD84F70dhuCUJ9X/DCjc5CFlWw1UPu3dlHT/sd15qR9glld9I0yGEXgQuPccZCBhnCWLfslaqZhgImmfqI1YBAzOaWED/q1y5hgh/8ru2RjOQ/wIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Bulgarian (plaintext))",
+  "version": "1.0.19"
+}

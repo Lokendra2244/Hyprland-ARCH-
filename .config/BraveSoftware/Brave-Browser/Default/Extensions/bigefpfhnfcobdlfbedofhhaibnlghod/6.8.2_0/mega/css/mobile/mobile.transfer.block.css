@@ -1,0 +1,79 @@
+
+.mega-transfer-block{
+	box-sizing:border-box;
+	display:flex;
+	flex-direction:column;
+	max-width:var(--mobile-elem-max-width);
+	width:100%
+}
+.mega-transfer-block .file-info{
+	align-items:center;
+	color:var(--mobile-text-primary);
+	display:flex;
+	flex-direction:row;
+	font:var(--mobile-font-copy-regular);
+	justify-content:space-between;
+	margin-bottom:12px
+}
+.mega-transfer-block .file-info .file-name{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-copy-regular);
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap
+}
+.mega-transfer-block .file-info .file-actions{
+	align-items:center;
+	display:flex;
+	margin-inline-start:12px
+}
+.mega-transfer-block .file-info .file-actions>:not(:first-child){
+	margin-inline-start:16px
+}
+.mega-transfer-block .file-info .file-status{
+	background:none;
+	color:var(--mobile-text-secondary);
+	display:flex;
+	flex-direction:row;
+	font:var(--mobile-font-caption-large-regular);
+	white-space:nowrap
+}
+.mega-transfer-block.error .file-info .file-status i{
+	--icon-size:24px;
+	color:var(--mobile-support-error);
+	margin-inline-end:12px
+}
+.mega-transfer-block .nav-elem.icon-only{
+	padding:0
+}
+.mega-transfer-block .file-progress{
+	background-color:var(--mobile-surface-2);
+	border-radius:5px;
+	display:block;
+	height:10px
+}
+.mega-transfer-block .file-progress .bar{
+	background:var(--mobile-support-success);
+	border-radius:5px;
+	border-width:0;
+	box-shadow:none;
+	height:10px
+}
+.mega-transfer-block.error .file-progress .bar{
+	background:var(--mobile-support-error)
+}
+.mega-transfer-block .file-error{
+	display:none
+}
+.mega-transfer-block.error .file-error{
+	background:none;
+	color:var(--mobile-support-error);
+	display:flex;
+	flex-direction:row;
+	font:var(--mobile-font-copy-regular);
+	margin-top:12px
+}
+.mega-transfer-block.error .file-error i{
+	--icon-size:24px;
+	margin-inline-end:12px
+}

@@ -1,0 +1,59 @@
+
+.referral-bonuses-page{
+	max-width:var(--mobile-page-max-width);
+	padding:0 24px 24px
+}
+.referral-bonuses-page>*{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-copy-regular)
+}
+.referral-bonuses-page .nav-elem{
+	padding:0
+}
+.referral-bonuses-page .invite-friends-cta{
+	margin:24px 0
+}
+.referral-bonuses-page .referral-list{
+	display:flex;
+	flex-direction:column;
+	margin-top:16px;
+	width:100%
+}
+.referral-bonuses-page.list-shown .invite-friends-cta,.referral-bonuses-page .referral-list>*{
+	margin:16px 0
+}
+.referral-bonuses-page .invited-friend{
+	align-items:center;
+	display:flex;
+	flex-direction:row
+}
+.referral-bonuses-page .invited-friend>:not(:last-child){
+	margin-right:12px
+}
+.referral-bonuses-page .invited-friend .friend-initials{
+	align-items:center;
+	background-color:var(--mobile-surface-3);
+	border-radius:100%;
+	display:flex;
+	height:32px;
+	justify-content:center;
+	width:32px
+}
+.referral-bonuses-page .invited-friend .email-and-expiry{
+	display:flex;
+	flex-direction:column
+}
+.referral-bonuses-page .invited-friend .email-and-expiry>:not(:last-child){
+	margin-bottom:4px
+}
+.referral-bonuses-page .invited-friend.expired .email-and-expiry .email,.referral-bonuses-page .invited-friend.expired .email-and-expiry .expiry-date{
+	color:var(--mobile-text-on-color-disabled)
+}
+.referral-bonuses-page .invited-friend .email-and-expiry .expiry-date{
+	color:var(--mobile-text-secondary);
+	font:var(--mobile-font-caption-large-regular)
+}
+.referral-bonuses-page .more-storage-prompt a{
+	color:var(--mobile-link-primary);
+	text-decoration:underline
+}

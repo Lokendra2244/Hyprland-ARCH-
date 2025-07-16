@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA11xzFtkVM4xI3AeJ281iUJUmDGSjWXdNDJkP0Mv7LNdc1fa8hQuc/gOKdU9S6UjxA3HEpHMucIFKMcQZ07A9MUjiP+B/fwxrTrfwqFKyePQkrd05HjhwDgzmfBpCgx9nQjDubEamzsb0yUKj+gL3D13f4tBi7pb5GHhGAY3smwZP0Dp+ydO5ec9fs1AdgLX6kK/mTuCr+oMf9ZOkTp8KxMS6MyN/NhsMG4Jis+mOuRdoBzvF7y7p/BUm3ewVJZ2KtMz2W6/v966kpaPX+PDdKK2qdGcIClq1nFgKB8dcjorPq6xjJhvflwAtXqYXfMD2h/7Pkdz6aHZc8NmVAg4R7wIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (YouTube Mobile Distractions (plaintext))",
+  "version": "1.0.2"
+}

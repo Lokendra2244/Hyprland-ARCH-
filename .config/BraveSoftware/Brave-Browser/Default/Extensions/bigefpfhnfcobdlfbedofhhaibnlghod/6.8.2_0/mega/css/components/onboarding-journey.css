@@ -1,0 +1,93 @@
+
+body.web-desktop .mega-sheet.on-boarding .sheet{
+	background:var(--mobile-page-background);
+	border:1px solid var(--mobile-border-subtle);
+	height:680px;
+	max-width:900px;
+	padding:0
+}
+.mega-sheet.on-boarding .sheet .header{
+	display:none
+}
+.mega-sheet.on-boarding .sheet .actions,.mega-sheet.on-boarding .sheet .main{
+	padding:0;
+	width:100%
+}
+.mega-sheet.on-boarding .sheet .content{
+	height:100%
+}
+.mega-on-boarding{
+	align-items:flex-start;
+	display:flex;
+	flex-direction:row;
+	height:100%
+}
+.mega-on-boarding .steps{
+	box-sizing:border-box;
+	padding:48px 24px;
+	width:248px
+}
+.mega-on-boarding .main-content{
+	border-inline-start:1px solid var(--mobile-border-strong);
+	box-sizing:border-box;
+	display:flex;
+	flex:1;
+	flex-direction:column;
+	height:100%;
+	min-width:0;
+	padding:48px 0
+}
+.mega-on-boarding .main-content-div{
+	display:flex;
+	flex-direction:column;
+	max-height:100%;
+	overflow:hidden
+}
+.mega-on-boarding .main-content .image-wrapper>div{
+	border-radius:0;
+	margin-bottom:20px
+}
+.mega-on-boarding .main-content .image-wrapper .green-check{
+	background-image:url(../imagery/onboarding-green-check-3d.4c144781bc8a5a62.png);
+	background-size:contain;
+	height:96px;
+	width:96px
+}
+.mega-on-boarding .main-content h1{
+	font:var(--mobile-font-heading-h1);
+	margin:0 0 4px
+}
+.mega-on-boarding .main-content a{
+	color:var(--mobile-link-primary)
+}
+.mega-on-boarding .main-content p.subtitle{
+	color:var(--mobile-text-secondary);
+	font:var(--mobile-font-caption-small-regular);
+	letter-spacing:.24px;
+	line-height:18px;
+	margin:0 0 16px
+}
+.mega-on-boarding .main-content .custom-div,.mega-on-boarding .main-content .custom-div>div{
+	display:flex;
+	flex-direction:column;
+	overflow:hidden
+}
+.mega-on-boarding .custom-div>div>:not(.mega-component),.mega-on-boarding .main-content-div>:not(.custom-div),.mega-sheet.on-boarding .sheet .actions{
+	padding:0 48px
+}
+.mega-on-boarding .main-content .actions{
+	display:flex;
+	justify-content:flex-start;
+	margin-top:auto
+}
+.mega-on-boarding .main-content .actions button{
+	width:auto
+}
+@media only screen and (max-width:1079px){
+body.web-desktop .mega-sheet.on-boarding .sheet{
+	max-width:600px
+}
+.mega-on-boarding .steps{
+	width:80px
+}
+}

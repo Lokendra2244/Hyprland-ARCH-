@@ -1,0 +1,197 @@
+{
+   "checksum": "4208199c5d832c64809501c8ad8096e6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13386420128245239",
+            "date_last_used": "0",
+            "guid": "cbc0aaf5-c918-44c6-b3f5-00aa8f17794a",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Movies / TV / Anime • freemediaheckyeah",
+            "type": "url",
+            "url": "https://fmhy.net/videopiracyguide#live-sports"
+         }, {
+            "children": [ {
+               "date_added": "13395415322000000",
+               "date_last_used": "0",
+               "guid": "5ed53a5b-be47-4375-bc6f-c1f4f6afbd3c",
+               "id": "7",
+               "name": "Get Help",
+               "type": "url",
+               "url": "https://support.mozilla.org/products/firefox"
+            }, {
+               "date_added": "13395415322000000",
+               "date_last_used": "0",
+               "guid": "78453308-b904-4b11-8bf8-580d3151a1d6",
+               "id": "8",
+               "name": "Customize Firefox",
+               "type": "url",
+               "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+            }, {
+               "date_added": "13395415322000000",
+               "date_last_used": "0",
+               "guid": "39b5f063-b692-47b7-ac36-9f433b7a4b17",
+               "id": "9",
+               "name": "Get Involved",
+               "type": "url",
+               "url": "https://www.mozilla.org/contribute/"
+            }, {
+               "date_added": "13395415322000000",
+               "date_last_used": "0",
+               "guid": "15f9fe0d-0e17-4596-8c97-e3b5f5f28815",
+               "id": "10",
+               "name": "About Us",
+               "type": "url",
+               "url": "https://www.mozilla.org/about/"
+            } ],
+            "date_added": "13396180753445102",
+            "date_last_used": "0",
+            "date_modified": "13396180753445102",
+            "guid": "90773613-96d2-4ce6-b090-c5962231c96d",
+            "id": "6",
+            "name": "Mozilla Firefox",
+            "type": "folder"
+         }, {
+            "date_added": "13396208379983223",
+            "date_last_used": "0",
+            "guid": "24c4b441-aa48-4930-ab41-ee3b9bf7a52b",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn web development | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development#CSS"
+         } ],
+         "date_added": "13396181136025215",
+         "date_last_used": "0",
+         "date_modified": "13396208379983223",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13394944090017634",
+               "date_last_used": "0",
+               "guid": "9802643a-3167-4644-b866-5af8f8b83113",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Best Order To Watch The Gundam Series : r/anime",
+               "type": "url",
+               "url": "https://www.reddit.com/r/anime/comments/vepshv/best_order_to_watch_the_gundam_series/"
+            }, {
+               "date_added": "13383935335687751",
+               "date_last_used": "0",
+               "guid": "d39ef9e0-8e92-4f65-b65f-8ff37d40f3c1",
+               "id": "13",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Best Order To Watch The Gundam Series : r/anime",
+               "type": "url",
+               "url": "https://www.reddit.com/r/anime/comments/vepshv/best_order_to_watch_the_gundam_series/"
+            } ],
+            "date_added": "13383935303952032",
+            "date_last_used": "0",
+            "date_modified": "13394944090017634",
+            "guid": "b06917e7-3f0a-462b-8084-e6b09be98c4b",
+            "id": "11",
+            "name": "Gundam",
+            "type": "folder"
+         }, {
+            "date_added": "13363178533612489",
+            "date_last_used": "0",
+            "guid": "60fbef62-6d54-4b04-894f-26643610d444",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Conditional probability | Mathematical definition, formula and proofs",
+            "type": "url",
+            "url": "https://www.statlect.com/fundamentals-of-probability/conditional-probability"
+         }, {
+            "date_added": "13385768694729342",
+            "date_last_used": "0",
+            "guid": "81afec37-a5ca-47f1-ba4b-82f77ea130f5",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "encryption - Use (Windows) BitLocker-encrypted drive on Ubuntu - Ask Ubuntu",
+            "type": "url",
+            "url": "https://askubuntu.com/questions/617950/use-windows-bitlocker-encrypted-drive-on-ubuntu"
+         }, {
+            "date_added": "13387046766533874",
+            "date_last_used": "0",
+            "guid": "cca5fa72-ea55-4f94-8577-da9207c3c781",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Welcome to HSTES",
+            "type": "url",
+            "url": "https://hstes.org.in/"
+         }, {
+            "date_added": "13390727634141784",
+            "date_last_used": "0",
+            "guid": "59950e4d-3c74-4af3-a093-da2661b315a8",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Peak element | Practice | GeeksforGeeks",
+            "type": "url",
+            "url": "https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/peak-element"
+         }, {
+            "date_added": "13393405084241271",
+            "date_last_used": "0",
+            "guid": "e7f6b735-1b1a-4b11-894f-ab1496ff678b",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "OverTheWire: Bandit",
+            "type": "url",
+            "url": "https://overthewire.org/wargames/bandit/"
+         } ],
+         "date_added": "13396181136025217",
+         "date_last_used": "0",
+         "date_modified": "13393405084241271",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13394943910957386",
+            "date_last_used": "0",
+            "guid": "641a27c9-ff2a-489f-b486-840398dcaf01",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How To Install Ubuntu Linux Without USB Drive | Dual Boot With Windows | UEFI - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=g0qrydSnV4g"
+         } ],
+         "date_added": "13396181136025218",
+         "date_last_used": "0",
+         "date_modified": "13394943910957386",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgrS/7y4+2UAAAAAEgAaWDYrWFE2S2p6cldQTmJ5RmRpOHo2NUtUT21WS3NyN2ZFeDdhaFhydWhRcTBpSTVmR3NHSmtEZlVGa1hRdHB0cGlkdTcyckpua0NFVUJWSW9oK0ZJY0N3PT0qGFZOcWxTSGgrTk9GMEo5d09CL3Zvd3c9PUgDEoMBCAESfwoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkYmUyNDUzMjAtNDdlNi00NWU4LTgxOTktOTNiMTFkMTMwYmM2GAAgACgAMAE4nKjwkr4xQJyo8JK+MUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASpwEICxKiAQocSDJLb0RoLzZtUnphMHBadElqSVZ6aFgzc3djPRIkYzY1NTVhYmItZmNhMC00YjZkLTg0NmUtOGYwNmNjMzEyN2FjGAAgACgAMN2D/f/PMjiZ8vz/zzJAmfL8/88yShxub3ZqVzU2UE5BaUhaTUh3b0k4N0hveUFrdWs9Wh4iHFBxNmZaaCtMRldZMGZXK1U4c0RZU2Zpb0NGdz1lAAAAABKnAQgNEqIBChxYb21yTnFBcGZpVmVVMS9samo3YWUzcnJtODg9EiQ2YTNmNTY1OS04YzVmLTQ0NzEtOTliOS0wOWY1MGM0YjA2YjcYACAAKAAwrvnfivkyOJDq/v/PMkCQ6v7/zzJKHDcvSys1N09DSVQ1eEE1ajl0cDNoNDRDSm5Zdz1aHiIcUWc0N0FpZDhYMGp6bnFxTXRPWUlKTStaNXhNPWUUxjW1EqcBCAUSogEKHFVxeUhyVS8xM2Z3QjhxZ2NXMUJHWTR4cUxiRT0SJDZiYjIxMDA3LTQ2ZGYtNGUxOS05YzhiLWMwOThjOWI0MGEwMBgAIAAoADCoh4zP/TI49cPqoNkyQPXD6qDZMkocWERVRE03N2J4VE5pUERpa2F5RFBFWENuZGdBPVoeIhxMdGR3aVNYUytxN3gyb3JRNmgrenFnMG1MSkk9ZSqnSYwSqAEIERKjAQocT3BCV0ZtNFNORDRGaGNuU1g5dkZJQ0dtc2RVPRIkYTZlMTMwMjAtZmNhMC00YjgyLTkwNGEtNjcwMDc0YmE2YjY2GAAgACgAMLT+56bpMjje6eem6TJA3unnpukyShwwQlBwaEdsT2FTMjZBTm55N1Z5NnVXS2FYOTQ9Wh8iHexxR1liSlRaM3VRUkxGUUd2QjdSdjdieWswcFE9ZVGkKbcSqAEIBhKjAQocVWJvN2UvcG5XdWkvWmZuWjNJeDVrN1JNWElJPRIkODFiZmQ5OWItZWNlMi00ZjI0LTlmYmEtMzdiZTQwYjcyMDQ1GAAgACgAMLCHjM/9MjjYgozP/TJA2IKMz/0yShwwSW9YbzUrdEluZ004eE1teUxtTHhtK2ljalE9Wh8iHaY3aER3THRtTnM0WEE0RWpGbGdaK3N4RjNYcXM9ZQAAAAASqAEICRKjAQocdDNFb3lpLzRIanYzeWdVblV1bWt4ZXYrRjhzPRIkZTBmYzg3OGEtZjcwMS00YzQwLThlYjEtZTdiZGI4ZjVmNjZiGAAgACgAMOqHjM/9MjjYgozP/TJA2IKMz/0yShx0a2RSeE9QR3FxZ0pwMlNZVXRMVEozT3pUWXM9Wh8iHawyNXJmYnAxOGs4UGFpQW12TlpXd1oyT3BYSEk9ZQAAAAASpwEIBxKiAQoceVlQaW1OUjNEUTE2TTZCaVZxZEoyeFBTc1RVPRIkN2ZlNjM3ZDMtYTdjYi00NTc4LTkyM2YtNTQwNjRmMTZjMzUzGAAgACgAMMKHjM/9MjjYgozP/TJA2IKMz/0yShxNVWRhS2NUb2p2ZUtNVVFPK2x5YzAzUEk4OUk9Wh4iHEVrRkJiTGNZNHVqUHE0NHAxZkVhL1l6MmJ6bz1laX0MwxKnAQgIEqIBChw0TVNoU05ESEZDbkxzTmV0UFVvQVFxeW9NU2M9EiQwOTdhNDdkZi04NzE2LTRhYzQtOWVjNC1mMzQ5NmM3Njk2N2QYACAAKAAw1IeMz/0yONiCjM/9MkDYgozP/TJKHGlVRXRsRVc1U3ZSbUFhcVA1TEhPMklUOWZlST1aHiIcWGlIaWZTS0pXczNSMHNQMGk3R3FYVk5xcHlFPWVpfQzDEqcBCA4SogEKHFBRa3NlS0lkditYbDhrcEIwbitWNXhQRVo3TT0SJDE3YmE5NTYyLTY0NzMtNGM1Zi1iOTM3LTQ0YzAxYzRjMGYxMxgAIAAoADCJqrDWgjI47ZWw1oIyQO2VsNaCMkocZnk2c01oR3pYVDVvbSttdnJiWGNaay9pbCtJPVoeIhxkblJNSFpJMFJ0bFVGMG12WVprMXg5djZ1TlE9ZWQE4ikSqAEIChKjAQocUzBJV1dWdDFieDdwTXVuV0RPamFnSzF0UjdjPRIkZTIyYWY0MTQtOTljZS00MjFkLWE4MDctNDM0OTJiM2QwYTc4GAAgACgAMPmHjM/9MjjYgozP/TJA2IKMz/0yShxzanhoMUxLdndnWDNYVXlWRjBWNnNIbk9LQm89Wh8iHdZTaGhVRWh5RTVRbG0zczBBZlhmNUQ4cnk2S1U9ZQAAAAASgwEIAhJ/ChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRlMmRkYjM5Zi00MDFiLTQwZTUtYTBkMy03MjllOWIwZTJiZDEYACAAKAAwATicqPCSvjFAnKjwkr4xShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgMEqIBChx2aTcwb21IYVZwMVpWbmFBM1ZlalY3b3ZLZEE9EiQ3MjQ2NzIzNC1iN2NmLTQ4ZWUtYWYzNy05MjRjNjc4ODU4MjUYACAAKAAwhsro5PoyOKHvr4H5MkCh76+B+TJKHFVVaW1jRTJoN1dMSFd6Y0xJM1J1akhjYWVsaz1aHiIcSk8wR21LcU1KM0JISHZ0RDg3OVF5dDI1b2dBPWUUxjW1EqcBCA8SogEKHElGOFhySE9sVXZMZC84SWo2dlFTV1VJRElVST0SJGRiODg3OWM4LTg1OTEtNDA1OC1hZTYzLTZmMjc5ODIyODNjZhgAIAAoADDQ8Pq07zI40pea6tYyQNKXmurWMkocQm9rWTNiQVRjak42Ky9kYzEwRkZHNGZDWTU0PVoeIhxndGJjNGZLY3ZQMnNIQnhob3QzNXlIcUs4NVU9ZZV8psQSqAEIEBKjAQocWGFiY09ud1lWTmhPSjdydm84dGNIS3J1dkNrPRIkOThkMjMzZjUtNTA0NC00NWE4LWE3NzUtNjc2NTg0ZDUzOTU2GAAgACgAMN7O0cvbMjjYv9HL2zJA2L/Ry9syShxJSGhrNXVqZ20zN1FUaHZ6ZTUra09wVEJUdjg9Wh8iHbM5Z2llZGRteFJnTTAvY1BMNW9kRjg1a2YwMTA9ZdaE9OISgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRhMjBjODdmNC0yYjYwLTQ2YjQtODY2ZS0yODk0NDdlMTVmODYYACAAKAAwATicqPCSvjFAnKjwkr4xShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQgVEqMBChxReU1kOTNvOUZmRTV5NFIzY01iR2orRFZSM1E9EiQxNzhiYjEzYS0xYjA2LTRlOGYtYmUyNy05M2I0M2RkZDMzYzQYACAAKAAw6b+e3P0yOM+Antz9MkDPgJ7c/TJKHFRGd2pxUmZ0T0hVemRPai9zbXNjSUV0M2JqOD1aHyId0zk5WGlydjVwMHQ0eklmWFJ5aDFWZUNGM2tQTT1lGlErkBKoAQgSEqMBChxFaCtzWTNNWXpHd0VEK24xdjE3SGZLN2RCRHc9EiQ1NDMxYWFiZS01NWJiLTQyYWQtOWQxNi1jNjFiMTYzODUxODgYACAAKAAw1cLCo/MyONK0wqPzMkDStMKj8zJKHHIxeGlWaUJ4c01jTml3MkpCV2lLdTMzTEE3WT1aHyId9nJwbXU5WDViWVZtV1NWb1M0OHNsQTJwUFV4QT1ljINCSxKoAQgTEqMBChxxQW5PZC9VRXArS1lVdzluNUZ2SE9ZcEVJNVk9EiQzYjhlOGQ4Yi03YzU4LTQ0YzYtODlkMy0yY2E1OTM1Njc0NzkYACAAKAAw49Xo5PoyOK/4pIH5MkCv+KSB+TJKHGFLbXd4emVJZ3JDMHZ0Z3NxcGx4RDBOdTQ2VT1aHyId9UdhRGRKdlIzQnRFZWplZmJIY1JwSW1jWG9zST1l/ZyMSjABOAA=",
+   "version": 1
+}

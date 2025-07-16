@@ -1,0 +1,69 @@
+.rack{
+	--slot-spacing:0;
+	box-sizing:border-box;
+	display:flex;
+	flex-flow:column nowrap;
+	justify-content:center;
+	pointer-events:none;
+	position:relative;
+	transition:bottom .25s ease-in,top .25s ease-in;
+	width:100%;
+	z-index:1002
+}
+.rack,.rack.bottom{
+	bottom:0;
+	flex-flow:column-reverse nowrap;
+	top:auto
+}
+.rack.top{
+	bottom:auto;
+	top:0
+}
+.rack .rack-slot{
+	margin:calc(var(--slot-spacing)*.5) 0;
+	max-height:310px;
+	transition:max-height 1s linear,opacity 1s ease-in;
+	width:100%
+}
+.rack.flow-down .rack-slot.close,.rack.flow-up .rack-slot.close{
+	max-height:0;
+	opacity:0;
+	overflow:hidden
+}
+.rack.disappear .rack-slot{
+	transition:max-height 1s linear,opacity 1s ease-in
+}
+.rack.disappear .rack-slot.close{
+	max-height:0;
+	opacity:0;
+	overflow:hidden
+}
+.rack.disappear .rack-slot.close.non-blocking{
+	margin:0
+}
+.rack .rack-slot .slot-inner{
+	align-items:center;
+	display:flex;
+	justify-content:center;
+	pointer-events:auto;
+	position:relative;
+	transition:opacity 1s ease-in
+}
+.rack.disappear .rack-slot.close .slot-inner{
+	opacity:0;
+	overflow:hidden;
+	top:0
+}
+.rack.flow-down .rack-slot .slot-inner,.rack.flow-up .rack-slot .slot-inner{
+	overflow:hidden;
+	top:0;
+	transition:top 4s ease-in
+}
+.rack.flow-down .rack-slot.close .slot-inner{
+	overflow:visible;
+	top:100vh
+}
+.rack.flow-up .rack-slot.close .slot-inner{
+	overflow:visible;
+	top:-100vh
+}

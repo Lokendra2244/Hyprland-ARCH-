@@ -1,0 +1,146 @@
+{
+   "addingAfterCancelFailed": {
+      "description": "Message to display if user hit Cancel in FDM and adding to browser is failed",
+      "message": "Браузер отклонил загрузку. Вы можете повторить загрузку через браузер, нажав на ссылку загрузки ещё раз"
+   },
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Интеграция Free Download Manager с браузером"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Free Download Manager"
+   },
+   "appShortName": {
+      "description": "Short name of the application, displayed in appropriate contexts.",
+      "message": "FDM"
+   },
+   "consent_agree": {
+      "description": "Agree button text",
+      "message": "Разрешить сбор анонимных данных"
+   },
+   "consent_decline": {
+      "description": "Decline button text",
+      "message": "Отказаться от сбора анонимных данных"
+   },
+   "consent_text": {
+      "description": "Privacy consent text with policy link",
+      "message": "\u003Cp>Free Download Manager не собирает и не передает публично или третьим лицам никакой личной информации.\u003C/p>\u003Cp>Когда браузер начинает загрузку, расширение Free Download Manager использует только те данные, которые необходимы для загрузки этого файла с конкретного сайта. Эти данные необходимы для начала, возобновления загрузки или планирования загрузки в Free Download Manager. Данные могут включать URL, интернет-адрес, куки, параметры запроса, данные POST-запроса, а именно все данные, которые браузер отправляет на сервер при запросе файла.\u003C/p>\u003Cp>Эти данные используются только на локальном компьютере для начала загрузки.\u003C/p>\u003Cp>Если вы решите не разрешать нам собирать анонимные данные, расширение FDM будет немедленно удалено из вашего браузера.\u003C/p>\u003Cp>Подробная информация об анонимных данных, которые мы собираем, и о том, как мы их используем, представлена в нашей \u003Ca class='privacy_link' href='https://www.freedownloadmanager.org/privacy.htm' target='_blank'>Политике конфиденциальности\u003C/a>.\u003C/p>"
+   },
+   "consent_title": {
+      "description": "Privacy consent page title",
+      "message": "Конфиденциальность расширения FDM"
+   },
+   "dlbyfdm": {
+      "description": "Download button for video",
+      "message": "Скачать с помощью FDM"
+   },
+   "installCorrupted": {
+      "description": "Message on corrupted FDM installation.",
+      "message": "Установка Free Download Manager повреждена. Пожалуйста, переустановите программу."
+   },
+   "installMissing": {
+      "description": "Message on missing FDM installation.",
+      "message": "Free Download Manager не найден. Пожалуйста, установите программу."
+   },
+   "installUnknownError": {
+      "description": "Message on unknown error with FDM installation.",
+      "message": "Неизвестная ошибка. Пожалуйста, переустановите Free Download Manager."
+   },
+   "install_action": {
+      "description": "Install",
+      "message": "Установить"
+   },
+   "install_free_save": {
+      "description": "It's fast, free and safe.",
+      "message": "Быстро, бесплатно и безопасно."
+   },
+   "install_set_up_fdm": {
+      "description": "To use it, please set up Free Download Manager. \u003Cbr /> It's available for Windows and Mac.",
+      "message": "Для использования, пожалуйста, установите Free Download Manager. \u003Cbr /> Доступен для Windows и Mac."
+   },
+   "install_successfully": {
+      "description": "FDM extension successfully installed",
+      "message": "Расширение FDM успешно установлено"
+   },
+   "menuAll": {
+      "description": "Context menu item for pages",
+      "message": "Скачать всё с помощью Free Download Manager"
+   },
+   "menuChannelVideos": {
+      "description": "Context menu item for channel videos",
+      "message": "Скачать видео канала с помощью Free Download Manager"
+   },
+   "menuChannelVideosShort": {
+      "description": "Context menu item for channel videos",
+      "message": "Скачать видео канала"
+   },
+   "menuPlaylistVideosShort": {
+      "description": "Context menu item for playlist videos",
+      "message": "Скачать видео плейлиста"
+   },
+   "menuSelected": {
+      "description": "Context menu item for selection",
+      "message": "Скачать выделенное с помощью Free Download Manager"
+   },
+   "menuSite": {
+      "description": "Context menu item for site",
+      "message": "Скачать веб-сайт с помощью Free Download Manager"
+   },
+   "menuThis": {
+      "description": "Context menu item for links and images",
+      "message": "Скачать с помощью Free Download Manager"
+   },
+   "menuVideo": {
+      "description": "Context menu item for videos",
+      "message": "Скачать видео с помощью Free Download Manager"
+   },
+   "menuVideoShort": {
+      "description": "Context menu item for videos",
+      "message": "Скачать видео"
+   },
+   "section_consent_start": {
+      "description": "=== CONSENT PAGE START ===",
+      "message": "."
+   },
+   "section_context_menu": {
+      "description": "=== CONTEXT MENU START ===",
+      "message": "."
+   },
+   "section_install_start": {
+      "description": "=== INSTALL PAGE START ===",
+      "message": "."
+   },
+   "section_service_messages_start": {
+      "description": "=== SERVICE MESSAGES START ===",
+      "message": "."
+   },
+   "section_settings_start": {
+      "description": "=== SETTINGS PAGE START ===",
+      "message": "."
+   },
+   "settings_dont_catch_downloads": {
+      "description": "Don't catch downloads option",
+      "message": "Не перехватывать загрузки с этого сайта"
+   },
+   "settings_help_and_feedback": {
+      "description": "Help and Feedback",
+      "message": "Помощь и обратная связь"
+   },
+   "settings_loading": {
+      "description": "Loading message shown during settings initialization",
+      "message": "Загрузка..."
+   },
+   "settings_options": {
+      "description": "Options",
+      "message": "Настройки"
+   },
+   "settings_pause_downloads": {
+      "description": "Pause to catch downloads option",
+      "message": "Приостановить все перехваты загрузок"
+   },
+   "settings_update_message": {
+      "description": "Message about updating FDM. ",
+      "message": "Настройки недоступны для вашей версии FDM.\u003Cbr />Пожалуйста, \u003Ca href='https://www.freedownloadmanager.org/download.htm' target='_blank'>обновите\u003C/a> её."
+   }
+}

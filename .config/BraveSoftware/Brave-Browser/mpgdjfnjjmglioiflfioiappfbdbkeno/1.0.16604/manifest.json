@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr3arBYpWfbSQIYLDp6nVB4aQG+2r5NOh1n5YuD8zhYa8lN4G6m1/JqcMkbK/KE1ujqG4q9Orh5d0FjumAtdzw/KkEEg14OKmu3+xeHxV2YbIDJGEW7aTMwlqO0Nz0Da+Z41hbMLcjjCHl2KrSoAM4ogUYVtYW1GLplfH3P5ss+hM1qrwBsPI+pXIMyK1ZqTc8552+SxQFJ7RFbn1h1t9cSu0JoNw3SiIGmrOT45ZROeQ3D5tP1MCPqnOsanTeo0NTnt65AuGhj5EvOcSGZnbhhQulwpzA72r1reQ3wBlXjdIR0w1S1wAn75LXYgPcBMaST3Cfais0hs/eihWQceS7QIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Liste AR (plaintext))",
+  "version": "1.0.16604"
+}

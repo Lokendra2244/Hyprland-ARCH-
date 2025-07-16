@@ -1,0 +1,111 @@
+.sprite-it-mime-lg,.sprite-it-mime-lg-after:after,.sprite-it-mime-lg-before:before{
+	background:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg) no-repeat;
+	background-size:100%;
+	content:"";
+	display:block;
+	height:var(--icon-size, 96px);
+	width:var(--icon-size, 96px)
+}
+.sprite-it-mime-lg-after.aftereffects-after:after,.sprite-it-mime-lg-before.aftereffects-before:before,.sprite-it-mime-lg.aftereffects{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#aftereffects)
+}
+.sprite-it-mime-lg-after.audio-after:after,.sprite-it-mime-lg-before.audio-before:before,.sprite-it-mime-lg.audio{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#audio)
+}
+.sprite-it-mime-lg-after.cad-after:after,.sprite-it-mime-lg-before.cad-before:before,.sprite-it-mime-lg.cad{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#cad)
+}
+.sprite-it-mime-lg-after.compressed-after:after,.sprite-it-mime-lg-before.compressed-before:before,.sprite-it-mime-lg.compressed{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#compressed)
+}
+.sprite-it-mime-lg-after.dmg-after:after,.sprite-it-mime-lg-before.dmg-before:before,.sprite-it-mime-lg.dmg{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#dmg)
+}
+.sprite-it-mime-lg-after.ex-drive-after:after,.sprite-it-mime-lg-before.ex-drive-before:before,.sprite-it-mime-lg.ex-drive{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#ex-drive)
+}
+.sprite-it-mime-lg-after.excel-after:after,.sprite-it-mime-lg-before.excel-before:before,.sprite-it-mime-lg.excel{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#excel)
+}
+.sprite-it-mime-lg-after.executable-after:after,.sprite-it-mime-lg-before.executable-before:before,.sprite-it-mime-lg.executable{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#executable)
+}
+.sprite-it-mime-lg-after.experiencedesign-after:after,.sprite-it-mime-lg-before.experiencedesign-before:before,.sprite-it-mime-lg.experiencedesign{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#experiencedesign)
+}
+.sprite-it-mime-lg-after.font-after:after,.sprite-it-mime-lg-before.font-before:before,.sprite-it-mime-lg.font{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#font)
+}
+.sprite-it-mime-lg-after.generic-after:after,.sprite-it-mime-lg-before.generic-before:before,.sprite-it-mime-lg.generic{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#generic)
+}
+.sprite-it-mime-lg-after.illustrator-after:after,.sprite-it-mime-lg-before.illustrator-before:before,.sprite-it-mime-lg.illustrator{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#illustrator)
+}
+.sprite-it-mime-lg-after.image-after:after,.sprite-it-mime-lg-before.image-before:before,.sprite-it-mime-lg.image{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#image)
+}
+.sprite-it-mime-lg-after.indesign-after:after,.sprite-it-mime-lg-before.indesign-before:before,.sprite-it-mime-lg.indesign{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#indesign)
+}
+.sprite-it-mime-lg-after.keynote-after:after,.sprite-it-mime-lg-before.keynote-before:before,.sprite-it-mime-lg.keynote{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#keynote)
+}
+.sprite-it-mime-lg-after.numbers-after:after,.sprite-it-mime-lg-before.numbers-before:before,.sprite-it-mime-lg.numbers{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#numbers)
+}
+.sprite-it-mime-lg-after.open-office-after:after,.sprite-it-mime-lg-before.open-office-before:before,.sprite-it-mime-lg.open-office{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#open-office)
+}
+.sprite-it-mime-lg-after.pages-after:after,.sprite-it-mime-lg-before.pages-before:before,.sprite-it-mime-lg.pages{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#pages)
+}
+.sprite-it-mime-lg-after.pdf-after:after,.sprite-it-mime-lg-before.pdf-before:before,.sprite-it-mime-lg.pdf{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#pdf)
+}
+.sprite-it-mime-lg-after.photoshop-after:after,.sprite-it-mime-lg-before.photoshop-before:before,.sprite-it-mime-lg.photoshop{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#photoshop)
+}
+.sprite-it-mime-lg-after.powerpoint-after:after,.sprite-it-mime-lg-before.powerpoint-before:before,.sprite-it-mime-lg.powerpoint{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#powerpoint)
+}
+.sprite-it-mime-lg-after.premiere-after:after,.sprite-it-mime-lg-before.premiere-before:before,.sprite-it-mime-lg.premiere{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#premiere)
+}
+.sprite-it-mime-lg-after.raw-after:after,.sprite-it-mime-lg-before.raw-before:before,.sprite-it-mime-lg.raw{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#raw)
+}
+.sprite-it-mime-lg-after.sketch-after:after,.sprite-it-mime-lg-before.sketch-before:before,.sprite-it-mime-lg.sketch{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#sketch)
+}
+.sprite-it-mime-lg-after.spreadsheet-after:after,.sprite-it-mime-lg-before.spreadsheet-before:before,.sprite-it-mime-lg.spreadsheet{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#spreadsheet)
+}
+.sprite-it-mime-lg-after.text-after:after,.sprite-it-mime-lg-before.text-before:before,.sprite-it-mime-lg.text{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#text)
+}
+.sprite-it-mime-lg-after.threed-after:after,.sprite-it-mime-lg-before.threed-before:before,.sprite-it-mime-lg.threed{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#threed)
+}
+.sprite-it-mime-lg-after.torrent-after:after,.sprite-it-mime-lg-before.torrent-before:before,.sprite-it-mime-lg.torrent{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#torrent)
+}
+.sprite-it-mime-lg-after.url-after:after,.sprite-it-mime-lg-before.url-before:before,.sprite-it-mime-lg.url{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#url)
+}
+.sprite-it-mime-lg-after.vector-after:after,.sprite-it-mime-lg-before.vector-before:before,.sprite-it-mime-lg.vector{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#vector)
+}
+.sprite-it-mime-lg-after.video-after:after,.sprite-it-mime-lg-before.video-before:before,.sprite-it-mime-lg.video{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#video)
+}
+.sprite-it-mime-lg-after.web-data-after:after,.sprite-it-mime-lg-before.web-data-before:before,.sprite-it-mime-lg.web-data{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#web-data)
+}
+.sprite-it-mime-lg-after.web-lang-after:after,.sprite-it-mime-lg-before.web-lang-before:before,.sprite-it-mime-lg.web-lang{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#web-lang)
+}
+.sprite-it-mime-lg-after.word-after:after,.sprite-it-mime-lg-before.word-before:before,.sprite-it-mime-lg.word{
+	background-image:url(../imagery/js-ui-transfer-sprites-it-mime-lg-uni.992729138941f51c.svg#word)
+}
+

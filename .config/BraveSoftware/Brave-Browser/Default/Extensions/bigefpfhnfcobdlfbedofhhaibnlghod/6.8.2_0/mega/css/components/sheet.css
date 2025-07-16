@@ -1,0 +1,113 @@
+
+.mega-sheet .sheet{
+	background:var(--mobile-page-background);
+	border-radius:var(--mobile-border-radius-large) var(--mobile-border-radius-large) 0 0;
+	box-sizing:border-box;
+	display:flex;
+	flex-direction:column;
+	max-height:calc(100% - 16px);
+	padding:40px 0;
+	transform:translateY(calc(50% + 50vh));
+	transition:transform .2s ease-out;
+	width:100%
+}
+.mobile .mega-sheet .sheet{
+	background:var(--mobile-surface-1);
+	padding-bottom:16px
+}
+.mega-sheet.with-footer .sheet{
+	padding-bottom:0
+}
+.mega-sheet .sheet .actions,.mega-sheet .sheet .header,.mega-sheet .sheet .main{
+	box-sizing:border-box;
+	padding:0 40px;
+	width:100%
+}
+body.mobile .mega-sheet .sheet .actions,body.mobile .mega-sheet .sheet .header,body.mobile .mega-sheet .sheet .main{
+	padding:0 24px
+}
+.mega-sheet .sheet>.close,body.mobile .mega-sheet .sheet .main{
+	margin-bottom:16px
+}
+.mega-sheet .sheet>.actions{
+	margin-top:16px
+}
+.mega-sheet.active .sheet{
+	transform:translateY(0)
+}
+.mega-sheet.normal .main{
+	align-items:flex-start;
+	text-align:start
+}
+body.mobile .mega-sheet.normal .sheet .main{
+	padding:0
+}
+.mega-sheet.modal-dialog .main{
+	align-items:center;
+	text-align:center
+}
+.mega-sheet.modal-dialog-left.main{
+	align-items:flex-start;
+	text-align:left
+}
+.mega-sheet i.icon{
+	--icon-size:80px
+}
+.mega-sheet i.icon.success{
+	color:var(--mobile-support-success)
+}
+.mega-sheet i.icon.warning{
+	color:var(--mobile-support-warning)
+}
+.mega-sheet i.icon.error{
+	color:var(--mobile-support-error)
+}
+.mega-sheet i.icon.info{
+	color:var(--mobile-support-info)
+}
+.icon.loading{
+	animation:rotate 1.5s steps(8) infinite
+}
+.mega-sheet.full-height .sheet{
+	height:calc(100% - 16px)
+}
+.mega-sheet .actions .button span{
+	font-weight:var(--mobile-font-weight-semibold)
+}
+.mega-sheet .actions:empty,.mega-sheet .content:empty,.mega-sheet .header-title:empty .mega-sheet .title:empty,.mega-sheet .image:empty{
+	display:none
+}
+.rtl .mega-sheet .image,.rtl .mega-sheet .title{
+	margin-left:auto
+}
+.export-links-dialog .sheet,.export-links-settings-dialog .sheet,.link-embed-dialog .sheet{
+	background:var(--mobile-page-background);
+	border:1px solid var(--mobile-border-subtle)
+}
+.export-links-dialog .sheet .overlay-footer{
+	margin-top:0
+}
+body.web-desktop .mega-sheet{
+	justify-content:center
+}
+body.web-desktop .mega-sheet .sheet{
+	width:calc(100% - 16px)
+}
+body.web-desktop .mega-sheet .sheet,body.web-desktop .mega-sheet .sheet.ps{
+	border-radius:var(--mobile-border-radius-extra-large);
+	margin:auto;
+	max-height:95%;
+	max-width:562px;
+	min-width:unset
+}
+body.web-desktop .mega-sheet .overlay-footer{
+	border-radius:0 0 var(--mobile-border-radius-large) var(--mobile-border-radius-large);
+	margin-top:24px
+}
+body.web-desktop .mega-sheet.modal-dialog .actions{
+	padding:24px 48px;
+	width:100%
+}
+body.web-desktop .mega-sheet.discard-dialog .sheet,body.web-desktop .mega-sheet.export-links-dialog .sheet,body.web-desktop .mega-sheet.export-links-settings-dialog .sheet,body.web-desktop .mega-sheet.link-embed-dialog .sheet,body.web-desktop .mega-sheet.link-settings-discard-dialog .sheet,body.web-desktop .mega-sheet.promo-dialog .sheet,body.web-desktop .mega-sheet.remove-link-dialog .sheet,body.web-desktop.pwm-ui .mega-sheet.normal.with-footer .sheet{
+	max-width:640px
+}

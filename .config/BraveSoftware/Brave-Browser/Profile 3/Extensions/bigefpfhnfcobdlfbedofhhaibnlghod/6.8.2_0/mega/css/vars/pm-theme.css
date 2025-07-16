@@ -1,0 +1,24 @@
+.custom-alpha,body{
+
+	--font-family-password:"Work Sans", sans-serif;
+
+	--font-weight-medium:500;
+
+	--font-button-label:var(--mobile-font-weight-semibold) var(--mobile-font-size-4)/var(--mobile-font-line-height-heading) var(--mobile-font-family-main);
+	--font-password-preview:var(--mobile-font-weight-bold) var(--mobile-font-size-6)/var(--mobile-font-line-height-text) var(--font-family-password);
+	--font-input-password:var(--font-weight-medium) var(--mobile-font-size-4)/var(--mobile-font-line-height-text) var(--font-family-password);
+	--font-label-semibold:var(--mobile-font-weight-semibold) var(--mobile-font-size-3)/var(--mobile-font-line-height-heading) var(--mobile-font-family-main);
+
+	--outline:4px solid var(--field-outline);
+	--favicon-text-color:#303233
+}
+.theme-light,.theme-light .custom-alpha,html .theme-light-forced{
+	--field-outline:#bdd9ff;
+	--settings-page-background:var(--mobile-surface-2);
+	--settings-list-background:var(--mobile-page-background)
+}
+.theme-dark,.theme-dark .custom-alpha,html .theme-dark-forced{
+	--field-outline:#2647d0;
+	--settings-page-background:var(--mobile-page-background);
+	--settings-list-background:var(--mobile-surface-1)
+}

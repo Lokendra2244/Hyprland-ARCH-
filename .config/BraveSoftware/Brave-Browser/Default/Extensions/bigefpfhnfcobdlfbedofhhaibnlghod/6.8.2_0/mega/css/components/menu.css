@@ -1,0 +1,17 @@
+
+.menu-container.overlay-wrap{
+	align-items:start;
+	background-color:var(--mobile-surface-1);
+	background-color:var(--mobile-page-background);
+	border:1px solid var(--mobile-border-strong);
+	border-radius:var(--mobile-border-radius-large);
+	box-shadow:var(--mobile-shadow-medium);
+	height:auto;
+	overflow-y:auto;
+	position:absolute;
+	transition:none;
+	width:max-content
+}
+.menu-container button.mega-component{
+	text-align:start
+}

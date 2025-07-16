@@ -1,0 +1,173 @@
+.selection-status-bar{
+	padding-inline:24px;
+	align-items:center;
+	display:flex;
+	flex:1;
+	height:32px;
+	margin-top:8px;
+	overflow:hidden;
+	padding-bottom:8px;
+	transition:.2s linear
+}
+.selection-status-bar.gallery-pad{
+	padding-top:8px
+}
+.selection-status-bar .items-center{
+	padding-inline:12px;
+	align-items:center;
+	background:#fcefef;
+	border:none;
+	border-radius:16px;
+	color:#7b2118;
+	display:flex;
+	height:24px;
+	justify-content:center;
+	margin-inline-end:24px;
+	outline:none;
+	white-space:nowrap
+}
+.theme-dark .selection-status-bar .items-center,.theme-dark .selection-status-bar .items-center .fm-filter-chip-button-text{
+	background:#5b130d;
+	color:#fcefef
+}
+.selection-status-bar .spacer{
+	margin:8px
+}
+.selection-status-bar .spacer:empty{
+	margin:0
+}
+.selection-status-bar .selection-bar-col .sel-notif-size-total{
+	background-color:var(--stroke-main);
+	border-radius:50px;
+	color:var(--stroke-main-inverted);
+	display:inline-block;
+	height:28px;
+	line-height:28px;
+	margin-inline-start:10px;
+	padding:0 14px;
+	text-align:center
+}
+.mega-lite-mode .selection-status-bar .selection-bar-col .sel-notif-size-total,.selection-status-bar .selection-bar-col .sel-notif-size-total:empty{
+	display:none
+}
+.selection-status-bar .selection-bar-col{
+	font:var(--mobile-font-caption-large-semibold)
+}
+.selection-links-wrapper{
+	border-inline-start:1px solid var(--mobile-border-strong);
+	padding-inline-start:12px;
+	white-space:nowrap
+}
+.selection-links-wrapper .icon-only.transparent-icon.small{
+	--icon-size:24px;
+	cursor:pointer;
+	height:32px;
+	margin:0 12px;
+	padding:4px;
+	width:32px
+}
+.btn-galleries,.btn-myfiles{
+	background:transparent;
+	border:none;
+	border-radius:4px;
+	box-sizing:border-box;
+	color:var(--stroke-main-inverted);
+	cursor:pointer;
+	font:var(--text-body1);
+	height:32px;
+	line-height:32px;
+	margin:2px 0;
+	opacity:.7;
+	outline:0;
+	overflow:hidden;
+	padding:0 6px;
+	text-align:start;
+	text-overflow:ellipsis;
+	white-space:nowrap;
+	width:100%
+}
+.btn-galleries{
+	padding-inline-start:4px
+}
+.btn-galleries i,.btn-myfiles i{
+	--icon-size:24px;
+	--mask-color:var(--stroke-main-inverted);
+	float:left;
+	line-height:32px;
+	margin-inline-end:8px;
+	margin-top:4px
+}
+.btn-galleries.active,.btn-myfiles.active{
+	opacity:1
+}
+.btn-galleries.active i:not(.icon-dropdown):not(.icon-link-small),.btn-myfiles.active i:not(.icon-dropdown){
+	--mask-color:var(--secondary-blue)
+}
+.btn-galleries.active i.icon-dropdown,.btn-myfiles.active i.icon-dropdown{
+	--mask-color:var(--icon-active)
+}
+.rtl .btn-galleries i,.rtl .btn-myfiles i{
+	float:right
+}
+.btn-galleries.active,.btn-galleries:hover,.btn-myfiles.active,.btn-myfiles:hover{
+	background-color:var(--stroke-grey-1);
+	box-shadow:0 1px 4px 0 rgba(0, 0, 0, .1);
+	color:var(--stroke-main-inverted);
+	cursor:pointer
+}
+.btn-galleries span,.btn-myfiles span{
+	margin-inline-end:8px
+}
+.lp-gallery .btn-galleries span{
+	width:calc(100% - 40px)
+}
+.btn-galleries.subalbum-btn:after{
+	background:var(--surface-tree-iconwrap);
+	content:"";
+	display:inline-block;
+	padding:16px 16px 16px 4px;
+	position:sticky;
+	right:-1px;
+	vertical-align:middle
+}
+.fm-other-tree-panel .btn-galleries.subalbum-btn:after{
+	right:-7px
+}
+.rtl .btn-galleries.subalbum-btn:after{
+	background:var(--surface-tree-iconwrap-rtl);
+	left:-1px
+}
+.btn-galleries.subalbum-btn.active:after,.btn-galleries.subalbum-btn.selected:after,.btn-galleries.subalbum-btn:hover:after{
+	background:var(--surface-tree-iconwrap-active)
+}
+.rtl .btn-galleries.subalbum-btn.active:after,.rtl .btn-galleries.subalbum-btn.selected:after,.rtl .btn-galleries.subalbum-btn:hover:after{
+	background:var(--surface-tree-iconwrap-active-rtl)
+}
+.btn-icon{
+	background:transparent;
+	border:none;
+	border-radius:4px;
+	cursor:pointer;
+	font-family:inherit;
+	margin:2px 0;
+	outline:0;
+	padding:0;
+	text-align:start
+}
+.btn-icon:hover{
+	background:var(--button-hover)
+}
+.btn-link{
+	background:transparent;
+	border:none;
+	color:var(--text-color-success);
+	cursor:pointer;
+	font:var(--text-body2);
+	max-width:300px;
+	outline:0;
+	overflow:hidden;
+	padding:0;
+	text-align:start;
+	text-overflow:ellipsis;
+	white-space:nowrap
+}

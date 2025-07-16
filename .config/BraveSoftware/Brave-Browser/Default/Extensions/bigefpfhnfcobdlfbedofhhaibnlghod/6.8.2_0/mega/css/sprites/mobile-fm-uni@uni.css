@@ -1,0 +1,25 @@
+.sprite-mobile-fm-uni,.sprite-mobile-fm-uni-after:after,.sprite-mobile-fm-uni-before:before{
+	background-image:url(../imagery/sprites-mobile-fm-uni-uni.a04354ba3c129bf6.svg);
+	background-repeat:no-repeat;
+	background-size:100%;
+	content:"";
+	display:block;
+	height:var(--icon-size, 16px);
+	width:var(--icon-size, 16px)
+}
+.sprite-mobile-fm-uni-after.icon-authy-after:after,.sprite-mobile-fm-uni-before.icon-authy-before:before,.sprite-mobile-fm-uni.icon-authy{
+	background-image:url(../imagery/sprites-mobile-fm-uni-uni.a04354ba3c129bf6.svg#icon-authy)
+}
+.sprite-mobile-fm-uni-after.icon-duo-auth-after:after,.sprite-mobile-fm-uni-before.icon-duo-auth-before:before,.sprite-mobile-fm-uni.icon-duo-auth{
+	background-image:url(../imagery/sprites-mobile-fm-uni-uni.a04354ba3c129bf6.svg#icon-duo-auth)
+}
+.sprite-mobile-fm-uni-after.icon-google-auth-after:after,.sprite-mobile-fm-uni-before.icon-google-auth-before:before,.sprite-mobile-fm-uni.icon-google-auth{
+	background-image:url(../imagery/sprites-mobile-fm-uni-uni.a04354ba3c129bf6.svg#icon-google-auth)
+}
+.sprite-mobile-fm-uni-after.icon-mega-logo-rounded-square-after:after,.sprite-mobile-fm-uni-before.icon-mega-logo-rounded-square-before:before,.sprite-mobile-fm-uni.icon-mega-logo-rounded-square{
+	background-image:url(../imagery/sprites-mobile-fm-uni-uni.a04354ba3c129bf6.svg#icon-mega-logo-rounded-square)
+}
+.sprite-mobile-fm-uni-after.icon-microsoft-auth-after:after,.sprite-mobile-fm-uni-before.icon-microsoft-auth-before:before,.sprite-mobile-fm-uni.icon-microsoft-auth{
+	background-image:url(../imagery/sprites-mobile-fm-uni-uni.a04354ba3c129bf6.svg#icon-microsoft-auth)
+}
+

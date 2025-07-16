@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1rHaQ0bQIJ5cy/FaPShexLfM/zwGsGnknGMEhIAU0V6+0TZmsbQ9cMTLORisXp7doJuYh6umGrotJ27lnj4wl3UnKFJMpOFeh3zd1cafpwDWvyCuH1d0S8N3stiGkP7XOH/B1emXb+gCuuxVYHu+B9JaPZD02nWFCW/AoIYEjbtUB9we+fCF0MJ9/VHeOk554r17DfXvROc3i7wLm8crDjESm3cZB14mrW60u1l+ll6vwA5zOXxGPFl7MWfa+Y+FRG0gWJq1g+5Uf7Qfm1bRNfaJW8vtGmjCaGXzuBBOUol2plSrWfUEj0pRZ1/py0vtJneVBrs6ubSMPwbKzjot6QIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (AdGuard URL Tracking Protection Filters (plaintext))",
+  "version": "1.0.231"
+}

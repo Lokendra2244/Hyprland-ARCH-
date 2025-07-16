@@ -1,0 +1,56 @@
+@import url("/home/AMBHI/.cache/wal/colors-waybar.css");
+* {
+	background-image: none;
+	box-shadow: none;
+        margin-left:165px;
+}
+
+window {
+	background-color: rgba(12, 12, 12, 0);
+}
+
+
+button {
+    margin: 4px;
+    border-radius: 25px;
+    border-color: rgba(0,0,0,0);
+	text-decoration-color: @color4;
+    color: @color4;
+	background-color: rgba(0,0,0,0.2);
+	border-style: solid;
+	border-width: 0px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 10%;
+}
+
+button:hover {
+        background-size: 25%;
+	background-color: @color1;
+	outline-style: none;
+}
+
+#lock {
+    background-image: image(url("/usr/share/wlogout/icons/lock.png"), url("/usr/local/share/wlogout/icons/lock.png"));
+}
+
+#logout {
+    background-image: image(url("/usr/share/wlogout/icons/logout.png"), url("/usr/local/share/wlogout/icons/logout.png"));
+}
+
+
+#shutdown {
+    background-image: image(url("/usr/share/wlogout/icons/shutdown.png"), url("/usr/local/share/wlogout/icons/shutdown.png"));
+}
+
+#reboot {
+    background-image: image(url("/usr/share/wlogout/icons/reboot.png"), url("/usr/local/share/wlogout/icons/reboot.png"));
+}
+#suspend {
+    background: none;
+    border: none;
+}
+#hibernate {
+    background:none;
+    border:none;
+}

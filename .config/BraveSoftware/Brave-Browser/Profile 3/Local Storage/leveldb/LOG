@@ -1,0 +1,42 @@
+2025/07/16-12:33:34.335 4 Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/Local Storage/leveldb/MANIFEST-000001
+2025/07/16-12:33:34.338 4 Recovering log #56
+2025/07/16-12:33:34.340 4 Reusing old log /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/Local Storage/leveldb/000056.log 
+2025/07/16-13:08:50.364 5 Level-0 table #60: started
+2025/07/16-13:08:50.367 5 Level-0 table #60: 15009 bytes OK
+2025/07/16-13:08:50.369 5 Delete type=0 #56
+2025/07/16-13:08:50.370 5 Compacting 4@0 + 1@1 files
+2025/07/16-13:08:50.386 5 Generated table #61@0: 697 keys, 392382 bytes
+2025/07/16-13:08:50.386 5 Compacted 4@0 + 1@1 files => 392382 bytes
+2025/07/16-13:08:50.387 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/16-13:08:50.388 5 Delete type=2 #55
+2025/07/16-13:08:50.388 5 Delete type=2 #60
+2025/07/16-13:08:50.388 5 Delete type=2 #52
+2025/07/16-13:08:50.388 5 Delete type=2 #50
+2025/07/16-13:08:50.388 5 Delete type=2 #57
+2025/07/16-13:40:59.984 5 Level-0 table #63: started
+2025/07/16-13:40:59.987 5 Level-0 table #63: 18916 bytes OK
+2025/07/16-13:40:59.988 5 Delete type=0 #59
+2025/07/16-14:19:11.433 4 Level-0 table #65: started
+2025/07/16-14:19:11.440 4 Level-0 table #65: 20358 bytes OK
+2025/07/16-14:19:11.442 4 Delete type=0 #62
+2025/07/16-14:38:38.033 5 Level-0 table #67: started
+2025/07/16-14:38:38.040 5 Level-0 table #67: 22624 bytes OK
+2025/07/16-14:38:38.047 5 Delete type=0 #64
+2025/07/16-14:50:35.464 5 Level-0 table #69: started
+2025/07/16-14:50:35.471 5 Level-0 table #69: 16764 bytes OK
+2025/07/16-14:50:35.473 5 Delete type=0 #66
+2025/07/16-14:50:35.473 5 Compacting 4@0 + 1@1 files
+2025/07/16-14:50:35.481 5 Generated table #70@0: 731 keys, 396369 bytes
+2025/07/16-14:50:35.481 5 Compacted 4@0 + 1@1 files => 396369 bytes
+2025/07/16-14:50:35.482 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/16-14:50:35.483 5 Delete type=2 #63
+2025/07/16-14:50:35.483 5 Delete type=2 #69
+2025/07/16-14:50:35.483 5 Delete type=2 #67
+2025/07/16-14:50:35.483 5 Delete type=2 #65
+2025/07/16-14:50:35.483 5 Delete type=2 #61
+2025/07/16-15:11:52.166 5 Level-0 table #72: started
+2025/07/16-15:11:52.173 5 Level-0 table #72: 17269 bytes OK
+2025/07/16-15:11:52.175 5 Delete type=0 #68
+2025/07/16-15:14:28.839 5 Level-0 table #74: started
+2025/07/16-15:14:28.841 5 Level-0 table #74: 17805 bytes OK
+2025/07/16-15:14:28.843 5 Delete type=0 #71

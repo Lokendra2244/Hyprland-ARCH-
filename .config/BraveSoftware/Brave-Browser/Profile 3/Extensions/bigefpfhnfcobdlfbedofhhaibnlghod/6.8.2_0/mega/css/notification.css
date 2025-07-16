@@ -1,0 +1,62 @@
+.mega-header .notif-wrapper{
+	position:relative
+}
+.mega-header .dropdown.body{
+	display:block;
+	right:-8px;
+	top:calc(100% + 20px)
+}
+.mega-header .notification-popup .fm-notifications-bottom{
+	border-top:1px solid var(--divider-color);
+	justify-content:flex-end;
+	padding:12px 20px 16px
+}
+.mega-header .top-warning-popup .fm-notifications-bottom{
+	border-top:none;
+	justify-content:flex-end;
+	padding:24px 0 0
+}
+.mega-header .notification-popup .notification-txt{
+	background:none
+}
+.mega-lite-mode .mega-header .dropdown .notification{
+	display:none
+}
+.mega-lite-mode .mega-header .back-to-mega-button{
+	display:inline-block
+}
+#old-header-account-states-popups .dropdown-content{
+	display:none;
+	position:absolute
+}
+#old-header-account-states-popups .dropdown.show .dropdown-content{
+	display:block;
+	right:-10px
+}
+#old-header-account-states-popups>*{
+	justify-content:center;
+	margin-inline-start:24px;
+	position:relative;
+	width:32px
+}
+#old-header-account-states-popups>*>button,#old-header-account-states-popups>*>i{
+	position:relative;
+	z-index:1
+}
+#old-header-account-states-popups>*>:not(.dropdown):hover{
+	background-color:initial;
+	z-index:251
+}
+#old-header-account-states-popups>.show:before,#old-header-account-states-popups>:hover:before{
+	background-color:var(--mobile-surface-2);
+	bottom:-16px;
+	content:"";
+	display:block;
+	left:-12px;
+	position:absolute;
+	right:-12px;
+	top:-16px
+}
+#old-header-account-states-popups>:not(.show):hover:before{
+	background-color:var(--mobile-surface-1)
+}

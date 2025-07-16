@@ -1,0 +1,28 @@
+.context-menu-item .nav-elem span{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-copy-regular)
+}
+.context-menu-item button{
+	padding:0;
+	text-align:start
+}
+.context-menu-container menu{
+	margin:0;
+	padding:0
+}
+.context-menu.title{
+	align-items:center;
+	box-sizing:border-box;
+	display:flex;
+	width:100%
+}
+.context-menu .fm-item-info{
+	display:flex;
+	flex-direction:column;
+	margin-inline-start:15px;
+	overflow:hidden;
+	white-space:nowrap
+}
+.sheet .context-menu-container{
+	padding-inline-end:16px
+}

@@ -1,0 +1,45 @@
+
+.mega-sheet.on-boarding .mega-list-container.handler-data-list:first-child{
+	padding:0 24px
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list:not(:first-child){
+	border-bottom:1px solid var(--mobile-border-subtle);
+	border-top:1px solid var(--mobile-border-subtle);
+	box-sizing:border-box;
+	flex-grow:1;
+	margin-bottom:24px;
+	max-height:100%;
+	overflow:hidden;
+	padding:24px
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list:not(:first-child) .mega-list{
+	max-height:100%
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list img{
+	height:24px;
+	width:24px
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list .mega-list .mega-list-item{
+	justify-content:flex-start
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list .mega-list .mega-list-item-left-icon{
+	margin-right:16px;
+	min-width:24px;
+	text-align:center
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list .mega-list .mega-list-item-text{
+	min-width:150px
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list .mega-list .mega-list-item-text .mega-item-list-title{
+	font:var(--mobile-font-caption-large-semibold);
+	margin-bottom:0
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list .mega-list .mega-list-item-right{
+	flex:1
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list .mega-list .mega-list-item-right .mega-checkbox{
+	flex-direction:row-reverse
+}
+.mega-sheet.on-boarding .mega-list-container.handler-data-list .mega-list .mega-list-item-right .mega-checkbox .checkbox-action{
+	width:auto
+}

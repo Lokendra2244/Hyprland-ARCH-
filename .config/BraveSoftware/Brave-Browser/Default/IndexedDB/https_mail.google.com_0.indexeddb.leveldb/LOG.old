@@ -1,0 +1,9 @@
+2025/07/16-01:48:14.197 6c7e Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/16-01:48:14.197 6c7e Recovering log #106
+2025/07/16-01:48:14.199 6c7e Reusing old log /home/AMBHI/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000106.log 
+2025/07/16-01:48:17.916 6c7d Compacting 1@1 + 1@2 files
+2025/07/16-01:48:17.925 6c7d Generated table #109@1: 211 keys, 721246 bytes
+2025/07/16-01:48:17.926 6c7d Compacted 1@1 + 1@2 files => 721246 bytes
+2025/07/16-01:48:17.927 6c7d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/16-01:48:17.927 6c7d Delete type=2 #107
+2025/07/16-01:48:17.927 6c7d Delete type=2 #105

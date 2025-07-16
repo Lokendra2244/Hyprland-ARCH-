@@ -1,0 +1,7 @@
+2025/07/13-01:15:37.500 1f82 Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/13-01:15:37.501 1f82 Recovering log #4
+2025/07/13-01:15:37.501 1f82 Reusing old log /home/AMBHI/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000004.log 
+2025/07/13-01:15:40.437 1f82 Level-0 table #8: started
+2025/07/13-01:15:40.438 1f82 Level-0 table #8: 9259 bytes OK
+2025/07/13-01:15:40.440 1f82 Delete type=0 #4
+2025/07/13-01:15:40.441 1f82 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

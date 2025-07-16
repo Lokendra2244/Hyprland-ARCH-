@@ -1,0 +1,85 @@
+@font-face{
+	font-display:swap;
+	font-family:Nunito Sans;
+	font-style:normal;
+	font-weight:700;
+	src:url(../../fonts/nunito/NunitoSans-Bold.eot?v=2491fd605d223ecf);
+	src:local("Nunito Sans Bold"), local("NunitoSans-Bold"),
+        url(../../fonts/nunito/NunitoSans-Bold.eot?&v=2491fd605d223ecf#iefix) format("embedded-opentype"),
+        url(../../fonts/nunito/NunitoSans-Bold.woff2?v=1e9aa9f4c18c02a7) format("woff2"),
+        url(../../fonts/nunito/NunitoSans-Bold.woff?v=b402c81bf940776e) format("woff"),
+        url(../../fonts/nunito/NunitoSans-Bold.ttf?v=43247fa72b88bdde) format("truetype")
+}
+@font-face{
+	font-display:swap;
+	font-family:Nunito Sans;
+	font-style:normal;
+	font-weight:700;
+	src:url(../../fonts/nunito/NunitoSans-Bold.eot?v=2491fd605d223ecf);
+	src:local("Nunito Sans Bold"), local("NunitoSans-Bold"),
+        url(../../fonts/nunito/NunitoSans-Bold.eot?&v=2491fd605d223ecf#iefix) format("embedded-opentype"),
+        url(../../fonts/nunito/NunitoSans-Bold.woff2?v=1e9aa9f4c18c02a7) format("woff2"),
+        url(../../fonts/nunito/NunitoSans-Bold.woff?v=b402c81bf940776e) format("woff"),
+        url(../../fonts/nunito/NunitoSans-Bold.ttf?v=43247fa72b88bdde) format("truetype")
+}
+@font-face{
+	font-display:swap;
+	font-family:Nunito Sans;
+	font-style:italic;
+	font-weight:700;
+	src:url(../../fonts/nunito/NunitoSans-BoldItalic.eot?v=6c2be22405b32a35);
+	src:local("Nunito Sans Bold Italic"), local("NunitoSans-BoldItalic"),
+        url(../../fonts/nunito/NunitoSans-BoldItalic.eot?&v=6c2be22405b32a35#iefix) format("embedded-opentype"),
+        url(../../fonts/nunito/NunitoSans-BoldItalic.woff2?v=ae2e0f9646286e80) format("woff2"),
+        url(../../fonts/nunito/NunitoSans-BoldItalic.woff?v=dbb02814b7634ae3) format("woff"),
+        url(../../fonts/nunito/NunitoSans-BoldItalic.ttf?v=558671e0e9ccb42) format("truetype")
+}
+@font-face{
+	font-display:swap;
+	font-family:Nunito Sans;
+	font-style:normal;
+	font-weight:800;
+	src:url(../../fonts/nunito/NunitoSans-ExtraBold.eot?v=71f434b1856f93d0);
+	src:local("Nunito Sans ExtraBold"), local("NunitoSans-ExtraBold"),
+        url(../../fonts/nunito/NunitoSans-ExtraBold.eot?&v=71f434b1856f93d0#iefix) format("embedded-opentype"),
+        url(../../fonts/nunito/NunitoSans-ExtraBold.woff2?v=448e44897f72dc7f) format("woff2"),
+        url(../../fonts/nunito/NunitoSans-ExtraBold.woff?v=ae553e255a1b59fd) format("woff"),
+        url(../../fonts/nunito/NunitoSans-ExtraBold.ttf?v=cd373e3e82c033f7) format("truetype")
+}
+@font-face{
+	font-display:swap;
+	font-family:Nunito Sans;
+	font-style:italic;
+	font-weight:800;
+	src:url(../../fonts/nunito/NunitoSans-ExtraBoldItalic.eot?v=c7d56fffcdd7aa28);
+	src:local("Nunito Sans ExtraBold Italic"), local("NunitoSans-ExtraBoldItalic"),
+        url(../../fonts/nunito/NunitoSans-ExtraBoldItalic.eot?&v=c7d56fffcdd7aa28#iefix) format("embedded-opentype"),
+        url(../../fonts/nunito/NunitoSans-ExtraBoldItalic.woff2?v=aacf88452d8404b7) format("woff2"),
+        url(../../fonts/nunito/NunitoSans-ExtraBoldItalic.woff?v=87d5a293f7f0c468) format("woff"),
+        url(../../fonts/nunito/NunitoSans-ExtraBoldItalic.ttf?v=865ef005c07cfaa5) format("truetype")
+}
+@font-face{
+	font-display:swap;
+	font-family:Nunito Sans;
+	font-style:italic;
+	font-weight:400;
+	src:url(../../fonts/nunito/NunitoSans-Italic.eot?v=3a90c3f2cbc333fc);
+	src:local("Nunito Sans Italic"), local("NunitoSans-Italic"),
+        url(../../fonts/nunito/NunitoSans-Italic.eot?&v=3a90c3f2cbc333fc#iefix) format("embedded-opentype"),
+        url(../../fonts/nunito/NunitoSans-Italic.woff2?v=abfb4978654125ad) format("woff2"),
+        url(../../fonts/nunito/NunitoSans-Italic.woff?v=d739da7e133c86fe) format("woff"),
+        url(../../fonts/nunito/NunitoSans-Italic.ttf?v=f0123b1f74ac574d) format("truetype")
+}
+@font-face{
+	font-display:swap;
+	font-family:Nunito Sans;
+	font-style:normal;
+	font-weight:400;
+	src:url(../../fonts/nunito/NunitoSans-Regular.eot?v=2cb07d52daa294c7);
+	src:local("Nunito Sans Regular"), local("NunitoSans-Regular"),
+        url(../../fonts/nunito/NunitoSans-Regular.eot?&v=2cb07d52daa294c7#iefix) format("embedded-opentype"),
+        url(../../fonts/nunito/NunitoSans-Regular.woff2?v=ff0cdc1b0bc3a015) format("woff2"),
+        url(../../fonts/nunito/NunitoSans-Regular.woff?v=ae870f3e60ff0a05) format("woff"),
+        url(../../fonts/nunito/NunitoSans-Regular.ttf?v=ab7f73f682e3d902) format("truetype")
+}
+

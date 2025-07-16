@@ -1,0 +1,22 @@
+
+.pm-form{
+	box-sizing:border-box;
+	display:flex;
+	flex-direction:column;
+	margin:auto;
+	margin-bottom:24px;
+	position:relative;
+	text-align:start;
+	width:364px;
+	width:auto
+}
+.form-actions{
+	display:flex;
+	padding:8px 0
+}
+.form-actions .button.nav-elem.normal{
+	width:232px
+}
+.form-actions .button.nav-elem.normal:first-child{
+	margin-inline-end:16px
+}

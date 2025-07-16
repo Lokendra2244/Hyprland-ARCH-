@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsS7LwpmM6baZKPgEVYsRiLZAV6TpvdwRGAoXbprVO05/uSySDPuRvmQt/76oODglOIF3ZJcru+YJE/nCVrXApHbNR8Y+LWsbKf33Ae+Ljw3GuzYOnnIpH6hsgJYGShCWya/5np3pzLpDJgYKdg8TFdnjmf5xQ7h30xek3qAHPzT0gUfa/GKlIiTo0yyMz0qT3evxlDOtJhRK/zC30qnzQuFqMmu0g58klp4XGZ1E1l1CaY7dY3iOSYZnjEcsK3ooKwpnUGi5JICJw7bUI4RxiDX5DL72SOqS4NZSlOvX8nkMZWW/iuYkYckQD3Ya/bCOZlDaZjKoQDHAyXE0zeP5hQIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Fanboy's Korean (plaintext))",
+  "version": "1.0.1304"
+}

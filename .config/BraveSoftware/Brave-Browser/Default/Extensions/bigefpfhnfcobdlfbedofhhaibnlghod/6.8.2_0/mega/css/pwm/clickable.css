@@ -1,0 +1,288 @@
+.password-wrapper .nav-elem,.password-wrapper .nav-elem a,.password-wrapper .nav-elem button,.password-wrapper .nav-elem button.mega-pm-button{
+	align-items:center;
+	border:none;
+	display:inline-flex;
+	flex-flow:row nowrap;
+	justify-content:center;
+	padding:0 24px
+}
+.password-wrapper .nav-elem>:not(:last-child),.password-wrapper .nav-elem a>:not(:last-child),.password-wrapper .nav-elem button.mega-pm-button>:not(:last-child),.password-wrapper .nav-elem button>:not(:last-child){
+	margin-inline-end:10px
+}
+.password-wrapper .nav-elem.password-item:hover{
+	background:var(--mobile-surface-1)
+}
+.password-wrapper .nav-elem:active{
+	background:inherit;
+	color:inherit
+}
+.password-wrapper .nav-elem.primary:active,.password-wrapper .nav-elem.primary:not(.icon-only):active{
+	background:var(--mobile-button-primary-pressed);
+	color:var(--mobile-text-inverse)
+}
+.password-wrapper .nav-elem.password-item.sk-loading:hover{
+	background:var(--mobile-page-background)
+}
+.password-wrapper .nav-elem.active,.password-wrapper .nav-elem:hover{
+	background:var(--mobile-surface-2)
+}
+.password-wrapper .nav-elem.nav-elem.icon-only.active,.password-wrapper .nav-elem.nav-elem.icon-only:active{
+	background:var(--mobile-surface-3)
+}
+.password-wrapper .nav-elem.text-only.link{
+	font:var(--mobile-font-label-underline);
+	text-decoration:none
+}
+.password-wrapper .nav-elem.text-only.link:active .primary-text,.password-wrapper .nav-elem.text-only.link:focus .primary-text,.password-wrapper .nav-elem.text-only.link:hover .primary-text{
+	color:var(--mobile-button-primary-pressed)
+}
+.password-wrapper .nav-elem.text-only.link:focus{
+	outline:var(--outline)
+}
+.password-wrapper .nav-elem i.notification-loading-spinner{
+	display:none
+}
+.password-wrapper .nav-elem.loading.sprite-fm-theme-after:after,.password-wrapper .nav-elem.loading.sprite-fm-uni-after:after,.password-wrapper .nav-elem.mega-pm-loading.sprite-fm-theme-after:after,.password-wrapper .nav-elem.mega-pm-loading.sprite-fm-uni-after:after{
+	--icon-size:22px;
+	animation-duration:1s;
+	animation-iteration-count:infinite;
+	animation-name:rotate;
+	animation-timing-function:steps(8);
+	display:block;
+	margin:auto;
+	position:absolute
+}
+.password-wrapper .nav-elem.loading .text-box-wrapper.sk-elm,.password-wrapper .nav-elem.mega-pm-loading span{
+	opacity:0
+}
+.password-wrapper .nav-elem,.password-wrapper .nav-elem.normal{
+	--icon-size:22px;
+	border-radius:var(--mobile-border-radius-medium);
+	box-sizing:border-box;
+	color:var(--mobile-text-primary);
+	height:48px;
+	text-decoration:none;
+	width:auto
+}
+.password-wrapper .nav-elem.primary,.password-wrapper button.mega-pm-button.nav-elem,.password-wrapper button.mega-pm-button.nav-elem.normal,.password-wrapper button.nav-elem,.password-wrapper button.nav-elem.normal{
+	background:var(--mobile-button-primary);
+	color:var(--mobile-text-inverse);
+	font:var(--mobile-font-label-underline)
+}
+.password-wrapper button.mega-pm-button.nav-elem.outline,.password-wrapper button.nav-elem.outline{
+	background:none;
+	border:2px solid var(--mobile-button-outline);
+	color:var(--mobile-button-outline)
+}
+.password-wrapper button.nav-elem.normal.outline span.primary-text{
+	color:var(--mobile-button-outline)
+}
+.password-wrapper button.nav-elem.outline.disabled,.password-wrapper button.nav-elem.outline.disabled:active{
+	background:none;
+	border:2px solid var(--mobile-border-disabled);
+	color:var(--mobile-text-disabled)
+}
+.password-wrapper button.nav-elem.normal.outline:not(.icon-only):active{
+	background:none;
+	border:2px solid var(--mobile-button-primary-pressed);
+	color:var(--mobile-button-primary-pressed)
+}
+.password-wrapper button.nav-elem.text-icon.outline:not(.icon-only):focus .sprite-pm-mono,.password-wrapper button.nav-elem.text-icon.outline:not(.icon-only):focus span.primary-text{
+	color:var(--mobile-text-primary)
+}
+.password-wrapper button.nav-elem.normal.outline:active .sprite-pm-mono,.password-wrapper button.nav-elem.outline:not(.icon-only):active .primary-text{
+	color:var(--mobile-button-primary-pressed)
+}
+.password-wrapper button.nav-elem:focus{
+	background:var(--mobile-button-primary-pressed);
+	color:var(--mobile-text-inverse-accent)
+}
+.password-wrapper .nav-elem.normal.block{
+	max-width:380px;
+	width:100%
+}
+.password-wrapper .nav-elem.normal.block .primary-text{
+	font-weight:var(--mobile-font-weight-semibold)
+}
+.password-wrapper .nav-elem.full-width{
+	--icon-size:24px;
+	border-radius:0;
+	display:flex;
+	height:56px;
+	justify-content:flex-start;
+	width:100%
+}
+.password-wrapper .nav-elem.full-width>:not(:last-child){
+	margin-inline-end:16px
+}
+.password-wrapper .nav-elem span{
+	color:inherit;
+	font:var(--mobile-font-copy-regular);
+	text-decoration:inherit
+}
+.password-wrapper .nav-elem.semibold span{
+	font-weight:var(--mobile-font-weight-semibold)
+}
+.password-wrapper button.nav-elem.normal span.primary-text{
+	color:var(--mobile-text-inverse-accent)
+}
+.password-wrapper .nav-elem.button span.primary-text{
+	font:var(--font-button-label)
+}
+.password-wrapper .nav-elem.semibold span{
+	font-weight:var(--mobile-font-weight-semibold)
+}
+.password-wrapper .nav-elem .text-box-wrapper{
+	align-items:flex-start;
+	display:inline-flex;
+	flex-flow:column nowrap
+}
+.password-wrapper .nav-elem .multi-text-box>:not(:last-child){
+	margin-bottom:2px
+}
+.password-wrapper .nav-elem .multi-text-box .sub-text{
+	color:var(--mobile-text-secondary);
+	font:var(--mobile-font-caption-small-regular);
+	line-height:120%
+}
+.password-wrapper button.nav-elem{
+	background:var(--mobile-button-primary);
+	color:var(--mobile-text-inverse-accent);
+	cursor:pointer
+}
+.nav-elem{
+	cursor:pointer
+}
+.password-wrapper .nav-elem.destructive,.password-wrapper .nav-elem.destructive.no-active:active,.password-wrapper button.nav-elem.destructive,.password-wrapper button.nav-elem.loading.destructive:focus,.password-wrapper button.nav-elem.normal.destructive:not(.icon-only):hover{
+	background:var(--mobile-button-error);
+	color:var(--mobile-text-on-color)
+}
+.password-wrapper .nav-elem.destructive.disabled,.password-wrapper .nav-elem.destructive.disabled:active{
+	background:var(--mobile-button-disabled);
+	color:var(--mobile-text-on-color-disabled)
+}
+.password-wrapper .nav-elem.destructive:active,.password-wrapper button.nav-elem.normal.destructive:active{
+	background:var(--mobile-button-error-pressed);
+	color:var(--mobile-text-on-color)
+}
+.password-wrapper button.nav-elem.destructive span.primary-text{
+	color:inherit
+}
+.password-wrapper .nav-elem.text-only,.password-wrapper button.mega-pm-button.nav-elem.text-icon,.password-wrapper button.mega-pm-button.nav-elem.text-only,.password-wrapper button.nav-elem.text-icon{
+	background:none;
+	color:var(--mobile-text-primary);
+	text-decoration:none
+}
+.password-wrapper .nav-elem.text-only,.password-wrapper button.nav-elem.text-icon{
+	text-decoration:underline
+}
+.password-wrapper .nav-elem.full-width.text-icon,.password-wrapper .nav-elem.full-width.text-only,.password-wrapper .nav-elem.text-only.no-deco{
+	text-decoration:none
+}
+.password-wrapper button.mega-pm-button.nav-elem.text-icon span.primary-text,.password-wrapper button.nav-elem.text-icon.normal span.primary-text{
+	background:none;
+	color:var(--mobile-text-primary)
+}
+.password-wrapper button.nav-elem.text-icon.normal:not(.icon-only):active,.password-wrapper button.nav-elem.text-icon.normal:not(.icon-only):active .sprite-pm-mono,.password-wrapper button.nav-elem.text-icon.normal:not(.icon-only):hover{
+	background:none;
+	color:var(--mobile-button-primary-pressed)
+}
+.password-wrapper button.nav-elem.text-icon.normal:active .sprite-pm-mono,.password-wrapper button.nav-elem.text-icon.normal:active span.primary-text,.password-wrapper button.nav-elem.text-icon.normal:not(.icon-only):focus .sprite-pm-mono,.password-wrapper button.nav-elem.text-icon.normal:not(.icon-only):focus span.primary-text,.password-wrapper button.nav-elem.text-icon.normal:not(.icon-only):hover .sprite-pm-mono,.password-wrapper button.nav-elem.text-icon.normal:not(.icon-only):hover span.primary-text{
+	color:var(--mobile-button-primary-pressed)
+}
+.password-wrapper .nav-elem.text-icon.disabled,.password-wrapper .nav-elem.text-icon.disabled:active{
+	color:var(--mobile-text-disabled)
+}
+.password-wrapper .nav-elem.text-icon.disabled:active span,.password-wrapper .nav-elem.text-icon.disabled span{
+	border-bottom:1px solid var(--mobile-text-disabled)
+}
+.password-wrapper button.nav-elem.normal:not(.icon-only):hover{
+	background:var(--mobile-button-primary-hover)
+}
+.password-wrapper button.nav-elem.normal.secondary:focus,.password-wrapper button.nav-elem.normal.secondary:not(.icon-only):hover{
+	background:var(--mobile-button-secondary-hover)
+}
+.password-wrapper button.nav-elem.normal:not(.icon-only):active{
+	background:var(--mobile-button-primary-pressed)
+}
+.password-wrapper button.nav-elem.normal.secondary:active{
+	background:var(--mobile-button-secondary-pressed)
+}
+.password-wrapper button.nav-elem.normal:focus .sprite-pm-mono,.password-wrapper button.nav-elem.normal:focus span.primary-text,.password-wrapper button.nav-elem.normal:hover .sprite-pm-mono,.password-wrapper button.nav-elem.normal:hover span.primary-text{
+	color:var(--mobile-text-on-color)
+}
+.password-wrapper button.nav-elem.icon-only.secondary:focus i,.password-wrapper button.nav-elem.icon-only.secondary:hover i,.password-wrapper button.nav-elem.normal.secondary:focus i,.password-wrapper button.nav-elem.normal.secondary:focus span.primary-text,.password-wrapper button.nav-elem.normal.secondary:hover i,.password-wrapper button.nav-elem.normal.secondary:hover span.primary-text{
+	color:var(--mobile-text-secondary)
+}
+.password-wrapper button.nav-elem.icon-only.secondary:active i,.password-wrapper button.nav-elem.normal.secondary:active i,.password-wrapper button.nav-elem.normal.secondary:active span.primary-text{
+	color:var(--mobile-text-placeholder)
+}
+.password-wrapper button.nav-elem.normal:active .sprite-pm-mono,.password-wrapper button.nav-elem.normal:active span.primary-text{
+	color:var(--mobile-text-inverse-accent)
+}
+.password-wrapper button.nav-elem.loading{
+	pointer-events:none
+}
+.password-wrapper button.nav-elem.loading:active,.password-wrapper button.nav-elem.loading:focus,.password-wrapper button.nav-elem.loading:hover,.password-wrapper button.nav-elem.mega-pm-loading:active,.password-wrapper button.nav-elem.mega-pm-loading:focus,.password-wrapper button.nav-elem.mega-pm-loading:hover{
+	background:var(--mobile-button-primary);
+	color:var(--mobile-text-inverse)
+}
+.password-wrapper a.nav-elem.icon-only,.password-wrapper button.nav-elem.icon-only{
+	height:40px;
+	padding:12px
+}
+.password-wrapper .nav-elem.icon-only{
+	cursor:pointer;
+	height:36px;
+	padding:0;
+	width:36px
+}
+.password-wrapper .nav-elem.normal.link{
+	background:none;
+	padding:0
+}
+.password-wrapper .nav-elem.normal.link i,.password-wrapper .nav-elem.normal.link span{
+	color:var(--mobile-text-primary);
+	text-decoration:underline
+}
+.password-wrapper .nav-elem.normal.link span{
+	font:var(--font-button-label)
+}
+.password-wrapper .nav-elem.normal.link:active i,.password-wrapper .nav-elem.normal.link:active span,.password-wrapper .nav-elem.normal.link:hover i,.password-wrapper .nav-elem.normal.link:hover span{
+	color:var(--mobile-button-primary-pressed)
+}
+.password-wrapper button.nav-elem.secondary{
+	background:var(--mobile-button-secondary)
+}
+.password-wrapper button.nav-elem.icon-only.secondary i,.password-wrapper button.nav-elem.normal.secondary i,.password-wrapper button.nav-elem.normal.secondary span.primary-text{
+	color:var(--mobile-text-primary)
+}
+.password-wrapper button.nav-elem.normal.disabled,.password-wrapper button.nav-elem.normal:disabled{
+	background:var(--mobile-button-disabled);
+	pointer-events:none
+}
+.password-wrapper button.nav-elem.normal.disabled .primary-text,.password-wrapper button.nav-elem.normal:disabled .primary-text{
+	color:var(--mobile-text-on-color-disabled)
+}
+.password-wrapper a.nav-elem.secondary{
+	background:var(--mobile-button-secondary);
+	color:var(--mobile-text-primary)
+}
+.password-wrapper a.nav-elem.secondary:hover{
+	background:var(--mobile-button-secondary-hover);
+	color:var(--mobile-text-secondary)
+}
+.password-wrapper a.nav-elem.secondary:active{
+	background:var(--mobile-button-secondary-hover);
+	color:var(--mobile-text-inverse)
+}
+.pwm-ui .nav-elem.normal.button.highlighted{
+	background:var(--mobile-button-secondary)
+}
+.pwm-ui .nav-elem.normal.button.highlighted span{
+	color:var(--mobile-text-primary);
+	font:var(--font-button-label)
+}
+.password-wrapper button.nav-elem,.password-wrapper button.nav-elem.normal{
+	font:var(--mobile-font-copy-regular)
+}

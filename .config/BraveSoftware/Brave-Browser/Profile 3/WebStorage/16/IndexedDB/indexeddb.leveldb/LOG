@@ -1,0 +1,6 @@
+2025/07/15-00:17:08.652 543 Creating DB /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/WebStorage/16/IndexedDB/indexeddb.leveldb since it was missing.
+2025/07/15-00:17:08.656 543 Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/WebStorage/16/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/07/15-00:17:11.386 546 Level-0 table #5: started
+2025/07/15-00:17:11.387 546 Level-0 table #5: 474 bytes OK
+2025/07/15-00:17:11.388 546 Delete type=0 #3
+2025/07/15-00:17:11.388 546 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

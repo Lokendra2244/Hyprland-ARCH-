@@ -1,0 +1,41 @@
+
+.mega-component.context-menu{
+	box-shadow:none;
+	opacity:1
+}
+.mega-component.context-menu.menu-container{
+	max-width:312px
+}
+.mega-component.context-menu .context-menu-items{
+	box-sizing:border-box;
+	display:flex;
+	flex-direction:column;
+	height:100%;
+	padding:8px 0;
+	width:100%
+}
+.mega-component.context-menu .content{
+	max-height:450px;
+	overflow-y:auto
+}
+.mega-component.context-menu .context-menu-items .nav-elem{
+	padding:24px
+}
+.menu-container.context-menu .nav-elem.button span.primary-text,.menu-container.context-menu button{
+	font:var(--mobile-font-copy-regular)
+}
+.mega-component.menu-container.overlay-wrap{
+	width:280px
+}
+.mega-component.menu-container.overlay-wrap .dropdown,.mega-component.menu-container.overlay-wrap .menu{
+	width:100%
+}
+.mega-component.context-menu .context-menu-items{
+	padding:8px 16px
+}
+.mega-component.context-menu .context-menu-items .nav-elem{
+	padding:16px 8px
+}
+.rtl .mega-component.context-menu{
+	direction:rtl
+}

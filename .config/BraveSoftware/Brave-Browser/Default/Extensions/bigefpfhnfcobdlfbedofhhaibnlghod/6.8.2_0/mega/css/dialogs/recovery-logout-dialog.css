@@ -1,0 +1,74 @@
+
+.recovery-key-logout{
+	display:flex;
+	flex-direction:column;
+	height:100%
+}
+.recovery-key-logout .nav-elem.normal{
+	height:48px
+}
+.recovery-key-logout .skip-link{
+	margin-top:auto
+}
+.recovery-key-logout .skip-link span{
+	font:var(--mobile-font-label-bold)
+}
+.recovery-key-logout .text.info a{
+	color:var(--mobile-link-primary);
+	text-decoration:underline
+}
+.recovery-key-logout .pass-reminder-results .result-txt{
+	align-items:center;
+	display:flex;
+	font:var(--mobile-font-caption-large-regular);
+	margin:-12px 0 12px
+}
+.recovery-key-logout .pass-reminder-results .result-txt i{
+	margin-inline-end:8px
+}
+.recovery-key-logout .pass-reminder-results .result-txt.accepted{
+	color:var(--mobile-support-success)
+}
+.recovery-key-logout .pass-reminder-results .result-txt.wrong{
+	color:var(--mobile-support-error)
+}
+.recovery-key-logout.accepted .mobile.mega-input.box-style{
+	border-color:var(--mobile-support-success)
+}
+.recovery-key-logout.wrong .mobile.mega-input.box-style{
+	border-color:var(--mobile-support-error)
+}
+.recovery-key-logout .pass-reminder-forgot{
+	margin-top:16px;
+	text-align:center
+}
+.recovery-key-logout .pass-reminder-forgot a{
+	color:var(--mobile-link-primary);
+	margin:0 4px
+}
+.recoverykey-logout-overlay .sheet{
+	background:var(--mobile-page-background);
+	border:1px solid var(--mobile-border-subtle)
+}
+.recoverykey-logout-overlay .overlay-footer{
+	background:var(--mobile-surface-1);
+	color:var(--mobile-text-secondary);
+	padding-bottom:16px
+}
+.recoverykey-logout-overlay .overlay-footer label{
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap
+}
+.recoverykey-logout-overlay button{
+	cursor:pointer
+}
+.recoverykey-logout-overlay .recovery-key.input button.icon-only{
+	height:auto
+}
+.recoverykey-logout-overlay .mega-component.block.confirmButton,.recoverykey-logout-overlay .mega-component.block.dlButton,.recoverykey-logout-overlay .pass-reminder.container .mega-input.mobile,.recoverykey-logout-overlay .recovery-key.container{
+	max-width:100%
+}
+.recoverykey-logout-overlay .pass-reminder-forgot{
+	margin-bottom:40px
+}

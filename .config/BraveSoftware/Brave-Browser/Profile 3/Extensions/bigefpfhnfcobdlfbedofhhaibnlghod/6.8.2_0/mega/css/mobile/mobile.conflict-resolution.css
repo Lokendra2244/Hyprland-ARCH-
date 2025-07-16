@@ -1,0 +1,90 @@
+
+.conflict-resolution>:not(:last-child){
+	margin-bottom:16px
+}
+.conflict-resolution .info-txt-fn strong{
+	font-weight:inherit
+}
+.conflict-resolution button.nav-elem{
+	align-items:start;
+	border-radius:var(--mobile-border-radius-medium);
+	display:flex;
+	flex-flow:column;
+	height:188px;
+	max-width:var(--mobile-elem-max-width);
+	padding:16px;
+	width:100%
+}
+.conflict-resolution button .text-box-wrapper.multi-text-box>:not(:last-child),.conflict-resolution button>:not(:last-child){
+	margin-bottom:8px
+}
+.conflict-resolution a .primary-text,.conflict-resolution button .primary-text{
+	font:var(--mobile-font-label-bold)
+}
+.conflict-resolution button .text-box-wrapper.multi-text-box .sub-text{
+	text-align:start
+}
+.conflict-resolution button .text-box-wrapper.multi-text-box .sub-text a{
+	color:var(--mobile-link-primary);
+	display:initial;
+	padding:0;
+	text-decoration:underline
+}
+.conflict-resolution .info-block{
+	background:var(--mobile-page-background);
+	border-radius:var(--mobile-border-radius-medium);
+	box-sizing:border-box;
+	display:grid;
+	grid-template-columns:40px auto;
+	grid-template-rows:repeat(auto-fill, 20px);
+	overflow:hidden;
+	padding:16px 24px;
+	place-items:center start;
+	width:100%
+}
+.conflict-resolution .info-block>:not(:last-child){
+	margin-inline-end:16px
+}
+.conflict-resolution .info-block i{
+	--icon-size:24px;
+	background-size:100%;
+	grid-column:1 /  2;
+	grid-row:1 /  4
+}
+.conflict-resolution .info-block .info-txt.file-name{
+	display:flex;
+	flex-direction:row;
+	font:var(--mobile-font-caption-large-semibold);
+	grid-column:2 /  3;
+	grid-row:1 /  2;
+	margin-bottom:2px;
+	min-width:100%;
+	width:100%
+}
+.conflict-resolution .info-block .info-txt.file-name span{
+	font:var(--mobile-font-caption-large-semibold)
+}
+.conflict-resolution .info-block .info-txt.file-name :first-child{
+	overflow:hidden;
+	text-overflow:ellipsis;
+	white-space:nowrap
+}
+.conflict-resolution .info-block .info-props{
+	align-items:center;
+	color:var(--mobile-text-secondary);
+	display:flex;
+	grid-column:2 /  3;
+	grid-row:2 /  3;
+	overflow:hidden;
+	white-space:nowrap
+}
+.conflict-resolution .info-block .info-props>:not(:last-child):not(:empty){
+	margin-inline-end:2px
+}
+.conflict-resolution .info-block .info-props>:not(:last-child):not(:empty):after{
+	content:","
+}
+.conflict-resolution a.nav-elem{
+	max-width:var(--mobile-elem-max-width);
+	width:100%
+}

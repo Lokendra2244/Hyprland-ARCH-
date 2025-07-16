@@ -1,0 +1,6 @@
+2025/07/16-03:40:36.188 166ab Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/Sync Data/LevelDB/MANIFEST-000001
+2025/07/16-03:40:36.189 166ab Recovering log #130
+2025/07/16-03:40:36.192 166ab Reusing old log /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/Sync Data/LevelDB/000130.log 
+2025/07/16-03:45:23.132 166aa Level-0 table #135: started
+2025/07/16-03:45:23.138 166aa Level-0 table #135: 76595 bytes OK
+2025/07/16-03:45:23.140 166aa Delete type=0 #130

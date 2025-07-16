@@ -1,0 +1,92 @@
+
+.mega-component.read-only-field{
+	align-items:flex-start;
+	background:var(--mobile-surface-1);
+	border-radius:var(--mobile-border-radius-medium);
+	color:var(--mobile-text-primary);
+	display:flex;
+	flex-direction:column;
+	margin-bottom:24px;
+	padding:12px
+}
+.mega-component.read-only-field.grouped{
+	border-bottom-left-radius:0;
+	border-bottom-right-radius:0;
+	margin-bottom:0
+}
+.mega-component.read-only-field.grouped .divider{
+	border-bottom:1px solid var(--mobile-border-strong);
+	box-sizing:border-box;
+	margin-top:12px;
+	padding:2px 12px;
+	width:100%
+}
+.mega-component.read-only-field.grouped:not(.hidden)+.mega-component.read-only-field.grouped.hidden+.read-only-field,.mega-component.read-only-field.grouped:not(.hidden)+.read-only-field{
+	border-top-left-radius:0;
+	border-top-right-radius:0
+}
+.mega-component.read-only-field .read-only-label{
+	font:var(--mobile-font-caption-large-bold);
+	margin-bottom:8px
+}
+.mega-component.read-only-field .read-only-output{
+	align-items:center;
+	display:flex;
+	flex-direction:row;
+	font:var(--mobile-font-input-regular);
+	justify-content:space-between;
+	line-break:anywhere;
+	width:100%
+}
+.mega-component.read-only-field .read-only-output .read-only-value{
+	flex:1;
+	font:var(--mobile-font-input-regular);
+	margin-right:16px
+}
+.read-only-field .read-only-output .read-only-value.monospace-mask{
+	font-family:monospace
+}
+.mega-component.read-only-field .read-only-output .read-only-value.password-colorized span{
+	font:var(--font-input-password);
+	letter-spacing:2px
+}
+.mega-component.read-only-field .read-only-output a{
+	color:var(--mobile-link-primary);
+	font:var(--mobile-font-link-large-regular)
+}
+.mega-component.read-only-field .read-only-actions{
+	--icon-size:20px;
+	align-items:center;
+	display:flex
+}
+.mega-component.read-only-field .read-only-actions button.icon-only{
+	--icon-size:20px;
+	background-color:initial;
+	color:inherit;
+	height:20px;
+	padding:0 !important;
+	width:auto
+}
+.mega-component.read-only-field .read-only-actions button:last-child:not(:first-child){
+	margin-inline-start:16px
+}
+.mega-component.read-only-field .read-only-actions i{
+	cursor:pointer;
+	font:var(--mobile-font-copy-regular)
+}
+.mega-component.read-only-field .read-only-help{
+	color:var(--mobile-text-secondary);
+	display:flex;
+	font:var(--mobile-font-caption-large-regular);
+	margin-top:8px
+}
+.mega-component.read-only-field .read-only-help.warning{
+	color:var(--mobile-text-warning)
+}
+.mega-component.read-only-field .read-only-help i{
+	margin-inline-end:8px;
+	margin-top:3px
+}
+.mega-component.read-only-field .icon-copy-thin-outline{
+	color:var(--mobile-text-secondary)
+}

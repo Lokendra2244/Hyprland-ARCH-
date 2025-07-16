@@ -1,0 +1,157 @@
+@font-face{
+	font-display:block;
+	font-family:pm-mono;
+	src:url(../imagery/sprites-pm-mono.4110e6619668f0b5.woff2?h=71e5f74ab) format("woff2"),
+    url(../imagery/sprites-pm-mono.4db0dba37447b372.woff?h=71e5f74ab) format("woff"),
+    url(../imagery/sprites-pm-mono.e6f098f43dccc6d1.ttf?h=71e5f74ab) format("truetype"), 
+    url(../imagery/sprites-pm-mono.7bdb9018cc7224a2.svg?h=71e5f74ab#pm-mono) format("svg")
+}
+.sprite-pm-mono,.sprite-pm-mono-after{
+	height:var(--icon-size, 16px);
+	width:var(--icon-size, 16px)
+}
+.sprite-pm-mono-after:after,.sprite-pm-mono:before{
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	color:var(--mask-color);
+	display:inline-block;
+	font-family:pm-mono !important;
+	font-size:var(--icon-size, 16px);
+	font-style:normal;
+	font-variant:normal;
+	height:100%;
+	line-height:1;
+	text-rendering:auto;
+	transition:inherit;
+	vertical-align:top;
+	width:100%
+}
+.sprite-pm-mono-after.icon-alert-circle-thin-outline-after:after,.sprite-pm-mono.icon-alert-circle-thin-outline:before{
+	content:"\f26e"
+}
+.sprite-pm-mono-after.icon-alert-triangle-regular-outline-after:after,.sprite-pm-mono.icon-alert-triangle-regular-outline:before{
+	content:"\f26f"
+}
+.sprite-pm-mono-after.icon-alert-triangle-thin-outline-after:after,.sprite-pm-mono.icon-alert-triangle-thin-outline:before{
+	content:"\f270"
+}
+.sprite-pm-mono-after.icon-arrow-left-regular-solid-after:after,.sprite-pm-mono.icon-arrow-left-regular-solid:before{
+	content:"\f271"
+}
+.sprite-pm-mono-after.icon-bell-regular-outline-after:after,.sprite-pm-mono.icon-bell-regular-outline:before{
+	content:"\f272"
+}
+.sprite-pm-mono-after.icon-check-circle-regular-outline-after:after,.sprite-pm-mono.icon-check-circle-regular-outline:before{
+	content:"\f273"
+}
+.sprite-pm-mono-after.icon-check-circle-thin-outline-after:after,.sprite-pm-mono.icon-check-circle-thin-outline:before{
+	content:"\f274"
+}
+.sprite-pm-mono-after.icon-check-regular-solid-after:after,.sprite-pm-mono.icon-check-regular-solid:before{
+	content:"\f275"
+}
+.sprite-pm-mono-after.icon-check-thin-outline-after:after,.sprite-pm-mono.icon-check-thin-outline:before{
+	content:"\f276"
+}
+.sprite-pm-mono-after.icon-chevron-down-thin-outline-after:after,.sprite-pm-mono.icon-chevron-down-thin-outline:before{
+	content:"\f277"
+}
+.sprite-pm-mono-after.icon-chevron-right-regular-solid-after:after,.sprite-pm-mono.icon-chevron-right-regular-solid:before{
+	content:"\f278"
+}
+.sprite-pm-mono-after.icon-chevron-up-thin-outline-after:after,.sprite-pm-mono.icon-chevron-up-thin-outline:before{
+	content:"\f279"
+}
+.sprite-pm-mono-after.icon-copy-password-thin-outline-after:after,.sprite-pm-mono.icon-copy-password-thin-outline:before{
+	content:"\f27a"
+}
+.sprite-pm-mono-after.icon-copy-thin-outline-after:after,.sprite-pm-mono.icon-copy-thin-outline:before{
+	content:"\f27b"
+}
+.sprite-pm-mono-after.icon-copy-user-thin-outline-after:after,.sprite-pm-mono.icon-copy-user-thin-outline:before{
+	content:"\f27c"
+}
+.sprite-pm-mono-after.icon-download-thin-outline-after:after,.sprite-pm-mono.icon-download-thin-outline:before{
+	content:"\f27d"
+}
+.sprite-pm-mono-after.icon-edit-thin-outline-after:after,.sprite-pm-mono.icon-edit-thin-outline:before{
+	content:"\f27e"
+}
+.sprite-pm-mono-after.icon-external-link-thin-outline-after:after,.sprite-pm-mono.icon-external-link-thin-outline:before{
+	content:"\f27f"
+}
+.sprite-pm-mono-after.icon-eye-off-thin-outline-after:after,.sprite-pm-mono.icon-eye-off-thin-outline:before{
+	content:"\f280"
+}
+.sprite-pm-mono-after.icon-eye-thin-outline-after:after,.sprite-pm-mono.icon-eye-thin-outline:before{
+	content:"\f281"
+}
+.sprite-pm-mono-after.icon-help-circle-thin-outline-after:after,.sprite-pm-mono.icon-help-circle-thin-outline:before{
+	content:"\f282"
+}
+.sprite-pm-mono-after.icon-info-thin-outline-after:after,.sprite-pm-mono.icon-info-thin-outline:before{
+	content:"\f283"
+}
+.sprite-pm-mono-after.icon-lock-regular-outline-after:after,.sprite-pm-mono.icon-lock-regular-outline:before{
+	content:"\f284"
+}
+.sprite-pm-mono-after.icon-lock-thin-outline-after:after,.sprite-pm-mono.icon-lock-thin-outline:before{
+	content:"\f285"
+}
+.sprite-pm-mono-after.icon-log-out-thin-outline-after:after,.sprite-pm-mono.icon-log-out-thin-outline:before{
+	content:"\f286"
+}
+.sprite-pm-mono-after.icon-magic-wand-thin-outline-after:after,.sprite-pm-mono.icon-magic-wand-thin-outline:before{
+	content:"\f287"
+}
+.sprite-pm-mono-after.icon-mega-thin-outline-after:after,.sprite-pm-mono.icon-mega-thin-outline:before{
+	content:"\f288"
+}
+.sprite-pm-mono-after.icon-mega-thin-solid-after:after,.sprite-pm-mono.icon-mega-thin-solid:before{
+	content:"\f289"
+}
+.sprite-pm-mono-after.icon-menu-thin-outline-after:after,.sprite-pm-mono.icon-menu-thin-outline:before{
+	content:"\f28a"
+}
+.sprite-pm-mono-after.icon-minimise-regular-solid-after:after,.sprite-pm-mono.icon-minimise-regular-solid:before{
+	content:"\f28b"
+}
+.sprite-pm-mono-after.icon-more-horizontal-regular-outline-after:after,.sprite-pm-mono.icon-more-horizontal-regular-outline:before{
+	content:"\f28c"
+}
+.sprite-pm-mono-after.icon-plus-light-solid-after:after,.sprite-pm-mono.icon-plus-light-solid:before{
+	content:"\f28d"
+}
+.sprite-pm-mono-after.icon-search-light-outline-after:after,.sprite-pm-mono.icon-search-light-outline:before{
+	content:"\f28e"
+}
+.sprite-pm-mono-after.icon-search-thin-outline-after:after,.sprite-pm-mono.icon-search-thin-outline:before{
+	content:"\f28f"
+}
+.sprite-pm-mono-after.icon-settings-thin-outline-after:after,.sprite-pm-mono.icon-settings-thin-outline:before{
+	content:"\f290"
+}
+.sprite-pm-mono-after.icon-square-regular-outline-after:after,.sprite-pm-mono.icon-square-regular-outline:before{
+	content:"\f291"
+}
+.sprite-pm-mono-after.icon-square-regular-solid-after:after,.sprite-pm-mono.icon-square-regular-solid:before{
+	content:"\f292"
+}
+.sprite-pm-mono-after.icon-star-regular-outline-after:after,.sprite-pm-mono.icon-star-regular-outline:before{
+	content:"\f293"
+}
+.sprite-pm-mono-after.icon-star-spark-after:after,.sprite-pm-mono.icon-star-spark:before{
+	content:"\f294"
+}
+.sprite-pm-mono-after.icon-sync-thin-outline-after:after,.sprite-pm-mono.icon-sync-thin-outline:before{
+	content:"\f295"
+}
+.sprite-pm-mono-after.icon-trash-thin-outline-after:after,.sprite-pm-mono.icon-trash-thin-outline:before{
+	content:"\f296"
+}
+.sprite-pm-mono-after.icon-x-circle-thin-outline-after:after,.sprite-pm-mono.icon-x-circle-thin-outline:before{
+	content:"\f297"
+}
+.sprite-pm-mono-after.icon-x-thin-outline-after:after,.sprite-pm-mono.icon-x-thin-outline:before{
+	content:"\f298"
+}

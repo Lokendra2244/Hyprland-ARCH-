@@ -1,0 +1,13 @@
+2025/06/30-22:52:20.898 454 Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.smashkarts.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/30-22:52:20.898 454 Recovering log #14
+2025/06/30-22:52:20.907 454 Reusing old log /home/AMBHI/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.smashkarts.io_0.indexeddb.leveldb/000014.log 
+2025/06/30-22:52:20.907 454 Delete type=2 #15
+2025/06/30-22:52:20.907 454 Delete type=2 #12
+2025/06/30-22:52:20.913 457 Level-0 table #19: started
+2025/06/30-22:52:20.920 457 Level-0 table #19: 589245 bytes OK
+2025/06/30-22:52:20.921 457 Delete type=0 #14
+2025/06/30-22:52:20.921 455 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/30-22:52:20.992 447 Compacting 1@1 + 1@2 files
+2025/06/30-22:52:21.008 447 Generated table #20@1: 1604 keys, 262808 bytes
+2025/06/30-22:52:21.008 447 Compacted 1@1 + 1@2 files => 262808 bytes
+2025/06/30-22:52:21.009 447 compacted to: files[ 0 0 1 0 0 0 0 ]

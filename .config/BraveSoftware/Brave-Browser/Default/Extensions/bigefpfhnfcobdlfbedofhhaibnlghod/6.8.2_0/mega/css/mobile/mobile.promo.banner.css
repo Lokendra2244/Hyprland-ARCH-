@@ -1,0 +1,67 @@
+
+.mobile .mega-promo-banner{
+	background:var(--mobile-page-background);
+	z-index:101
+}
+.mobile .mega-promo-banner .promo-banner{
+	display:flex;
+	flex-direction:column;
+	height:100%;
+	justify-content:space-between;
+	width:100%
+}
+.mobile .mega-promo-banner .main{
+	box-sizing:border-box;
+	height:auto;
+	overflow-y:auto;
+	padding:20px 24px 24px;
+	width:100%
+}
+.mobile .mega-promo-banner.overlay-wrap .content{
+	max-width:var(--mobile-elem-max-width)
+}
+.mobile .mega-promo-banner .icon-mega-logo-rounded-square{
+	--icon-size:64px
+}
+.mobile .mega-promo-banner .image{
+	margin-bottom:24px
+}
+.mobile .mega-promo-banner .title{
+	margin-bottom:24px;
+	text-align:center
+}
+.mobile .mega-promo-banner .advantage-container{
+	--icon-size:32px;
+	align-items:center;
+	column-gap:16px;
+	display:grid;
+	grid-template-columns:32px 1fr;
+	margin-bottom:24px
+}
+.mobile .mega-promo-banner .advantage-container:last-of-type{
+	margin-bottom:0
+}
+.mobile .mega-promo-banner .advantage-container i{
+	grid-column:1 /  1;
+	grid-row:span 2
+}
+.mobile .mega-promo-banner .advantage-container h4{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-copy-bold);
+	grid-column:2 /  2;
+	grid-row:1 /  1;
+	margin:0
+}
+.mobile .mega-promo-banner .advantage-container p{
+	color:var(--mobile-text-secondary);
+	font:var(--mobile-font-copy-regular);
+	grid-column:2 /  2;
+	grid-row:2 /  2;
+	margin:0
+}
+.mobile .mega-promo-banner .actions{
+	border-top:1px solid var(--mobile-border-strong);
+	box-sizing:border-box;
+	padding:16px 24px;
+	width:100%
+}

@@ -1,0 +1,7 @@
+{
+  "description": "Brave Ad Block Updater extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr2V5xKHqddrLQr8mNlL4UQGUYfK62ftOlacYb23wPWfW1We4jIOHtYqHg81D7gYckSBejkLh2HqmGa6RxehFTQf8g/L8G1dgzQ10VrQF4STNJiva/EkhcEJHai279biESL6HLVTDun2BnXENxCUR7hc8hDM4xw2ZlaqMMUtFJwhQW96dzbLVG3yP7k8TDwX1dRaAa/Pe+Ie7OYhIUQp4I3rWn3GmhfKBxQalHce/7lQpZwCP8Q/Tz7D8GzvMu+dYm5LnP7LUfC2SdSM0jm3qqwKkWlT1W05tsce4vk2cnxwUUWOAh60TSzQ1d1DX/PfJBUzQG6gkWRMxGNLi+T4i9QIDAQAB",
+  "manifest_version": 2,
+  "name": "Brave Ad Block Updater (Fanboy's Anti-Newsletter (plaintext))",
+  "version": "1.0.11934"
+}

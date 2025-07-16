@@ -1,0 +1,70 @@
+@font-face{
+	font-display:block;
+	font-family:it-x32-mono;
+	src:url(../imagery/js-ui-transfer-sprites-it-x32-mono.74aab222dcfee638.woff2?h=95c660b03) format("woff2"),
+    url(../imagery/js-ui-transfer-sprites-it-x32-mono.284d7fb6adf261e5.woff?h=95c660b03) format("woff"),
+    url(../imagery/js-ui-transfer-sprites-it-x32-mono.b6f98555228660c6.ttf?h=95c660b03) format("truetype"), 
+    url(../imagery/js-ui-transfer-sprites-it-x32-mono.5ae6b0c0ed39a15e.svg?h=95c660b03#it-x32-mono) format("svg")
+}
+.sprite-it-x32-mono,.sprite-it-x32-mono-after{
+	height:var(--icon-size, 16px);
+	width:var(--icon-size, 16px)
+}
+.sprite-it-x32-mono-after:after,.sprite-it-x32-mono:before{
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	color:var(--mask-color);
+	display:inline-block;
+	font-family:it-x32-mono !important;
+	font-size:var(--icon-size, 16px);
+	font-style:normal;
+	font-variant:normal;
+	height:100%;
+	line-height:1;
+	text-rendering:auto;
+	transition:inherit;
+	vertical-align:top;
+	width:100%
+}
+.sprite-it-x32-mono-after.icon-arrow-big-down-narrow-after:after,.sprite-it-x32-mono.icon-arrow-big-down-narrow:before{
+	content:"\f26e"
+}
+.sprite-it-x32-mono-after.icon-arrow-down-circle-nospace-after:after,.sprite-it-x32-mono.icon-arrow-down-circle-nospace:before{
+	content:"\f26f"
+}
+.sprite-it-x32-mono-after.icon-arrow-up-circle-narrow-after:after,.sprite-it-x32-mono.icon-arrow-up-circle-narrow:before{
+	content:"\f270"
+}
+.sprite-it-x32-mono-after.icon-calendar-narrow-after:after,.sprite-it-x32-mono.icon-calendar-narrow:before{
+	content:"\f271"
+}
+.sprite-it-x32-mono-after.icon-close-circle-after:after,.sprite-it-x32-mono.icon-close-circle:before{
+	content:"\f272"
+}
+.sprite-it-x32-mono-after.icon-close-after:after,.sprite-it-x32-mono.icon-close:before{
+	content:"\f273"
+}
+.sprite-it-x32-mono-after.icon-eye-narrow-after:after,.sprite-it-x32-mono.icon-eye-narrow:before{
+	content:"\f274"
+}
+.sprite-it-x32-mono-after.icon-file-add-narrow-after:after,.sprite-it-x32-mono.icon-file-add-narrow:before{
+	content:"\f275"
+}
+.sprite-it-x32-mono-after.icon-file-add-after:after,.sprite-it-x32-mono.icon-file-add:before{
+	content:"\f276"
+}
+.sprite-it-x32-mono-after.icon-folder-add-after:after,.sprite-it-x32-mono.icon-folder-add:before{
+	content:"\f277"
+}
+.sprite-it-x32-mono-after.icon-it-logo-after:after,.sprite-it-x32-mono.icon-it-logo:before{
+	content:"\f278"
+}
+.sprite-it-x32-mono-after.icon-lock-narrow-after:after,.sprite-it-x32-mono.icon-lock-narrow:before{
+	content:"\f279"
+}
+.sprite-it-x32-mono-after.icon-plus-after:after,.sprite-it-x32-mono.icon-plus:before{
+	content:"\f27a"
+}
+.sprite-it-x32-mono-after.icon-schedule-narrow-after:after,.sprite-it-x32-mono.icon-schedule-narrow:before{
+	content:"\f27b"
+}

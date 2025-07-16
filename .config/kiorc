@@ -1,0 +1,5 @@
+[Confirmations]
+ConfirmEmptyTrash=true
+
+[Executable scripts]
+behaviourOnLaunch=open

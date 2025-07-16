@@ -1,0 +1,116 @@
+.it-box-holder{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+	position:relative;
+	width:100%
+}
+.it-box-holder.top-line-align{
+	align-self:center
+}
+.it-box-holder.top-line-align>.it-box{
+	align-self:flex-start
+}
+.it-box{
+	background-color:var(--main-surface-primary);
+	border-radius:var(--radius-i-box);
+	transition:var(--transition-border-radius);
+	width:100%
+}
+.it-box>.body{
+	display:flex;
+	padding:24px
+}
+.it-box>.body>.content{
+	display:flex;
+	flex:1 1 auto;
+	flex-direction:column;
+	min-width:0
+}
+.it-box>.body>.content.align-center{
+	align-items:center
+}
+.it-box h4{
+	font:var(--text-h4)
+}
+.it-box h4,.it-box h5{
+	margin:0;
+	padding:0;
+	text-align:center
+}
+.it-box h5{
+	font:var( --text-h5)
+}
+.it-box.modal p{
+	color:var(--main-neutral-secondary);
+	font:var(--text-caption-lg);
+	margin:0;
+	padding:12px 0 0;
+	text-align:center
+}
+.it-box .box-error-msg{
+	--icon-size:24px;
+	--mask-color:var(--supportive-error);
+	align-items:center;
+	color:var(--supportive-error);
+	display:flex;
+	font:var(--text-body-sm);
+	margin:0 0 12px
+}
+.it-box .box-error-msg span{
+	margin-inline-start:12px
+}
+.it-box>.body>footer{
+	display:flex;
+	flex-direction:column;
+	margin:24px 0 0
+}
+.it-box>.body>footer.separated{
+	border-top:1px solid var(--main-borders-and-lines);
+	margin:16px 0 0;
+	padding:16px 0 0
+}
+.it-box>.body>footer>button{
+	flex:1 1 auto
+}
+.it-box>.body>footer>button+button{
+	margin:12px 0 0
+}
+.it-box>.body>footer.inline-content{
+	flex-direction:row
+}
+.it-box>.body>footer.inline-content>button+button{
+	margin:0;
+	margin-inline-start:12px
+}
+.it-box.lg-shadow{
+	box-shadow:var(--shadow-lg)
+}
+.it-box.sm-shadow{
+	box-shadow:var(--shadow-sm)
+}
+.it-box.modal{
+	align-self:center;
+	flex:0 1 auto;
+	max-width:448px
+}
+.it-box.modal>.body{
+	flex-direction:column
+}
+.it-box.tag{
+	align-items:center;
+	border-radius:16px;
+	display:inline-block;
+	width:auto
+}
+.it-box.tag>.body{
+	padding:8px
+}
+@media only screen and (max-width:960px){
+.it-box-holder{
+	grid-template-columns:100%
+}
+.it-box.modal.minor{
+	order:2
+}
+}

@@ -1,0 +1,43 @@
+
+.invite-friends-page{
+	max-width:var(--mobile-page-max-width);
+	padding:0 24px 24px
+}
+.invite-friends-page>*{
+	color:var(--mobile-text-primary);
+	font:var(--mobile-font-copy-regular)
+}
+.invite-friends-page .how-it-works{
+	color:var(--mobile-link-primary);
+	height:24px;
+	margin:16px 0;
+	padding:0
+}
+.invite-friends-page .mega-component.banner{
+	margin-top:16px
+}
+.invite-friends-page .mega-component.banner span.message-text{
+	margin:0
+}
+.invite-friends-page .mega-input .message-container{
+	color:var(--text-color-medium)
+}
+.invite-friends-page .message-container .email-list{
+	margin-top:16px;
+	word-break:break-word
+}
+.invite-friends-page .sent-invites .message-text{
+	white-space:pre-line
+}
+.mega-sheet .how-it-works-contents{
+	padding:0 0 4px
+}
+.mega-sheet .how-it-works-contents ul{
+	list-style-type:disc;
+	padding:10px 0;
+	padding-inline-start:23px
+}
+.mega-sheet .how-it-works-contents li{
+	list-style:outside;
+	padding-inline-start:1px
+}

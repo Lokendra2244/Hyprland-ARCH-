@@ -1,0 +1,418 @@
+.sprite-fm-uni,.sprite-fm-uni-after:after,.sprite-fm-uni-before:before{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg);
+	background-repeat:no-repeat;
+	background-size:100%;
+	content:"";
+	display:block;
+	height:var(--icon-size, 16px);
+	width:var(--icon-size, 16px)
+}
+.sprite-fm-uni-after.icon-1password-after:after,.sprite-fm-uni-before.icon-1password-before:before,.sprite-fm-uni.icon-1password{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-1password)
+}
+.sprite-fm-uni-after.icon-accounts-after:after,.sprite-fm-uni-before.icon-accounts-before:before,.sprite-fm-uni.icon-accounts{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-accounts)
+}
+.sprite-fm-uni-after.icon-achievements-after:after,.sprite-fm-uni-before.icon-achievements-before:before,.sprite-fm-uni.icon-achievements{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-achievements)
+}
+.sprite-fm-uni-after.icon-add-after:after,.sprite-fm-uni-before.icon-add-before:before,.sprite-fm-uni.icon-add{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-add)
+}
+.sprite-fm-uni-after.icon-add-users-after:after,.sprite-fm-uni-before.icon-add-users-before:before,.sprite-fm-uni.icon-add-users{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-add-users)
+}
+.sprite-fm-uni-after.icon-amex-after:after,.sprite-fm-uni-before.icon-amex-before:before,.sprite-fm-uni.icon-amex{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-amex)
+}
+.sprite-fm-uni-after.icon-amex-new-after:after,.sprite-fm-uni-before.icon-amex-new-before:before,.sprite-fm-uni.icon-amex-new{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-amex-new)
+}
+.sprite-fm-uni-after.icon-android-after:after,.sprite-fm-uni-before.icon-android-before:before,.sprite-fm-uni.icon-android{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-android)
+}
+.sprite-fm-uni-after.icon-archive-after:after,.sprite-fm-uni-before.icon-archive-before:before,.sprite-fm-uni.icon-archive{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-archive)
+}
+.sprite-fm-uni-after.icon-astropay-after:after,.sprite-fm-uni-before.icon-astropay-before:before,.sprite-fm-uni.icon-astropay{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-astropay)
+}
+.sprite-fm-uni-after.icon-astropay-border-after:after,.sprite-fm-uni-before.icon-astropay-border-before:before,.sprite-fm-uni.icon-astropay-border{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-astropay-border)
+}
+.sprite-fm-uni-after.icon-audio-after:after,.sprite-fm-uni-before.icon-audio-before:before,.sprite-fm-uni.icon-audio{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-audio)
+}
+.sprite-fm-uni-after.icon-backup-after:after,.sprite-fm-uni-before.icon-backup-before:before,.sprite-fm-uni.icon-backup{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-backup)
+}
+.sprite-fm-uni-after.icon-backup-selected-after:after,.sprite-fm-uni-before.icon-backup-selected-before:before,.sprite-fm-uni.icon-backup-selected{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-backup-selected)
+}
+.sprite-fm-uni-after.icon-bitwarden-after:after,.sprite-fm-uni-before.icon-bitwarden-before:before,.sprite-fm-uni.icon-bitwarden{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-bitwarden)
+}
+.sprite-fm-uni-after.icon-business-after:after,.sprite-fm-uni-before.icon-business-before:before,.sprite-fm-uni.icon-business{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-business)
+}
+.sprite-fm-uni-after.icon-business-selected-after:after,.sprite-fm-uni-before.icon-business-selected-before:before,.sprite-fm-uni.icon-business-selected{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-business-selected)
+}
+.sprite-fm-uni-after.icon-calendar-after:after,.sprite-fm-uni-before.icon-calendar-before:before,.sprite-fm-uni.icon-calendar{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-calendar)
+}
+.sprite-fm-uni-after.icon-channel-after:after,.sprite-fm-uni-before.icon-channel-before:before,.sprite-fm-uni.icon-channel{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-channel)
+}
+.sprite-fm-uni-after.icon-chat-after:after,.sprite-fm-uni-before.icon-chat-before:before,.sprite-fm-uni.icon-chat{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-chat)
+}
+.sprite-fm-uni-after.icon-chat-group-after:after,.sprite-fm-uni-before.icon-chat-group-before:before,.sprite-fm-uni.icon-chat-group{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-chat-group)
+}
+.sprite-fm-uni-after.icon-chat-link-after:after,.sprite-fm-uni-before.icon-chat-link-before:before,.sprite-fm-uni.icon-chat-link{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-chat-link)
+}
+.sprite-fm-uni-after.icon-chat-new-after:after,.sprite-fm-uni-before.icon-chat-new-before:before,.sprite-fm-uni.icon-chat-new{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-chat-new)
+}
+.sprite-fm-uni-after.icon-chat-new-group-after:after,.sprite-fm-uni-before.icon-chat-new-group-before:before,.sprite-fm-uni.icon-chat-new-group{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-chat-new-group)
+}
+.sprite-fm-uni-after.icon-chat-selected-after:after,.sprite-fm-uni-before.icon-chat-selected-before:before,.sprite-fm-uni.icon-chat-selected{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-chat-selected)
+}
+.sprite-fm-uni-after.icon-chat-send-after:after,.sprite-fm-uni-before.icon-chat-send-before:before,.sprite-fm-uni.icon-chat-send{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-chat-send)
+}
+.sprite-fm-uni-after.icon-check-after:after,.sprite-fm-uni-before.icon-check-before:before,.sprite-fm-uni.icon-check{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-check)
+}
+.sprite-fm-uni-after.icon-check-circle-after:after,.sprite-fm-uni-before.icon-check-circle-before:before,.sprite-fm-uni.icon-check-circle{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-check-circle)
+}
+.sprite-fm-uni-after.icon-chrome-after:after,.sprite-fm-uni-before.icon-chrome-before:before,.sprite-fm-uni.icon-chrome{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-chrome)
+}
+.sprite-fm-uni-after.icon-clear-history-after:after,.sprite-fm-uni-before.icon-clear-history-before:before,.sprite-fm-uni.icon-clear-history{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-clear-history)
+}
+.sprite-fm-uni-after.icon-contact-add-after:after,.sprite-fm-uni-before.icon-contact-add-before:before,.sprite-fm-uni.icon-contact-add{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-contact-add)
+}
+.sprite-fm-uni-after.icon-contact-send-after:after,.sprite-fm-uni-before.icon-contact-send-before:before,.sprite-fm-uni.icon-contact-send{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-contact-send)
+}
+.sprite-fm-uni-after.icon-crest-business-after:after,.sprite-fm-uni-before.icon-crest-business-before:before,.sprite-fm-uni.icon-crest-business{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crest-business)
+}
+.sprite-fm-uni-after.icon-crest-free-after:after,.sprite-fm-uni-before.icon-crest-free-before:before,.sprite-fm-uni.icon-crest-free{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crest-free)
+}
+.sprite-fm-uni-after.icon-crest-lite-after:after,.sprite-fm-uni-before.icon-crest-lite-before:before,.sprite-fm-uni.icon-crest-lite{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crest-lite)
+}
+.sprite-fm-uni-after.icon-crest-pro-1-after:after,.sprite-fm-uni-before.icon-crest-pro-1-before:before,.sprite-fm-uni.icon-crest-pro-1{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crest-pro-1)
+}
+.sprite-fm-uni-after.icon-crest-pro-2-after:after,.sprite-fm-uni-before.icon-crest-pro-2-before:before,.sprite-fm-uni.icon-crest-pro-2{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crest-pro-2)
+}
+.sprite-fm-uni-after.icon-crest-pro-3-after:after,.sprite-fm-uni-before.icon-crest-pro-3-before:before,.sprite-fm-uni.icon-crest-pro-3{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crest-pro-3)
+}
+.sprite-fm-uni-after.icon-crest-pro-flexi-after:after,.sprite-fm-uni-before.icon-crest-pro-flexi-before:before,.sprite-fm-uni.icon-crest-pro-flexi{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crest-pro-flexi)
+}
+.sprite-fm-uni-after.icon-crest-vpn-after:after,.sprite-fm-uni-before.icon-crest-vpn-before:before,.sprite-fm-uni.icon-crest-vpn{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crest-vpn)
+}
+.sprite-fm-uni-after.icon-crests-business-details-after:after,.sprite-fm-uni-before.icon-crests-business-details-before:before,.sprite-fm-uni.icon-crests-business-details{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crests-business-details)
+}
+.sprite-fm-uni-after.icon-crests-free-details-after:after,.sprite-fm-uni-before.icon-crests-free-details-before:before,.sprite-fm-uni.icon-crests-free-details{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crests-free-details)
+}
+.sprite-fm-uni-after.icon-crests-lite-details-after:after,.sprite-fm-uni-before.icon-crests-lite-details-before:before,.sprite-fm-uni.icon-crests-lite-details{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crests-lite-details)
+}
+.sprite-fm-uni-after.icon-crests-pro-1-details-after:after,.sprite-fm-uni-before.icon-crests-pro-1-details-before:before,.sprite-fm-uni.icon-crests-pro-1-details{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crests-pro-1-details)
+}
+.sprite-fm-uni-after.icon-crests-pro-2-details-after:after,.sprite-fm-uni-before.icon-crests-pro-2-details-before:before,.sprite-fm-uni.icon-crests-pro-2-details{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crests-pro-2-details)
+}
+.sprite-fm-uni-after.icon-crests-pro-3-details-after:after,.sprite-fm-uni-before.icon-crests-pro-3-details-before:before,.sprite-fm-uni.icon-crests-pro-3-details{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crests-pro-3-details)
+}
+.sprite-fm-uni-after.icon-crests-pro-flexi-details-after:after,.sprite-fm-uni-before.icon-crests-pro-flexi-details-before:before,.sprite-fm-uni.icon-crests-pro-flexi-details{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-crests-pro-flexi-details)
+}
+.sprite-fm-uni-after.icon-dashlane-after:after,.sprite-fm-uni-before.icon-dashlane-before:before,.sprite-fm-uni.icon-dashlane{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-dashlane)
+}
+.sprite-fm-uni-after.icon-disable-after:after,.sprite-fm-uni-before.icon-disable-before:before,.sprite-fm-uni.icon-disable{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-disable)
+}
+.sprite-fm-uni-after.icon-discover-after:after,.sprite-fm-uni-before.icon-discover-before:before,.sprite-fm-uni.icon-discover{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-discover)
+}
+.sprite-fm-uni-after.icon-discover-new-after:after,.sprite-fm-uni-before.icon-discover-new-before:before,.sprite-fm-uni.icon-discover-new{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-discover-new)
+}
+.sprite-fm-uni-after.icon-document-after:after,.sprite-fm-uni-before.icon-document-before:before,.sprite-fm-uni.icon-document{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-document)
+}
+.sprite-fm-uni-after.icon-edge-after:after,.sprite-fm-uni-before.icon-edge-before:before,.sprite-fm-uni.icon-edge{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-edge)
+}
+.sprite-fm-uni-after.icon-ekr-after:after,.sprite-fm-uni-before.icon-ekr-before:before,.sprite-fm-uni.icon-ekr{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-ekr)
+}
+.sprite-fm-uni-after.icon-ekr-key-after:after,.sprite-fm-uni-before.icon-ekr-key-before:before,.sprite-fm-uni.icon-ekr-key{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-ekr-key)
+}
+.sprite-fm-uni-after.icon-elo-after:after,.sprite-fm-uni-before.icon-elo-before:before,.sprite-fm-uni.icon-elo{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-elo)
+}
+.sprite-fm-uni-after.icon-email-after:after,.sprite-fm-uni-before.icon-email-before:before,.sprite-fm-uni.icon-email{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-email)
+}
+.sprite-fm-uni-after.icon-error-after:after,.sprite-fm-uni-before.icon-error-before:before,.sprite-fm-uni.icon-error{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-error)
+}
+.sprite-fm-uni-after.icon-facebook-after:after,.sprite-fm-uni-before.icon-facebook-before:before,.sprite-fm-uni.icon-facebook{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-facebook)
+}
+.sprite-fm-uni-after.icon-file-upload-after:after,.sprite-fm-uni-before.icon-file-upload-before:before,.sprite-fm-uni.icon-file-upload{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-file-upload)
+}
+.sprite-fm-uni-after.icon-files-after:after,.sprite-fm-uni-before.icon-files-before:before,.sprite-fm-uni.icon-files{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-files)
+}
+.sprite-fm-uni-after.icon-files-selected-after:after,.sprite-fm-uni-before.icon-files-selected-before:before,.sprite-fm-uni.icon-files-selected{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-files-selected)
+}
+.sprite-fm-uni-after.icon-firefox-after:after,.sprite-fm-uni-before.icon-firefox-before:before,.sprite-fm-uni.icon-firefox{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-firefox)
+}
+.sprite-fm-uni-after.icon-folder-new-after:after,.sprite-fm-uni-before.icon-folder-new-before:before,.sprite-fm-uni.icon-folder-new{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-folder-new)
+}
+.sprite-fm-uni-after.icon-folder-upload-after:after,.sprite-fm-uni-before.icon-folder-upload-before:before,.sprite-fm-uni.icon-folder-upload{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-folder-upload)
+}
+.sprite-fm-uni-after.icon-gallery-after:after,.sprite-fm-uni-before.icon-gallery-before:before,.sprite-fm-uni.icon-gallery{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-gallery)
+}
+.sprite-fm-uni-after.icon-gallery-selected-after:after,.sprite-fm-uni-before.icon-gallery-selected-before:before,.sprite-fm-uni.icon-gallery-selected{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-gallery-selected)
+}
+.sprite-fm-uni-after.icon-gif-hover-after:after,.sprite-fm-uni-before.icon-gif-hover-before:before,.sprite-fm-uni.icon-gif-hover{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-gif-hover)
+}
+.sprite-fm-uni-after.icon-google-after:after,.sprite-fm-uni-before.icon-google-before:before,.sprite-fm-uni.icon-google{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-google)
+}
+.sprite-fm-uni-after.icon-hazard-after:after,.sprite-fm-uni-before.icon-hazard-before:before,.sprite-fm-uni.icon-hazard{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-hazard)
+}
+.sprite-fm-uni-after.icon-history-after:after,.sprite-fm-uni-before.icon-history-before:before,.sprite-fm-uni.icon-history{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-history)
+}
+.sprite-fm-uni-after.icon-home-after:after,.sprite-fm-uni-before.icon-home-before:before,.sprite-fm-uni.icon-home{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-home)
+}
+.sprite-fm-uni-after.icon-ideal-after:after,.sprite-fm-uni-before.icon-ideal-before:before,.sprite-fm-uni.icon-ideal{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-ideal)
+}
+.sprite-fm-uni-after.icon-info-after:after,.sprite-fm-uni-before.icon-info-before:before,.sprite-fm-uni.icon-info{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-info)
+}
+.sprite-fm-uni-after.icon-instagram-after:after,.sprite-fm-uni-before.icon-instagram-before:before,.sprite-fm-uni.icon-instagram{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-instagram)
+}
+.sprite-fm-uni-after.icon-jcb-after:after,.sprite-fm-uni-before.icon-jcb-before:before,.sprite-fm-uni.icon-jcb{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-jcb)
+}
+.sprite-fm-uni-after.icon-jcb-new-after:after,.sprite-fm-uni-before.icon-jcb-new-before:before,.sprite-fm-uni.icon-jcb-new{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-jcb-new)
+}
+.sprite-fm-uni-after.icon-keepassxc-after:after,.sprite-fm-uni-before.icon-keepassxc-before:before,.sprite-fm-uni.icon-keepassxc{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-keepassxc)
+}
+.sprite-fm-uni-after.icon-lastpass-after:after,.sprite-fm-uni-before.icon-lastpass-before:before,.sprite-fm-uni.icon-lastpass{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-lastpass)
+}
+.sprite-fm-uni-after.icon-link-after:after,.sprite-fm-uni-before.icon-link-before:before,.sprite-fm-uni.icon-link{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-link)
+}
+.sprite-fm-uni-after.icon-linkedin-after:after,.sprite-fm-uni-before.icon-linkedin-before:before,.sprite-fm-uni.icon-linkedin{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-linkedin)
+}
+.sprite-fm-uni-after.icon-loader-throbber-light-outline-after:after,.sprite-fm-uni-before.icon-loader-throbber-light-outline-before:before,.sprite-fm-uni.icon-loader-throbber-light-outline{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-loader-throbber-light-outline)
+}
+.sprite-fm-uni-after.icon-loading-after:after,.sprite-fm-uni-before.icon-loading-before:before,.sprite-fm-uni.icon-loading{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-loading)
+}
+.sprite-fm-uni-after.icon-lock-after:after,.sprite-fm-uni-before.icon-lock-before:before,.sprite-fm-uni.icon-lock{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-lock)
+}
+.sprite-fm-uni-after.icon-maestro-after:after,.sprite-fm-uni-before.icon-maestro-before:before,.sprite-fm-uni.icon-maestro{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-maestro)
+}
+.sprite-fm-uni-after.icon-mastercard-after:after,.sprite-fm-uni-before.icon-mastercard-before:before,.sprite-fm-uni.icon-mastercard{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-mastercard)
+}
+.sprite-fm-uni-after.icon-mastercard-border-after:after,.sprite-fm-uni-before.icon-mastercard-border-before:before,.sprite-fm-uni.icon-mastercard-border{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-mastercard-border)
+}
+.sprite-fm-uni-after.icon-mastercard-new-after:after,.sprite-fm-uni-before.icon-mastercard-new-before:before,.sprite-fm-uni.icon-mastercard-new{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-mastercard-new)
+}
+.sprite-fm-uni-after.icon-mega-logo-after:after,.sprite-fm-uni-before.icon-mega-logo-before:before,.sprite-fm-uni.icon-mega-logo{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-mega-logo)
+}
+.sprite-fm-uni-after.icon-new-after:after,.sprite-fm-uni-before.icon-new-before:before,.sprite-fm-uni.icon-new{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-new)
+}
+.sprite-fm-uni-after.icon-nordpass-after:after,.sprite-fm-uni-before.icon-nordpass-before:before,.sprite-fm-uni.icon-nordpass{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-nordpass)
+}
+.sprite-fm-uni-after.icon-owner-after:after,.sprite-fm-uni-before.icon-owner-before:before,.sprite-fm-uni.icon-owner{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-owner)
+}
+.sprite-fm-uni-after.icon-payment-after:after,.sprite-fm-uni-before.icon-payment-before:before,.sprite-fm-uni.icon-payment{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-payment)
+}
+.sprite-fm-uni-after.icon-pending-euro-after:after,.sprite-fm-uni-before.icon-pending-euro-before:before,.sprite-fm-uni.icon-pending-euro{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-pending-euro)
+}
+.sprite-fm-uni-after.icon-phone-after:after,.sprite-fm-uni-before.icon-phone-before:before,.sprite-fm-uni.icon-phone{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-phone)
+}
+.sprite-fm-uni-after.icon-photos-after:after,.sprite-fm-uni-before.icon-photos-before:before,.sprite-fm-uni.icon-photos{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-photos)
+}
+.sprite-fm-uni-after.icon-plan-expiry-after:after,.sprite-fm-uni-before.icon-plan-expiry-before:before,.sprite-fm-uni.icon-plan-expiry{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-plan-expiry)
+}
+.sprite-fm-uni-after.icon-protonpass-after:after,.sprite-fm-uni-before.icon-protonpass-before:before,.sprite-fm-uni.icon-protonpass{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-protonpass)
+}
+.sprite-fm-uni-after.icon-pwm-after:after,.sprite-fm-uni-before.icon-pwm-before:before,.sprite-fm-uni.icon-pwm{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-pwm)
+}
+.sprite-fm-uni-after.icon-question-after:after,.sprite-fm-uni-before.icon-question-before:before,.sprite-fm-uni.icon-question{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-question)
+}
+.sprite-fm-uni-after.icon-raise-hand-after:after,.sprite-fm-uni-before.icon-raise-hand-before:before,.sprite-fm-uni.icon-raise-hand{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-raise-hand)
+}
+.sprite-fm-uni-after.icon-recovery-key-after:after,.sprite-fm-uni-before.icon-recovery-key-before:before,.sprite-fm-uni.icon-recovery-key{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-recovery-key)
+}
+.sprite-fm-uni-after.icon-referral-after:after,.sprite-fm-uni-before.icon-referral-before:before,.sprite-fm-uni.icon-referral{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-referral)
+}
+.sprite-fm-uni-after.icon-rename-after:after,.sprite-fm-uni-before.icon-rename-before:before,.sprite-fm-uni.icon-rename{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-rename)
+}
+.sprite-fm-uni-after.icon-rupay-after:after,.sprite-fm-uni-before.icon-rupay-before:before,.sprite-fm-uni.icon-rupay{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-rupay)
+}
+.sprite-fm-uni-after.icon-send-cloud-drive-after:after,.sprite-fm-uni-before.icon-send-cloud-drive-before:before,.sprite-fm-uni.icon-send-cloud-drive{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-send-cloud-drive)
+}
+.sprite-fm-uni-after.icon-send-computer-after:after,.sprite-fm-uni-before.icon-send-computer-before:before,.sprite-fm-uni.icon-send-computer{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-send-computer)
+}
+.sprite-fm-uni-after.icon-send-requests-after:after,.sprite-fm-uni-before.icon-send-requests-before:before,.sprite-fm-uni.icon-send-requests{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-send-requests)
+}
+.sprite-fm-uni-after.icon-settings-after:after,.sprite-fm-uni-before.icon-settings-before:before,.sprite-fm-uni.icon-settings{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-settings)
+}
+.sprite-fm-uni-after.icon-share-file-after:after,.sprite-fm-uni-before.icon-share-file-before:before,.sprite-fm-uni.icon-share-file{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-share-file)
+}
+.sprite-fm-uni-after.icon-sidebar-collapse-left-after:after,.sprite-fm-uni-before.icon-sidebar-collapse-left-before:before,.sprite-fm-uni.icon-sidebar-collapse-left{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-sidebar-collapse-left)
+}
+.sprite-fm-uni-after.icon-sidebar-collapse-right-after:after,.sprite-fm-uni-before.icon-sidebar-collapse-right-before:before,.sprite-fm-uni.icon-sidebar-collapse-right{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-sidebar-collapse-right)
+}
+.sprite-fm-uni-after.icon-storage-quota-after:after,.sprite-fm-uni-before.icon-storage-quota-before:before,.sprite-fm-uni.icon-storage-quota{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-storage-quota)
+}
+.sprite-fm-uni-after.icon-success-after:after,.sprite-fm-uni-before.icon-success-before:before,.sprite-fm-uni.icon-success{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-success)
+}
+.sprite-fm-uni-after.icon-sun-after:after,.sprite-fm-uni-before.icon-sun-before:before,.sprite-fm-uni.icon-sun{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-sun)
+}
+.sprite-fm-uni-after.icon-takedown-after:after,.sprite-fm-uni-before.icon-takedown-before:before,.sprite-fm-uni.icon-takedown{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-takedown)
+}
+.sprite-fm-uni-after.icon-threads-after:after,.sprite-fm-uni-before.icon-threads-before:before,.sprite-fm-uni.icon-threads{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-threads)
+}
+.sprite-fm-uni-after.icon-transfer-full-meter-after:after,.sprite-fm-uni-before.icon-transfer-full-meter-before:before,.sprite-fm-uni.icon-transfer-full-meter{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-transfer-full-meter)
+}
+.sprite-fm-uni-after.icon-transfer-quota-after:after,.sprite-fm-uni-before.icon-transfer-quota-before:before,.sprite-fm-uni.icon-transfer-quota{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-transfer-quota)
+}
+.sprite-fm-uni-after.icon-transfers-after:after,.sprite-fm-uni-before.icon-transfers-before:before,.sprite-fm-uni.icon-transfers{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-transfers)
+}
+.sprite-fm-uni-after.icon-transfers-selected-after:after,.sprite-fm-uni-before.icon-transfers-selected-before:before,.sprite-fm-uni.icon-transfers-selected{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-transfers-selected)
+}
+.sprite-fm-uni-after.icon-twitter-after:after,.sprite-fm-uni-before.icon-twitter-before:before,.sprite-fm-uni.icon-twitter{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-twitter)
+}
+.sprite-fm-uni-after.icon-union-pay-after:after,.sprite-fm-uni-before.icon-union-pay-before:before,.sprite-fm-uni.icon-union-pay{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-union-pay)
+}
+.sprite-fm-uni-after.icon-unionpay-after:after,.sprite-fm-uni-before.icon-unionpay-before:before,.sprite-fm-uni.icon-unionpay{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-unionpay)
+}
+.sprite-fm-uni-after.icon-upgrade-to-pro-after:after,.sprite-fm-uni-before.icon-upgrade-to-pro-before:before,.sprite-fm-uni.icon-upgrade-to-pro{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-upgrade-to-pro)
+}
+.sprite-fm-uni-after.icon-users-after:after,.sprite-fm-uni-before.icon-users-before:before,.sprite-fm-uni.icon-users{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-users)
+}
+.sprite-fm-uni-after.icon-video-after:after,.sprite-fm-uni-before.icon-video-before:before,.sprite-fm-uni.icon-video{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-video)
+}
+.sprite-fm-uni-after.icon-visa-after:after,.sprite-fm-uni-before.icon-visa-before:before,.sprite-fm-uni.icon-visa{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-visa)
+}
+.sprite-fm-uni-after.icon-visa-border-after:after,.sprite-fm-uni-before.icon-visa-border-before:before,.sprite-fm-uni.icon-visa-border{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-visa-border)
+}
+.sprite-fm-uni-after.icon-visa-new-after:after,.sprite-fm-uni-before.icon-visa-new-before:before,.sprite-fm-uni.icon-visa-new{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-visa-new)
+}
+.sprite-fm-uni-after.icon-warning-after:after,.sprite-fm-uni-before.icon-warning-before:before,.sprite-fm-uni.icon-warning{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-warning)
+}
+.sprite-fm-uni-after.icon-weak-signal-after:after,.sprite-fm-uni-before.icon-weak-signal-before:before,.sprite-fm-uni.icon-weak-signal{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-weak-signal)
+}
+.sprite-fm-uni-after.icon-web-link-after:after,.sprite-fm-uni-before.icon-web-link-before:before,.sprite-fm-uni.icon-web-link{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-web-link)
+}
+.sprite-fm-uni-after.icon-windows-after:after,.sprite-fm-uni-before.icon-windows-before:before,.sprite-fm-uni.icon-windows{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-windows)
+}
+.sprite-fm-uni-after.icon-youtube-after:after,.sprite-fm-uni-before.icon-youtube-before:before,.sprite-fm-uni.icon-youtube{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#icon-youtube)
+}
+.sprite-fm-uni-after.mime-image-stack-solid-after:after,.sprite-fm-uni-before.mime-image-stack-solid-before:before,.sprite-fm-uni.mime-image-stack-solid{
+	background-image:url(../imagery/sprites-fm-uni-uni.489f43a16f06c995.svg#mime-image-stack-solid)
+}
+
