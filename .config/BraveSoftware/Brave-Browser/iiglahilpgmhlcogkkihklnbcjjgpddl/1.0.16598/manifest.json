@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAypc9kkULwkl0+NmhXX7MZNsoF/G3QaMJ/sYa468w7rhQzJ8PMkfeGeYtMQnvpLh3pALw4Y0gAlTwWaK21BZWdrsAyjk4IM+gTsztSrK7ffflw4usQSlOI0MJpJ1lj9pKCSeux0Pr0P+mGFWMDIxDyefBbUkMzM1JmsVXsDHVpoHikepAKkBKwW0F8Uzv0jFa1M5BxRK5n9nLOxTA3gCmcxUjeLMAYtQvzGf5pg/YwHz64J+snbwEJo8Lo9dUcpLk9ZoNuMqgoVa7UV4FgXCYhT3c3/cyK6673gy33WW5I+0tu9qTpY263StQ1hUWx2LnylJ4qbI8kKqotiGJy2JoLwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (BitBlock Дополнительная подписка фильтров (plaintext))",
-  "version": "1.0.16598"
-}

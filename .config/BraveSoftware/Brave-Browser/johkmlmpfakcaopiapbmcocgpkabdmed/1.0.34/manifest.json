@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5ndE+g/8K+nvdkIEct4mtVFQpexmeklQqtbBstIw2hI5aF+HAvgtMk5RTn0qicwGku1kCJEn0TDP8IbAMhgcODc3BzCmPwnE/oHJ9EvO56+doo8SL5SJaQ1ws2Os1lOZeatnKWr07SaCL39M/Ychvj3yccDVer7T339XmZ/TvkaKMlrKoFYGJzoGPjoBS7vw2SvsFWHCgsVEtpbGEXZD029z1YaNDGPBPvnuk30Ir9sPw4uurqTZxR9RKquJB/QBm3l/eT3UICED30yFthpP+8DVLpH6J5lKM9EqD8df4VyiSjotYAqNNJKgTNWOzQeFud/t26sQgyXGVUBBT2VNEwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (EasyList Thailand (plaintext))",
-  "version": "1.0.34"
-}

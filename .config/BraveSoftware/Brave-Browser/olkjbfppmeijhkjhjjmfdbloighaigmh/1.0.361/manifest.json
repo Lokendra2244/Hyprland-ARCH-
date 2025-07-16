@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxNZ6zkktNhRLBkb0qCtQqkqt8mNTapW+0dO8s23+cjHz/pcVHOb5dIWvuF1OtyZOYFojIhx6GmTNPQ/RtwMO5TSwUbLQTHmN/n+e2/kalV0OO21SAXOG4C7myNGa3FClPRTY9vGmGLCtMGkak5I70CbaLrjemO27gxrWWi2C1vfYHzzCkt3wriY7ZE8Xo2SGZSJ2z52Q/xMJVviF2xXXnL56ZvpDifoM3KYMacXPMa9nzOvZ6KHXmmqHKFNl59LmujK1SH2p8sPbz7FykXVgfZedU8Ul7qfLWwGUcliLlALE6X0lLvEtiX60nz3dZIrvZAfagsjayDsCydf0lQ79ZwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (ABPindo (plaintext))",
-  "version": "1.0.361"
-}

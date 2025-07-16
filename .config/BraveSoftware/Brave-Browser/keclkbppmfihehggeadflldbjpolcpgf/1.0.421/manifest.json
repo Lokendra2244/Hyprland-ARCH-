@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArAhgRAugxeTTvhXNSRQJ9nE1mmECE9i6HgJjNhyG/XXIKWSzCcbu5wmjOPN11iLjNVHdLZMcKnAqgFbieAVxVRFJdWG6V//E5QZRjZ90g+OCgE7wx7W3BoJUynOWirGuaJUyYv8T6qvLqeYm6RtPMgrfZGxUJ9+PDWCtz0e0St09RtXdPhr4Ft2Yk41xda8D40rzgr+tnNo1FwSdysMbLA5xjD7pqSVNR0b/ivFt8S5o6klEifZywqlmNcfpeLFqhBBfNGGr6xIy0EGxo9HNjdQ5lrn9Cx/bL9kaKiYKuGOsERkSNfrGipnDMZqtTGSY1ECEXaY4IiXVkqYJ798egQIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (PersianBlocker (plaintext))",
-  "version": "1.0.421"
-}

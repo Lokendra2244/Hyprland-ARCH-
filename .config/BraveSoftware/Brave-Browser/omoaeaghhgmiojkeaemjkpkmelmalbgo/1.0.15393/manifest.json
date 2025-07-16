@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy/xbKx4WIC1LApciemKEs4rUz8MspYGqLzmhQwIsp6qOqMKiYA9pqOtUXx2TYRPkZODISGSsoqvTZ6Uv7Aerq0Bu06UiDy+H4yU0jFZPVDKsMfj9Ky0DAy7ocuetTIps5Aewx5S0S8g9zeI14PluhqsXlTMLQAqkFeUSsML0qHo94Zgx4T1AwHH8IjvsHB1456OCRjxlTICGL0hEwZdEV2rVYWXtkLzEDZ6guPmvEVKZIhey1DG9fXV57SFCLmBC2eTlv0rYDqqgK6KSUeqyAIHV4eiaqIPMgsRFVnE9JD/Q9xrjeAuFc3pslx4YKI+iuXgfa/8jGpPuKqcDX51F/QIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (Fanboy's Annoyances + uBO Annoyances (plaintext))",
-  "version": "1.0.15393"
-}

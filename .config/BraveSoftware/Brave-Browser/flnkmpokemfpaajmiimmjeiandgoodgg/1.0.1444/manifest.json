@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwwUZwUB8V3M17u9iE4xJlqee5tpabVHr4SUZJMdcxUVYi0gPLSQfWHNUR9HqXy4/b92OmPwOHcp1d7gereg8ave7d6syQB3R6xZLM04ESK949zUAzuYGmTSGPgBmC9O09tAw+dmHrHNXi2zKUf/bU0nOXyYtRqPq9UYxIIxq51nqgIqvUdvX2iwVPGVEXOxgKG3zCF8Z4U9tImWYYAq2cb3LbM2+b6w++PsnhwN6XIFFV2KsYVhtrOnzpgE3M+1cI2BT6N9prYIyP55MHfvU7La/VfqgmRVjH+qASJw0kGy1T/c7R4DLPHaND1L0MY7GjwRxAgPct3eTha+weL01vwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (AdGuard Français (plaintext))",
-  "version": "1.0.1444"
-}

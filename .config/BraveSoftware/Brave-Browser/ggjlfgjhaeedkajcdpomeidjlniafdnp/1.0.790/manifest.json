@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtMkbz7fkdzW7Gh+/F9yhFSSNRpWYe1FRYEkVPxClGGL7yta9cwmskmDqskAHaIP5JRQuvgJ71cSUgBWtUmDyhB4Cl5ZE6VSpe88xJxcrOctpwewwqbpwZB2/8PMkQFPXkjLoc1VvYXHRdjXVZumQq0wq3xnWNcp+o7WHebgciZIEBaXWyvg7Ire156qx0ru4AnxAkccKrv/iHCaKy7dcaEj7Npw85/s0zhLIK4jfwdYRe3/U1Tpilgq6R6JQ1rsN0eCi7aGuam9p7v5JZH8823NZ97jkURAJDJTfvY7U8auca1pSiBSzPBIrfkNXN6D0lRcLdO6Bm6cs52JbxYo4MwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (Frellwit's Swedish (plaintext))",
-  "version": "1.0.790"
-}

@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq4DOoN3zveE7ONh3iRIPviaozVzBunIpB/OWAstnsZDboVgAHUqMdt4cIG/dnN48YSQJPdcNfFOvQeU1OxWihL14cUOa5A/Q6oW9tZiMoBBm8K1PSiDtH28TaUvLQHLfuSfEKY4pL0B7UOmgqwzoyqZWqYqSwaTcUVvkaNagyOW4Uq8FiOhaox7H3hMeXPysI8kdfT0DdOd0+baufFQhnYaiLFecRX+VHgm4FeUNH14wXwnrXlT56l2g5w5IyC0P6wuTQTUPhYadChACDOMpMnOncbkNqIwzOFOMs/HtWD0lt788hUBPn/JjK1tskrkAkEtGHq8xxvSxcLYVy1HCsQIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (Brave Twitch Adblock Rules (plaintext))",
-  "version": "1.0.5"
-}

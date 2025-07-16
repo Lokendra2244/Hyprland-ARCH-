@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsPK8KQaEM2wDchLR8GfV40qmWdwi2QPpKhBq62Tihw7gmFjKNIQN26fHB+NDn8H/GC5XCmZD2uAMrRvcfR043imLWnCmBU5cHtPoQNAN/VWeffzOMaNn5JIMlpwtFZDfISXAaDiNMPLY1uEEVuVwqoX4bA/U6VfCnkIQcQwGJO58AH50Dk0Deq2xgUWmFpJgCMwGcp0Hv1OEERcVhtmpoaetVtfkUmBsOd0CwcSdT4p9zMXWRuHGmgbMayBXL63hksmnNUBYcyzUqxSDwA4OqaLaNZovLc3CMgVXQ55n3wpo+HmMDhr4OLWULgXsZDne5wehZS6QOaR0G+bqOmev7QIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (Romanian Ad (ROad) (plaintext))",
-  "version": "1.0.172"
-}

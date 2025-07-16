@@ -1,6 +1,0 @@
-2025/07/16-14:40:58.257 1a72 Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/16-14:40:58.257 1a72 Recovering log #3
-2025/07/16-14:40:58.263 1a72 Reusing old log /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
-2025/07/16-14:41:21.758 1a64 Level-0 table #5: started
-2025/07/16-14:41:21.780 1a64 Level-0 table #5: 3142430 bytes OK
-2025/07/16-14:41:21.782 1a64 Delete type=0 #3

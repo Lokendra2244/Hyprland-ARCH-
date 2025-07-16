@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx9d8o+kM4IcgkHERTS82gnn8jdvOaTqJ8YPV+vbiOEzS3ntIawegkGeGB5ZQzxqBdV/v17L1cG9Ze5RvqdHw2eqiRPWREwUw5G3TvvH4NAteGtx8+9xv82s+Vt4skM4bUfvm75uroz4wpAFpCwgpHnR3w8m3cnq4vTog/z4xVd6Z2cR5VSbuH/9S9RoboyLrse95XxMlb4mLDi+vIf9xbLrOYTknw3LQNrSb89+LL90h/XeyDHuHkfeqfAZaJ3g3E50u45nFhgHQQEz4V0vg1jL2PMmQmm01MrZCeC6o3FbTZXHReH0X2EDgaxhi/nq4SSYlPLuCvuHIQAojGu0YFwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (Eesti Saitidele Kohandatud (plaintext))",
-  "version": "1.0.30"
-}

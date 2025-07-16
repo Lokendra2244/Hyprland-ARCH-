@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA258rAhhideU4koO8wXSn+mgxg+PBAv3+4fYEgf8ezDIOb0zXikwunPGMUCX1Z7dpyqhzYjtYFZvdPlXWJglEA4mpRpQjb5MUKALRC5oQopDhQnZlwhL5YtPYEo60yisqAEFrBm+ngdchqI/41AZuAqY0eNu6in5wxoW2norZigFMovXDWGSEOt63cpXg9KjcwN02cH26k2DO2jLLUFkjRCy6v1XKFufBMoGc6T1MB5wzonFeh1uZvJHJV/M6P+NZuRG4F6SimF365Uq11bvgLzE49tIWVXdkt5MxPzJESr/+r6M+AfGK5nt5tyWDRAW5Wrp74ae2T7p3e0grkqNeuwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (Adguard Dutch (plaintext))",
-  "version": "1.0.627"
-}

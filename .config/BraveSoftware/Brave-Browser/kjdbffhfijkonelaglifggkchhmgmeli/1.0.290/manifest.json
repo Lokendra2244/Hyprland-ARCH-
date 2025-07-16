@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr4vfQONxziLBVdFe1dHEjn5Ut+TcO62xyF0yfF9MVZqnOq00SNzyhUbXyzU6HxSzLU/eMkmTeIBJ3h+f4f3TPirs6s+EtqJkZ8R4er5aHhexGLKUt3uhkLv1IYYw9JimsfxMQOKWtz1O2MmbJJ5HcQ1jQQ613x6SOWtPpkeH0FdcwSiV83DJMVUjVFNwBdl2zjqulQP1M6geNt6eSNN++p2oB+K5kfpMAPopRuRfhZ1spDSm65qfBGGYfgPl6FanfFpTMm/U/vC76KeoMW/xpQw3s1TQeQDY3QywBWasUxmxiJN0DRsVapCAFqT0dXQ+Q3GCCCGPSB1+EUusnSJpgQIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (Dandelion Sprout's Nordic (plaintext))",
-  "version": "1.0.290"
-}

@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7xknL/MMlSEoLkHDXwyP7S9c2e9q2bYvfBeaA0ZOQG4O3hB0AInjki37iHINkQX/UAEprDDqwNOO0Xp/pWBWItrFYkgPmgfzoaMZ7PnwUiA7/+9Z+JoKJcqJTWI7VlVmUpeclWcL+hqdhcjVGdGK4Y8wupADUpasqsG0mjwlpQ4ur0+G6qJIvbYB95L6Jk1OjwE89RjxYQNPw0cb0bxWUDZ1uLSJHe6eMvMH4P6V8ihwltHG0FpZ6B9U2uV6r1KeTWCbfsWJJLPmzCW861/lSJtOSBynVcsS8m0vD+UHFZn0IbqoLOJZpqvtZCTjl5pC6WOY1TP39J5WoLJtXXO0mwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (Hufilter (plaintext))",
-  "version": "1.0.469"
-}

@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvr/tGn/LAkKrRrt9PVmtyFvKMhSEVj/OuUsD3Jorj+U3TU06Akg8YkGg08rrfjuZjFTtBoniCgtQsnpIuCaRhN/2u95EkGxsS92932YjQQUDMw2chAWaaFKJI1bFSIvvuPAK1lT9RuW/Aa/rpOjDpAZiszVoVMu+ZGNvkheBVm1HbU5rPB24x2kdayzH87wcJS9GxApGa29cXUNUmCZw7w0JNqd76/i86SZBdjXtlPQz1LynLTGyyCUC2sqlcn+lVNVTkGA86EQwM/GTrknGaqyArIoeJMgoZ2WCOOozz0RO6RDPbDHemLE/9+ROHxFwtjhiXbSR+8bbUlKQI2THvwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (IndianList (plaintext))",
-  "version": "1.0.16560"
-}

@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwHc3AWJORkPvjY4vthcP1CaLpG5yIga3gADJP4jAfRaqcxQp9f1IIGvtK9+nUerpaomRMTjJYNm1lQk0uq9EAcQjdb1JWl/MOh3OGlhZ3oYLTNqMW/ZbMHrfGgGD33WXCcQElu1nNOHUxJqaFeyOZvI/4LumYrlpADdotoVSJ1pMhrj9iQg+a/GAddBaAGEqYpjF4tNBGPTufmj5L2Grh6Uaue5sLFzH9lNi/VYSlCcXRDrz97EO0tjyNrEQWffuamAAd/ArKDSdjvfAeohGEyTeR5xPq5yysxBQqzryWK17fg9MtS0ZIGBbSyAwT8wctJ9XmpMnGFRL7sXqpYb6eQIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (EasyList Finnish (plaintext))",
-  "version": "1.0.268"
-}

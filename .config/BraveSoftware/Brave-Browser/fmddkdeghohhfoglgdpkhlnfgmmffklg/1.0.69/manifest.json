@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlW+uDh7W9fxDMhekhHT+KeeAnf/I9SHZWNjpXeZ0bdhEqi8BxJ8UQFAABdKp0ZIg5mkurvx8/y3DYXrnM4z2Dd21UDmsweEVsS342RNZKtmxo9QFg/Zi50wwMcaVkGo7l3D/hPHb0Ss+M7y+E4bx9KkilUw786DPSvW1Z8jPKrx60+em/7QluU1LtkLjMXDocgG7bSvx9XV5thcCszXOGgoDVGlosD2gTVljXmtahVFUU2Hh42Iw24bQRc+PFYeqp8f08M7v7G0jmCWcehXWlnrr1wbmqCQvcLr33M9E7z3LisVoVOW+Nx6upsC8MgNDtbgHgub0ZAPm9WemZ2wfJwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (EasyList Lithuania (plaintext))",
-  "version": "1.0.69"
-}

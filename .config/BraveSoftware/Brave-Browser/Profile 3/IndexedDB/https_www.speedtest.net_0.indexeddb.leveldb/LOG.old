@@ -1,9 +1,0 @@
-2025/07/06-11:34:23.186 47e Creating DB /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/IndexedDB/https_www.speedtest.net_0.indexeddb.leveldb since it was missing.
-2025/07/06-11:34:23.193 47e Reusing MANIFEST /home/AMBHI/.config/BraveSoftware/Brave-Browser/Profile 3/IndexedDB/https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
-2025/07/06-11:34:23.199 47f Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/07/06-11:34:23.208 483 Level-0 table #5: started
-2025/07/06-11:34:23.210 483 Level-0 table #5: 6638 bytes OK
-2025/07/06-11:34:23.212 483 Delete type=0 #3
-2025/07/06-11:34:23.212 482 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/07/06-11:34:23.215 47f Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/07/06-11:34:23.215 47f Manual compaction at level-1 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

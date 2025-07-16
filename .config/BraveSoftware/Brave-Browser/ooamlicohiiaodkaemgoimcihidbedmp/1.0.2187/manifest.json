@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3NaOxndIgpo142VxPI2iWEKwvfFbKsQpxZeGzLGbhO7SwFi7AcEBvDOS6Ufc2PQ3Cz7+TxvUO8a4uEVK/SEiNtMhfL7LGlfMyxV17hIJEjWN1ytEEAALjXJFyVkcz0pAhPC0RY/ti378dSLYL9HetA4XfeO0aC7l23dirQMZMRPfSFvzaZtrp2t35PbQCuMqDW9jbPtdwSSswa7wVYFdafaT48WDuMxxKrggWikMBDxE9/Jihd7179Bd0pmlVreBsWhj+LjLUkf+j4UksUiyttKgQ3+5ZyV5k/tzmhN2HaJC9/q+hvboBz1giOcpSb7u4PbmA82o1K62nKS5c77nTwIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (ABPVN (plaintext))",
-  "version": "1.0.2187"
-}

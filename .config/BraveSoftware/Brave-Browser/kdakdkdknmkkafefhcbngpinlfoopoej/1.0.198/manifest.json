@@ -1,7 +1,0 @@
-{
-  "description": "Brave Ad Block Updater extension",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6OM0Ert1wGZ5bOxBO4Z8qikIwBWLZpXnL4Fy8zhu1NOfCODMHxv4WdEZLaQrSgpInAeHi7u0d0doNrBx96wwRJmm4Ng+HlP/dHtihNGWz1yAcrRoKzqQzwsb1Ty+4TPeKRcJEf1JJv7aveb4s3Z80Oo3C0UftdCDx/R7cXWkGqFB6I5CmtpcWWcLtLfb0sIKl3HE3rfDPclqK4sM46OOi7iGAlfk9RVcWsVv6on0yZHInT2T0QCWwvS2KnwuntARJ0jmIoQf8MrrfwwuchFrqyZ3+D0pZzg3NIXLSQSoVKySAOAafTE+NIQzElT9pVJPfFkJ/1kYRUGoIuc/OlnN8QIDAQAB",
-  "manifest_version": 2,
-  "name": "Brave Ad Block Updater (EasyList Hebrew (plaintext))",
-  "version": "1.0.198"
-}
