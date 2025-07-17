@@ -113,7 +113,7 @@
         "on-click-right" : "/home/AMBHI/.config/waybar/scripts/clock.sh",
     },
     "cpu": {
-        "on-click": "kitty -e btop",
+        "on-click": "kitty -e htop",
         "format": "{usage}% ",
         "tooltip": false
     },
